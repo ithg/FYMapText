@@ -1,0 +1,19 @@
+"Console_T"
+{
+	"||| WARMUP ROUND |||"
+	{
+		"chi"		"** **"
+	}
+	"<Growth gun has been acquired>"
+	{
+		"chi"		"** **"
+	}
+	"<Ammo gun has been acquired>"
+	{
+		"chi"		"** **"
+	}
+	"||| CHAPTER 1 => RETURN |||"
+	{
+		"chi"		"** **"
+	}
+}

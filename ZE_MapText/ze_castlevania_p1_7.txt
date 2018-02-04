@@ -1,0 +1,583 @@
+"Console_T"
+{
+	"***ENEMY INCOMING***"
+	{
+		"chi"		"**敌人的船只到来注意**"
+	}
+	"***MAN THE CANNONS***"
+	{
+		"chi"		"**利用我们船只下方的意大利炮攻击对面的船只**"
+	}
+	"***BRING THEM DOWN***"
+	{
+		"chi"		"**水手们努力击倒他们**"
+	}
+	"***STAGE 1 -- THE SHIP***"
+	{
+		"chi"		"**第1关：远航**"
+	}
+	"***BAD WEATHER IS COMING***"
+	{
+		"chi"		"**糟糕我们遇上了坏天气**"
+	}
+	"***WE ARE SURROUNDED BY DARKNESS***"
+	{
+		"chi"		"**我们似乎被黑暗包围了**"
+	}
+	"***KILL THE SEAMONSTER***"
+	{
+		"chi"		"**杀了那只肮脏恶心的怪物**"
+	}
+	"***YOUR BULLETS WONT REACH IT***"
+	{
+		"chi"		"**你的子弹无法打到他的本体**"
+	}
+	"***SHOOT THE TENTACLES***"
+	{
+		"chi"		"**攻击他的触手 别给他机会**"
+	}
+	"***WE DID IT***"
+	{
+		"chi"		"**我们成功了**"
+	}
+	"***WE'RE SAVED***"
+	{
+		"chi"		"**我们顺利的活下来了**"
+	}
+	"***LUFFAREN PROUDLY PRESENTS...***"
+	{
+		"chi"		"**LUFFAREN PROUDLY（地图作者）祝福着你们  翻译：牛肉粉**"
+	}
+	"***ZE_CASTLEVANIA***"
+	{
+		"chi"		"**恶魔城传说**"
+	}
+	"***PREPARE FOR AN EPIC JOURNEY***"
+	{
+		"chi"		"**准备你们史诗的冒险吧**"
+	}
+	"***STAGE COMPLETE***"
+	{
+		"chi"		"**关卡完成**"
+	}
+	"***MOVING ON TO...***"
+	{
+		"chi"		"**我们的船安全的移动着......**"
+	}
+	"***STAGE 2 -- THE TOWN***"
+	{
+		"chi"		"**第二关：小镇**"
+	}
+	"***THE FIRE IS OBSTRUCTING YOUR PATH***"
+	{
+		"chi"		"**火焰阻挡了我们前进的脚步**"
+	}
+	"***HOLD OUT UNTIL IT'S EXTINGUISHED***"
+	{
+		"chi"		"**大家坚持住 我来扑灭这股火焰**"
+	}
+	"***THE FIRE IS OUT***"
+	{
+		"chi"		"**火焰熄灭了**"
+	}
+	"***MOVE IT***"
+	{
+		"chi"		"**大家跟上脚步离开这里**"
+	}
+	"***THE TOWN IS UNDER ATTACK***"
+	{
+		"chi"		"**这个小镇已经被恶魔攻击得尸横遍野**"
+	}
+	"***HOLD OUT AS LONG AS POSSIBLE***"
+	{
+		"chi"		"**请尽可能坚持防守久一点**"
+	}
+	"***SAVE YOURSELVES SOME TIME BY HOLDING THEM BACK***"
+	{
+		"chi"		"**拯救小镇里的人们需要一些时间 各位撑住**"
+	}
+	"***DEFEND THE STAIRS FOR 40 SECONDS***"
+	{
+		"chi"		"**防守楼梯位置40S**"
+	}
+	"***FALL BACK***"
+	{
+		"chi"		"**大家可以撤了**"
+	}
+	"***OPENING GATE***"
+	{
+		"chi"		"**前方道路正在开放**"
+	}
+	"***THE GATE IS OPEN***"
+	{
+		"chi"		"**道路已经开放**"
+	}
+	"***THE DEBRIS IS BLOCKING YOUR PATH***"
+	{
+		"chi"		"**废墟阻挡了我们的道路**"
+	}
+	"***SPAM E ON IT TO REMOVE IT***"
+	{
+		"chi"		"**想办法清理这些废墟**"
+	}
+	"***THE MORE PEOPLE CLEARING IT THE FASTER IT WILL TAKE***"
+	{
+		"chi"		"**人越多清理这片废墟的速度就会越快**"
+	}
+	"***YOU MADE IT TO THE TOWN ENTRANCE***"
+	{
+		"chi"		"**你来到了这个小镇的入口处**"
+	}
+	"***HOLD THE ZOMBIES BACK FOR A WHILE***"
+	{
+		"chi"		"**守住 他们来了..........**"
+	}
+	"***TIP - STAY AND HOLD BEHIND THE TOWER***"
+	{
+		"chi"		"**提示：留在塔的后面**"
+	}
+	"***WATCH OUT***"
+	{
+		"chi"		"**当心**"
+	}
+	"***THE OGRE HAS BEEN SLAIN***"
+	{
+		"chi"		"**食人魔已成为我们的枪下魂**"
+	}
+	"***GET ON THE BOARS***"
+	{
+		"chi"		"**快起到猪上面去**"
+	}
+	"***HURRY***"
+	{
+		"chi"		"**动作快点没时间解释了**"
+	}
+	"***THEY ARE AFTER US***"
+	{
+		"chi"		"**他们居然跟上来了**"
+	}
+	"***HOLD THEM BACK WHILE AVOIDING OBSTACLES***"
+	{
+		"chi"		"**守住不要给他们冲过来的机会**"
+	}
+	"***INCOMING BOARS***"
+	{
+		"chi"		"**猪开始奔跑起来**"
+	}
+	"***WATCH OUT AHEAD***"
+	{
+		"chi"		"**当心那些石头**"
+	}
+	"***SEEMS LIKE WE LOST THEM***"
+	{
+		"chi"		"**我们好像失去了他们**"
+	}
+	"***KILL ANY REMAINING ENEMIES***"
+	{
+		"chi"		"**解决掉剩余的敌人**"
+	}
+	"***STAGE 3 -- THE FOREST***"
+	{
+		"chi"		"**第三关：恶魔森林**"
+	}
+	"***MAKE YOUR WAY THROUGH THE FOREST***"
+	{
+		"chi"		"**各位加油 根据地图的指示 穿过这片森林**"
+	}
+	"***HOLD THIS AREA - GATHER EVERYBODY UP***"
+	{
+		"chi"		"**坚守住这片区域 大家凝聚起来**"
+	}
+	"***TIP -- DO NOT RUN INSTANTLY TO THE HOLD***"
+	{
+		"chi"		"**提示：不要贴门 注意防守**"
+	}
+	"***TIP -- PUSH THEM BACK AS YOU FALL BACK - SLOW THEM DOWN***"
+	{
+		"chi"		"** **"
+	}
+	"***MOVE FURTHER INTO THE FOREST***"
+	{
+		"chi"		"**大家向着森林的深处前进**"
+	}
+	"***HOLD YOUR GROUND HERE FOR A WHILE***"
+	{
+		"chi"		"**在这里坚守一下**"
+	}
+	"***TIP -- MAKE SURE TO HOLD BOTH THE TOP AND BOTTOM***"
+	{
+		"chi"		"** **"
+	}
+	"***MIND THE PARALLELL PATH IF ZOMBIFIED***"
+	{
+		"chi"		"**将前方障碍清理**"
+	}
+	"***GET INSIDE THE TOWER THROUGH THE CHAPEL***"
+	{
+		"chi"		"**大家继续前进 通过这片废墟到达教堂**"
+	}
+	"***DEFEND THE CHAPEL***"
+	{
+		"chi"		"**守住这个教堂**"
+	}
+	"***SLOW THE ZOMBIES DOWN***"
+	{
+		"chi"		"**断后 减慢僵尸前进的脚步**"
+	}
+	"***THE CHAPEL TOWER IS OPEN***"
+	{
+		"chi"		"**教堂大门打开了**"
+	}
+	"***YOU HAVE INFILTRATED THE TOWER***"
+	{
+		"chi"		"**你成功渗透进入塔内**"
+	}
+	"***MAKE YOUR WAY TO THE TOP***"
+	{
+		"chi"		"**想办法到达这个塔的顶端**"
+	}
+	"***SOMEONE NEEDS TO GET THE TNT IN ORDER TO BLOW UP THE GATE***"
+	{
+		"chi"		"**有人需要TNT才能炸开这个大门**"
+	}
+	"***TIP -- LET ONE PLAYER CLIMB FOR IT AS THE REST HOLDS THE ZOMBIES OFF***"
+	{
+		"chi"		"** **"
+	}
+	"***TIP -- YOU CAN ALSO BREAK THE GATE USING NORMAL ITEMS***"
+	{
+		"chi"		"** **"
+	}
+	"***TIP -- ...HOWEVER IT WILL TAKE ALOT LONGER***"
+	{
+		"chi"		"** **"
+	}
+	"***CLIMB TOWARDS THE TOP***"
+	{
+		"chi"		"**继续爬向塔的顶端**"
+	}
+	"***PROVE YOUR WORTH***"
+	{
+		"chi"		"**证明你的价值**"
+	}
+	"***CLIMB THE RUBBLE TO GET INSIDE***"
+	{
+		"chi"		"**攀爬这些瓦砾 到达深处**"
+	}
+	"***GOOD LUCK***"
+	{
+		"chi"		"**祝你好运**"
+	}
+	"***MEET YOUR ADVERSARIES...***"
+	{
+		"chi"		"**现在与你的敌人决斗吧**"
+	}
+	"***SLOGRA AND GAIBON***"
+	{
+		"chi"		"** **"
+	}
+	"***DEFEAT SLOGRA***"
+	{
+		"chi"		"**击败SLOGRA**"
+	}
+	"***SLOGRA HAS FALLEN***"
+	{
+		"chi"		"**SLOGRA已经不行了**"
+	}
+	"***IT'S NOT OVER YET***"
+	{
+		"chi"		"**各位还没有结束呢**"
+	}
+	"***DEFEAT GAIBON***"
+	{
+		"chi"		"**击败GAIBON**"
+	}
+	"***GAIBON HAS BEEN DEFEATED***"
+	{
+		"chi"		"**GAIBON也倒下了**"
+	}
+	"***THE TOWER IS COLLAPSING***"
+	{
+		"chi"		"**这个高塔似乎有些问题**"
+	}
+	"***ESCAPE***"
+	{
+		"chi"		"**快逃！！！！！**"
+	}
+	"***GO OUT THROUGH THE MAIN GATE***"
+	{
+		"chi"		"**从大门这里离开**"
+	}
+	"***BEHIND YOU!***"
+	{
+		"chi"		"**保护你自己不要受伤**"
+	}
+	"***WATCH OUT!***"
+	{
+		"chi"		"**当心**"
+	}
+	"***BRIDGE IS LOWERING IN 15 SECONDS***"
+	{
+		"chi"		"**吊桥将于15后放下来**"
+	}
+	"***BRIDGE IS LOWERING***"
+	{
+		"chi"		"**桥正在逐渐降下**"
+	}
+	"***WOMBO COMBO!***"
+	{
+		"chi"		"** **"
+	}
+	"***STAGE 4 -- THE SWAMP***"
+	{
+		"chi"		"**第四关：邪恶沼泽**"
+	}
+	"***HOLD THEM BACK FOR 60 SECONDS***"
+	{
+		"chi"		"**在这里坚守60S**"
+	}
+	"***TIP - DEFEND AND SLOW THE ZOMBIES DOWN ALONG THE WAY***"
+	{
+		"chi"		"**提示：断后减缓僵尸的移动 给贴门玩家更多的时间**"
+	}
+	"***TIP - HUGGING THE WALL WONT HELP YOUR TEAM***"
+	{
+		"chi"		"**HUGGING墙体不会帮助你们**"
+	}
+	"***YOU GET OVERWHELMED BY A FEELING OF DESPAIR***"
+	{
+		"chi"		"**在这里似乎感受到了绝望的气息.....**"
+	}
+	"***EVERYONE GET IN POSITION***"
+	{
+		"chi"		"**大家注意一下位置**"
+	}
+	"***KILL THE SWAMPMONSTER***"
+	{
+		"chi"		"**杀了那个恶心的沼泽怪物**"
+	}
+	"***THE SWAMPMONSTER HAS BEEN SLAIN***"
+	{
+		"chi"		"**沼泽恶魔已被击杀**"
+	}
+	"***ESCAPE INTO THE CAVES***"
+	{
+		"chi"		"**旁边有个洞穴 大家向里面转移**"
+	}
+	"***THE CAVES WILL COLLAPSE IN 20 SECONDS***"
+	{
+		"chi"		"**洞穴大门将于20S后关闭**"
+	}
+	"***HOLD THEM OFF***"
+	{
+		"chi"		"**守住这里 别让他们过来**"
+	}
+	"***THE CAVES WILL COLLAPSE IN 5 SECONDS***"
+	{
+		"chi"		"**洞穴大门还有5S关闭**"
+	}
+	"***STAGE 5 -- THE CAVES***"
+	{
+		"chi"		"**第五关：蜘蛛洞穴**"
+	}
+	"***USE THE TNT TO OPEN UP THE BLOCKADE***"
+	{
+		"chi"		"**使用TNT炸开前面的墙体**"
+	}
+	"***TIP -- DONT WASTE THE TORCHES***"
+	{
+		"chi"		"** **"
+	}
+	"***THE ELEVATOR IS LEAVING IN 30 SECONDS***"
+	{
+		"chi"		"**电梯还有30S离开此处**"
+	}
+	"***TIP -- DEFEND AS EARLY ON AS POSSIBLE***"
+	{
+		"chi"		"** **"
+	}
+	"***TIP -- DEFENDING THE UPPER SECTION IS CRUCIAL***"
+	{
+		"chi"		"** **"
+	}
+	"***THE ELEVATOR IS LEAVING IN 20 SECONDS***"
+	{
+		"chi"		"**电梯还有20S离开此处**"
+	}
+	"***THE ELEVATOR IS LEAVING IN 10 SECONDS***"
+	{
+		"chi"		"**电梯还有10S离开此处**"
+	}
+	"***THE ELEVATOR IS LEAVING IN 5 SECONDS***"
+	{
+		"chi"		"**电梯还有5S离开此处**"
+	}
+	"***THE ELEVATOR IS LEAVING***"
+	{
+		"chi"		"**电梯正在上升**"
+	}
+	"***HOLD OUT FOR 30 SECONDS***"
+	{
+		"chi"		"**坚守这里30S**"
+	}
+	"***20 SECONDS LEFT***"
+	{
+		"chi"		"**还有20S 大家坚持**"
+	}
+	"***10 SECONDS LEFT***"
+	{
+		"chi"		"**还有10S各位准备一下**"
+	}
+	"***5 SECONDS LEFT***"
+	{
+		"chi"		"**最后5S了 大家丢雷离开这里**"
+	}
+	"***THE SPIDER WEB IS SLOWING US DOWN***"
+	{
+		"chi"		"**蜘蛛网使我们的移动变得缓慢**"
+	}
+	"***DEFEND FOR 20 SECONDS***"
+	{
+		"chi"		"**在这里坚守20S 我来给大家开路**"
+	}
+	"***SOMETHING IS CHASING US***"
+	{
+		"chi"		"**有些东西似乎在追赶着我们**"
+	}
+	"***RUN FOR YOUR LIFE***"
+	{
+		"chi"		"**加快步伐 不要停下**"
+	}
+	"***ITS COMING***"
+	{
+		"chi"		"**有什么东西正在靠近**"
+	}
+	"***KILL THE SPIDER QUEEN***"
+	{
+		"chi"		"**杀了这个蜘蛛女王**"
+	}
+	"***THE SPIDER QUEEN HAS BEEN SLAIN***"
+	{
+		"chi"		"**蜘蛛女王已被击败**"
+	}
+	"***STAND YOUR GROUND FOR 20 SECONDS***"
+	{
+		"chi"		"**找到出去的路 并防守20S**"
+	}
+	"***ESCAPE TOWARDS THE SURFACE***"
+	{
+		"chi"		"**快逃离这个鬼地方**"
+	}
+	"***THE ELEVATOR WILL ASCEND IN 30 SECONDS***"
+	{
+		"chi"		"**电梯将于30S后上升**"
+	}
+	"***THE ELEVATOR WILL ASCEND IN 20 SECONDS***"
+	{
+		"chi"		"**电梯将于20S后上升**"
+	}
+	"***THE ELEVATOR WILL ASCEND IN 10 SECONDS***"
+	{
+		"chi"		"**电梯还有10S后上升**"
+	}
+	"***THE ELEVATOR WILL ASCEND IN 5 SECONDS***"
+	{
+		"chi"		"**电梯还有5S就离开了**"
+	}
+	"***THE ELEVATOR IS ASCENDING TOWARDS THE SURFACE***"
+	{
+		"chi"		"**电梯已上升 终于离开这黑暗的洞穴了**"
+	}
+	"***STAGE 6 -- THE MOUNTAIN***"
+	{
+		"chi"		"**第六关：冰封雪山**"
+	}
+	"***HOLD HERE FOR 15 SECONDS***"
+	{
+		"chi"		"**坚守这个15S**"
+	}
+	"***TIP -- A STRONG ENOUGH ITEM COULD BREAK THE SNOW***"
+	{
+		"chi"		"** **"
+	}
+	"***WE HAVE AT LAST ARRIVED AT THE CHAPEL***"
+	{
+		"chi"		"**我们终于来到了真正的教堂**"
+	}
+	"***FIND A WAY INSIDE***"
+	{
+		"chi"		"**深入调查这个教堂**"
+	}
+	"***HOLD FOR 20 SECONDS***"
+	{
+		"chi"		"**坚守这里20S**"
+	}
+	"***STAND BACK***"
+	{
+		"chi"		"**大家退后**"
+	}
+	"***IT'S A SNOW TITAN***"
+	{
+		"chi"		"**那是.....寒冰巨人**"
+	}
+	"***IT'S ABOUT TO ATTACK***"
+	{
+		"chi"		"**即将发动攻击**"
+	}
+	"***FALL BACK TO THE CHAPEL***"
+	{
+		"chi"		"**大家快撤入教堂的内部**"
+	}
+	"***HOLD HERE FOR 20 SECONDS***"
+	{
+		"chi"		"**坚守这个地方20S**"
+	}
+	"***THE TITAN IS MOVING***"
+	{
+		"chi"		"**冰霜巨人正在靠近**"
+	}
+	"***DEFEND FOR 15 SECONDS***"
+	{
+		"chi"		"**坚守这里15S**"
+	}
+	"***HOLD YOUR GROUND HERE***"
+	{
+		"chi"		"**在这里坚守下去**"
+	}
+	"***CLIMB TO THE TOP OF THE CHAPEL***"
+	{
+		"chi"		"**加油 攀爬到教堂的顶部**"
+	}
+	"***DEFEAT THE SNOW TITAN BEFORE IT KILLS US ALL***"
+	{
+		"chi"		"**击败冰霜巨人 他想用最后的力量终结我们**"
+	}
+	"***THE SNOW TITAN FELL OFF***"
+	{
+		"chi"		"**冰霜巨人倒下了**"
+	}
+	"***STAGE 7 -- THE ROAD TO CASTLE DRACULA***"
+	{
+		"chi"		"**第七关：德古拉城堡**"
+	}
+	"***...IN THE NEXT VERSION...***"
+	{
+		"chi"		"**敬请期待下一个版本更新内容**"
+	}
+	"***YOU FAILED***"
+	{
+		"chi"		"** **"
+	}
+	"***WOMBO COMBO ENDED!***"
+	{
+		"chi"		"** **"
+	}
+	"***YOU DID IT***"
+	{
+		"chi"		"** **"
+	}
+	"***THE SNOW TITANS ATTACK HAS BEEN INTERRUPTED***"
+	{
+		"chi"		"** **"
+	}
+}

@@ -1,0 +1,243 @@
+"Console_T"
+{
+	"** LEVEL: NOT TOO ROUGH **"
+	{
+		"chi"		"**第一关：魔♂男的基地**"
+	}
+	"** Map by Night Fury **"
+	{
+		"chi"		"**地图作者:Night Fury 翻译：牛肉粉**"
+	}
+	"** Door opening in 30 seconds! **"
+	{
+		"chi"		"**大门将于30S后打开**"
+	}
+	"** Door opening in 10 seconds! **"
+	{
+		"chi"		"**大门将于10S后打开**"
+	}
+	"** Door opened! **"
+	{
+		"chi"		"**大门打开了**"
+	}
+	"** Door opening in 25 seconds! **"
+	{
+		"chi"		"**大门将于25S后打开**"
+	}
+	"** Door opening in 25 seconds **"
+	{
+		"chi"		"**大门将于25S后打开**"
+	}
+	"** Door opening in 10 seconds **"
+	{
+		"chi"		"**大门将于10S后打开**"
+	}
+	"** Door Opening in 23 Seconds **"
+	{
+		"chi"		"**大门将于23S后打开**"
+	}
+	"** Opening door in 15 Seconds!! **"
+	{
+		"chi"		"**大门将于15S后打开**"
+	}
+	"** Resist! a few seconds more **"
+	{
+		"chi"		"**坚守住 大门过会就会打开**"
+	}
+	"** Exit door opening in 40 seconds! **"
+	{
+		"chi"		"**最后的大门将于40s后打开**"
+	}
+	"** Exit door opening in 10 seconds! **"
+	{
+		"chi"		"**最后的大门还有10S后打开**"
+	}
+	"** Exit door opened! **"
+	{
+		"chi"		"**最后的大门打开了**"
+	}
+	"** BAD WIN!! ZOMBIES DETECTED!! **"
+	{
+		"chi"		"**坏结局！！ 僵尸过来了（不妨碍通关）**"
+	}
+	"** Exit door closing in 15 seconds! **"
+	{
+		"chi"		"**最终大门将于15S后关闭**"
+	}
+	"** Exit door closed! **"
+	{
+		"chi"		"**最终大门已关闭**"
+	}
+	"** LEVEL: NO REST FOR LIVING **"
+	{
+		"chi"		"**第二关：永无止♂尽**"
+	}
+	"** Opening Door... **"
+	{
+		"chi"		"**大门打开中~~~~**"
+	}
+	"** Door opening in 20 seconds! **"
+	{
+		"chi"		"**大门还有20S就打开了**"
+	}
+	"** Door Opened **"
+	{
+		"chi"		"**大门打开~~~~~**"
+	}
+	"** Door Opening in 15 Seconds !!!**"
+	{
+		"chi"		"**大门将于15S后打开**"
+	}
+	"** Opening door in 20 Seconds **"
+	{
+		"chi"		"**大门还有20S就打开了**"
+	}
+	"** Opening door in 10 Seconds **"
+	{
+		"chi"		"**大门还有10S就打开了**"
+	}
+	"** Elevator Leaving in 35 Seconds...**"
+	{
+		"chi"		"**电梯35S后离去~**"
+	}
+	"** Elevator Leaving in 10 Seconds...**"
+	{
+		"chi"		"**电梯还有10S就走了**"
+	}
+	"A player has aquired the soulsphere powerup!"
+	{
+		"chi"		"**某玩家拿到了狂暴水晶**"
+	}
+	"Soulsphere power has 2 charges and a 120 second cooldown!"
+	{
+		"chi"		"**狂暴水晶可以使用两次 每次的CD为120S**"
+	}
+	"** LEVEL: NIGHTMARE **"
+	{
+		"chi"		"**第三关：噩梦**"
+	}
+	"A player has aquired berserker powerup!"
+	{
+		"chi"		"**某玩家获得了狂暴能力**"
+	}
+	"Berserker powerup has one charge!"
+	{
+		"chi"		"**狂暴能力只有一次使用机会**"
+	}
+	"** Door opening in 40 seconds! **"
+	{
+		"chi"		"**大门将于40S后打开**"
+	}
+	"Beserker has been enabled!"
+	{
+		"chi"		"**狂暴能力已使用**"
+	}
+	"Beserker charge depleting in 3"
+	{
+		"chi"		"**狂暴能力还剩3S**"
+	}
+	"Beserker charge depleting in 2"
+	{
+		"chi"		"**狂暴能力还剩2S**"
+	}
+	"Beserker charge depleting in 1"
+	{
+		"chi"		"**狂暴能力还剩1S**"
+	}
+	"Beserker charge fully depleted!"
+	{
+		"chi"		"**神器加速结束 你获得了阳痿BUFF(就是神器没用了)**"
+	}
+	"** Opening door in 10 seconds... **"
+	{
+		"chi"		"**大门还有10S后打开**"
+	}
+	"** Opening X door in few seconds **"
+	{
+		"chi"		"**X大门将于数秒后打开**"
+	}
+	"** Teleport active in 40 seconds! **"
+	{
+		"chi"		"**传送将于40S后触发**"
+	}
+	"** Teleport active in 10 seconds! **"
+	{
+		"chi"		"**传送将在10S后触发**"
+	}
+	"** Teleport active! **"
+	{
+		"chi"		"**传送已触发**"
+	}
+	"** Humans have 2 minutes to deafet the boss! **"
+	{
+		"chi"		"**人类将有2分钟的时间击败BOSS**"
+	}
+	"** 10 seconds left to kill boss! **"
+	{
+		"chi"		"**你还有10S的时间搞♂死BOSS**"
+	}
+	"** Humans failed! **"
+	{
+		"chi"		"**你居然失败了 洗好菊花等着被BOSS肛♂吧**"
+	}
+	"** Boss defeated! **"
+	{
+		"chi"		"**BOSS被你搞♂死了**"
+	}
+	"** Zombies have been released! **"
+	{
+		"chi"		"**僵尸从尸笼中解放出来了**"
+	}
+	"** Exit door closing in 40 seconds! **"
+	{
+		"chi"		"**最后的大门还有40S关闭**"
+	}
+	"** Exit door closing in 10 seconds! **"
+	{
+		"chi"		"**最后10S 守住了你就成仙了**"
+	}
+	"First soulsphere charge used!"
+	{
+		"chi"		"**首个狂暴能力被使用**"
+	}
+	"Soulsphere first charge depleted!"
+	{
+		"chi"		"**狂暴能力使用结束**"
+	}
+	"Soulsphere recharged!"
+	{
+		"chi"		"**神器开始充能**"
+	}
+	"Soulsphere final charge used!"
+	{
+		"chi"		"**神器充能完毕**"
+	}
+	"Soulsphere power fully depleted!"
+	{
+		"chi"		"** **"
+	}
+	"** Killing exit room in 10 seconds! **"
+	{
+		"chi"		"** **"
+	}
+	"> ZE UT2004 CONVOY"
+	{
+		"chi"		"** **"
+	}
+	"**Stage 1**"
+	{
+		"chi"		"** **"
+	}
+	"### WELCOME TO CRAZY ESCAPE ###"
+	{
+		"chi"		"** **"
+	}
+	"** BAD WIN!! ZOMBIES DETECTED **"
+	{
+		"chi"		"** **"
+	}
+	"ESCAPE FROM ZOMBIELAND"
+	{
+		"chi"		"** **"
+	}
+}

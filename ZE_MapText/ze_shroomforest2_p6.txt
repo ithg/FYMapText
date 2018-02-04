@@ -1,0 +1,219 @@
+"Console_T"
+{
+	">> Finished by Moltard <<"
+	{
+		"chi"		"** **"
+	}
+	">> WARMUP ROUND <<"
+	{
+		"chi"		">>>预热回合！<<<"
+	}
+	">> 40 SECONDS LEFT <<"
+	{
+		"chi"		">>>剩余40秒！<<<"
+	}
+	">> 30 SECONDS LEFT <<"
+	{
+		"chi"		">>>剩余30秒！<<<"
+	}
+	">> 20 SECONDS LEFT <<"
+	{
+		"chi"		">>>剩余20秒！<<<"
+	}
+	">> Map by Taskuvaras <<"
+	{
+		"chi"		"** **"
+	}
+	">> 10 SECONDS LEFT <<"
+	{
+		"chi"		">>>剩余10秒！<<<"
+	}
+	">> WARMUP ROUND END <<"
+	{
+		"chi"		">>>预热回合结束！<<<"
+	}
+	">> LEVEL: RAVINE <<"
+	{
+		"chi"		"** **"
+	}
+	">> PLAYER HAS PICKED UP ICE <<"
+	{
+		"chi"		">>>玩家捡起了冰！<<<"
+	}
+	">> PLAYER HAS PICKED UP EARTH <<"
+	{
+		"chi"		">>>玩家捡起了土！<<<"
+	}
+	"*** LEAF LEAVING IN 20 SECONDS ***"
+	{
+		"chi"		"**叶片将在20秒后离开！**"
+	}
+	">> PLAYER HAS PICKED UP 6 MINES <<"
+	{
+		"chi"		">>>玩家捡起了6 mines！<<<"
+	}
+	"*** HOLD FOR 30 SECONDS ***"
+	{
+		"chi"		"**坚守30秒钟！**"
+	}
+	"*** 5 MORE SECONDS ***"
+	{
+		"chi"		"**剩余5秒！**"
+	}
+	"*** RUUUN! ***"
+	{
+		"chi"		"**跑啊！**"
+	}
+	">> PLAYER HAS PICKED UP WATER <<"
+	{
+		"chi"		">>>玩家捡起了水！<<<"
+	}
+	">> PLAYER HAS PICKED UP FIRE <<"
+	{
+		"chi"		">>>玩家捡起了火！<<<"
+	}
+	"*** DOOR IS OPEN! RUUUN! ***"
+	{
+		"chi"		"**门开了，快跑啊！**"
+	}
+	">> ITS THE GROKE SHOOT IT !!!!  <<"
+	{
+		"chi"		">>>GROKE,快开枪射它！<<<"
+	}
+	">> PLAYER HAS PICKED UP GRAVITY <<"
+	{
+		"chi"		">>>玩家捡起了重力！<<<"
+	}
+	">> PLAYER HAS PICKED UP WIND <<"
+	{
+		"chi"		">>>玩家捡起了风！<<<"
+	}
+	">> THE GROKE IS DEAD <<"
+	{
+		"chi"		">>>GROKE被打败了!<<<"
+	}
+	">> ESCAPE BY THE LADDER <<"
+	{
+		"chi"		"** **"
+	}
+	"*** FLY LEAVING IN 15 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	">> LEVEL COMPLETED !!! <<"
+	{
+		"chi"		"** **"
+	}
+	">> LEVEL: TV <<"
+	{
+		"chi"		"** **"
+	}
+	"*** FALL BACK !!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ELEVATOR OPENING IN 20 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	">> PLAYER HAS PICKED UP UNLIMITED AMMO <<"
+	{
+		"chi"		"** **"
+	}
+	"*** ELEVATOR LEAVING IN 10 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** FAN STOPPING IN 30 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	">> ALL 6 MINES USED <<"
+	{
+		"chi"		"** **"
+	}
+	"*** FALL BACK ***"
+	{
+		"chi"		"** **"
+	}
+	">> PLAYER HAS PICKED UP HEAL <<"
+	{
+		"chi"		"** **"
+	}
+	">> BREAK THE HEART OF THE TV <<"
+	{
+		"chi"		"** **"
+	}
+	">> THE TV HEART IS DESTROYED <<"
+	{
+		"chi"		"** **"
+	}
+	">> THE BUILDING WILL BLOW UP <<"
+	{
+		"chi"		"** **"
+	}
+	">> ESCAPE BY THE WEB <<"
+	{
+		"chi"		"** **"
+	}
+	"*** WEB LEAVING IN 20 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	">> LEVEL COMPLETED!! <<"
+	{
+		"chi"		"** **"
+	}
+	">> LEVEL: HEAVEN <<"
+	{
+		"chi"		"** **"
+	}
+	"*** CLOUD LEAVING IN 20 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** HEAVEN GATES OPENING IN 25 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** GATE OPENING IN 25 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** DOORS OPENING IN 30 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	">> OH NO!! ITS GOD <<"
+	{
+		"chi"		"** **"
+	}
+	">> TV HEART IS COLLAPSING KEEP SHOOTING !!!!!! <<"
+	{
+		"chi"		"** **"
+	}
+	">> GOD HAS BEEN DEFEATED !!! <<"
+	{
+		"chi"		"** **"
+	}
+	">> RUN TO SAFETY <<"
+	{
+		"chi"		"** **"
+	}
+	"*** BUTTERFLY LEAVING IN 15 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	">> 3 WINS IN A ROW !!! <<"
+	{
+		"chi"		"** **"
+	}
+	">> SECRET MUSIC UNLOCKED FOR ZM ROUND <<"
+	{
+		"chi"		"** **"
+	}
+	">> EXTREME MODE ADDED <<"
+	{
+		"chi"		"** **"
+	}
+}

@@ -1,0 +1,115 @@
+"Console_T"
+{
+	"*** NO ZOMBIE WEAPONS & SMALL INFECTION ***"
+	{
+		"chi"		"** **"
+	}
+	"*** HELPING PUSHES ACTIVATED ON EASY MODE ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ZE INDUSTRIAL DEJAVU - ORIGINALY MADE IN ONE DAY ***"
+	{
+		"chi"		"** **"
+	}
+	"***Map ported by ??????***"
+	{
+		"chi"		"** **"
+	}
+	"*** CURRENT MODE: EASY ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Door opens in 20 seconds! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Resist for 30 seconds! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Resist for 10 more seconds! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** GO! GO! GO! MOVE OUT! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Strangely near door opens in 12 seconds. ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Freezegun has been picked up. Press +USE (E) to activate. 75 seconds cooldown."
+	{
+		"chi"		"** **"
+	}
+	"*** Boat leaves in 40 seconds. ***"
+	{
+		"chi"		"** **"
+	}
+	"*** RESIST!!! 10 SECONDS!!!. ***"
+	{
+		"chi"		"** **"
+	}
+	"*** We did it! Moving on to the NORMAL mode! ***"
+	{
+		"chi"		"** **"
+	}
+	"***Map ported by ??????!***"
+	{
+		"chi"		"** **"
+	}
+	"*** CURRENT MODE: NORMAL ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ZOMBIE WEAPONS & NORMAL INFECTION ***"
+	{
+		"chi"		"** **"
+	}
+	"*** EXIT HELP PUSH ACTIVATED ON NORMAL MODE ***"
+	{
+		"chi"		"** **"
+	}
+	"*Laser wall generator has been picked up. Press +USE (E) to activate.*"
+	{
+		"chi"		"** **"
+	}
+	"*It has a 60 seconds cooldown.*"
+	{
+		"chi"		"** **"
+	}
+	"*** Helicopter comes in 30 seconds. ***"
+	{
+		"chi"		"** **"
+	}
+	"***Evacuate!!!***"
+	{
+		"chi"		"** **"
+	}
+	"*Ammo Box has been picked up. Press +USE (E) to activate.*"
+	{
+		"chi"		"** **"
+	}
+	"*It has a 90 seconds cooldown.*"
+	{
+		"chi"		"** **"
+	}
+	"* Vortex zombie has been summoned. Press +USE (E) to activate.*"
+	{
+		"chi"		"** **"
+	}
+	"*It has a 120 seconds cooldown.*"
+	{
+		"chi"		"** **"
+	}
+	"*** Tested server : Sakura[CS:S],POSSESSION[CS:GO] ***"
+	{
+		"chi"		"** **"
+	}
+	"*** map created by thas ***"
+	{
+		"chi"		"** **"
+	}
+}

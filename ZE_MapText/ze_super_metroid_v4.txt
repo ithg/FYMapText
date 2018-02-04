@@ -1,0 +1,43 @@
+"Console_T"
+{
+	"***Ok marines, listen up.  The last Metroid is being held somewhere here on planet Zebes.***"
+	{
+		"chi"		"** **"
+	}
+	"***Commander Xenosaj's orders are clear: find the Metroid, retrieve or eliminate it, and get out.***"
+	{
+		"chi"		"** **"
+	}
+	"***Head for the abandoned bunker north of your location.  Start searching there.***"
+	{
+		"chi"		"** **"
+	}
+	"***Hostile movement detected south of your position.  I'm sealing the bunker doors in 10 seconds, get in or get left behind!***"
+	{
+		"chi"		"** **"
+	}
+	"***I've managed to activate the secondary bulkheads, that should keep them--shit, watch out for Ridley's firebeam!***"
+	{
+		"chi"		"** **"
+	}
+	"***There's a hidden exit in the back, hold them off while I try to open it.***"
+	{
+		"chi"		"** **"
+	}
+	"***The exit's clear, get out of there!***"
+	{
+		"chi"		"** **"
+	}
+	"***I don't know where that teleporter will take you, but it's better than staying here!***"
+	{
+		"chi"		"** **"
+	}
+	"***Welcome to Zebes' version of hell--Norfair.  You've got maybe a minute before the heat overwhelms you.***"
+	{
+		"chi"		"** **"
+	}
+	"***There's a teleporter up top.  Make your way across the bridge and use the grappling beams to get to the higher ledges.***"
+	{
+		"chi"		"** **"
+	}
+}

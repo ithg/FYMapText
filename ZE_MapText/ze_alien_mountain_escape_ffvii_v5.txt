@@ -1,0 +1,39 @@
+"Console_T"
+{
+	"*** Alien Moutain Escape - Final Fantasy Version ***"
+	{
+		"chi"		"**阿里山逃亡—最终幻想7**"
+	}
+	"*** Map remake by simsen ***"
+	{
+		"chi"		"**地图作者：simsen 翻译：牛肉粉**"
+	}
+	"*** For ZE server ggeasy.pl ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Elevator is starting in 14 sec ***"
+	{
+		"chi"		"**电梯将于14S启动**"
+	}
+	"*** Tram is starting in 5 sec ***"
+	{
+		"chi"		"**板子将于5S后飞升**"
+	}
+	">> IDEA: Sienestaja <<"
+	{
+		"chi"		"** **"
+	}
+	">> Map by Taskuvaras <<"
+	{
+		"chi"		"** **"
+	}
+	">>LEVEL: EASY<<"
+	{
+		"chi"		"** **"
+	}
+	"***STAGE 1 -- THE SHIP***"
+	{
+		"chi"		"** **"
+	}
+}

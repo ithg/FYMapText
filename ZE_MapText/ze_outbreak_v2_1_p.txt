@@ -1,0 +1,103 @@
+"Console_T"
+{
+	"Elevator 3 leaving in 5 sec."
+	{
+		"chi"		"** **"
+	}
+	"Second floor elevator 2 leaving in 5 sec."
+	{
+		"chi"		"** **"
+	}
+	"Elevator 2 leaving in 5 sec."
+	{
+		"chi"		"** **"
+	}
+	"Second floor elevator 1 leaving in 5 sec."
+	{
+		"chi"		"** **"
+	}
+	"Mine shaft 2 door will open in 15 sec."
+	{
+		"chi"		"** **"
+	}
+	"Mine shaft elevator 2 leaving in 3 sec."
+	{
+		"chi"		"** **"
+	}
+	"[Teleporting bottom part in 20 seconds]"
+	{
+		"chi"		"** **"
+	}
+	"Roof doors will open in 15 sec."
+	{
+		"chi"		"** **"
+	}
+	"Top elevator 1 leaving in 5 sec."
+	{
+		"chi"		"** **"
+	}
+	"Top elevator 2 leaving in 5 sec."
+	{
+		"chi"		"** **"
+	}
+	"Storehouse doors will open in 20 sec."
+	{
+		"chi"		"** **"
+	}
+	"Error. Storehouse doors will close and re-open."
+	{
+		"chi"		"** **"
+	}
+	"Final doors will open in 10 sec."
+	{
+		"chi"		"** **"
+	}
+	"Final doors opened. Use the computer to release the nerve gas."
+	{
+		"chi"		"** **"
+	}
+	"Emergency sequence activated."
+	{
+		"chi"		"** **"
+	}
+	"Nerve gas will be released in 60 seconds."
+	{
+		"chi"		"** **"
+	}
+	"Elevator 4 leaving in 5 sec."
+	{
+		"chi"		"** **"
+	}
+	"Mine shaft 1 door will open in 15 sec."
+	{
+		"chi"		"** **"
+	}
+	"Mine shaft elevator 1 leaving in 3 sec."
+	{
+		"chi"		"** **"
+	}
+	"Elevator 1 leaving in 5 sec."
+	{
+		"chi"		"** **"
+	}
+	"[Final teleport in 10 seconds]"
+	{
+		"chi"		"** **"
+	}
+	"WARNING! You have 20 seconds to get to safety."
+	{
+		"chi"		"** **"
+	}
+	"WARNING! You have 15 seconds to get to safety."
+	{
+		"chi"		"** **"
+	}
+	"WARNING! You have 10 seconds to get to safety."
+	{
+		"chi"		"** **"
+	}
+	"WARNING! You have 5 seconds to get to safety."
+	{
+		"chi"		"** **"
+	}
+}

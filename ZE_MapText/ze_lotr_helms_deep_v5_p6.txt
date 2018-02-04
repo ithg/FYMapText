@@ -1,0 +1,151 @@
+"Console_T"
+{
+	"** MAP BY HANNIBAL [SPA] (Rafuron) **"
+	{
+		"chi"		"** **"
+	}
+	"** Teleporting AFK to the cage in 30s **"
+	{
+		"chi"		"** **"
+	}
+	"**Door will close in 30 s  ** Get safe into Helms Deep!**"
+	{
+		"chi"		"** **"
+	}
+	"** The door is closing in 10s **"
+	{
+		"chi"		"** **"
+	}
+	"**Show them no mercy...**"
+	{
+		"chi"		"** **"
+	}
+	"** for you shall receive none!**"
+	{
+		"chi"		"** **"
+	}
+	"**Objective: people at wall MUST defend the wall**"
+	{
+		"chi"		"** **"
+	}
+	"**Objective: people at gate MUST defend the gate**"
+	{
+		"chi"		"** **"
+	}
+	"**Note: if you defend at defensive points you will earn 1 point every 10 seconds (near GATE and TOP of WALL)**"
+	{
+		"chi"		"** **"
+	}
+	"**Note for ZOMBIES: if you set a ladder you will earn 1 point ** Same if you attack the gate**"
+	{
+		"chi"		"** **"
+	}
+	"**You must not retrieve ** The retrieve will be announced **"
+	{
+		"chi"		"** **"
+	}
+	"** Ladders! **"
+	{
+		"chi"		"** **"
+	}
+	"**A zombie has passed the WALL! Kill him or think about start a retreat!**"
+	{
+		"chi"		"** **"
+	}
+	"**The door is now open Get in the fort now!**"
+	{
+		"chi"		"** **"
+	}
+	"**Fall back! Get in the fortress! Follow the shiny path**"
+	{
+		"chi"		"** **"
+	}
+	"** Defend at fort! Hall door will open in 40s!**"
+	{
+		"chi"		"** **"
+	}
+	"**Hurry! get in the hall!**"
+	{
+		"chi"		"** **"
+	}
+	"**Resist 30s!**"
+	{
+		"chi"		"** **"
+	}
+	"**Kill the remaining zombies of the room!**"
+	{
+		"chi"		"** **"
+	}
+	"**Sun is rising.**"
+	{
+		"chi"		"** **"
+	}
+	"**Charge! Follow the shiny path! Do not separate!"
+	{
+		"chi"		"** **"
+	}
+	"**Door is under attack!**"
+	{
+		"chi"		"** **"
+	}
+	"**The battering ram is breaking the door!**"
+	{
+		"chi"		"** **"
+	}
+	"**Main door cannot hold the battering ram! RETREAT NOW!**"
+	{
+		"chi"		"** **"
+	}
+	"** They have broken through! The castle is breached! Retreat! Get them inside! Into the Keep!**"
+	{
+		"chi"		"** **"
+	}
+	"** Get safe in the fort! **"
+	{
+		"chi"		"** **"
+	}
+	"**A zombie has passed the GATE! Kill him or think about start a retreat!**"
+	{
+		"chi"		"** **"
+	}
+	"*** Tested server : Sakura[CS:S],POSSESSION[CS:GO] ***"
+	{
+		"chi"		"** **"
+	}
+	"*** map created by thas ***"
+	{
+		"chi"		"** **"
+	}
+	"** Wall zone is out of control ** retreat NOW!**"
+	{
+		"chi"		"** **"
+	}
+	"** Gate zone is out of control ** retreat NOW!**"
+	{
+		"chi"		"** **"
+	}
+	"** Kill him! Stop the torch bearer!**"
+	{
+		"chi"		"** **"
+	}
+	"**The wall has been destroyed! Fall back! Get in the fortress!**"
+	{
+		"chi"		"** **"
+	}
+	"**Huge ladder is being setting!**"
+	{
+		"chi"		"** **"
+	}
+	"*** ZE INDUSTRIAL DEJAVU - ORIGINALY MADE IN ONE DAY ***"
+	{
+		"chi"		"** **"
+	}
+	"***Map ported by ??????***"
+	{
+		"chi"		"** **"
+	}
+	"*** CURRENT MODE: EASY ***"
+	{
+		"chi"		"** **"
+	}
+}

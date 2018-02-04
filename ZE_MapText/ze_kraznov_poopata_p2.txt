@@ -1,0 +1,51 @@
+"Console_T"
+{
+	"** Its existence is far away from time or matter - it exists out of pure belief **"
+	{
+		"chi"		"** **"
+	}
+	"** The horror of absolute reason of no doubt might be released soon! Beware! **"
+	{
+		"chi"		"** **"
+	}
+	"** A wall of stubbornness will open soon and will the journey begin... **"
+	{
+		"chi"		"** **"
+	}
+	"** Descend back to purity to play the games that had once freed you **"
+	{
+		"chi"		"** **"
+	}
+	"** and meet again the wippity part of yourselves... **"
+	{
+		"chi"		"** **"
+	}
+	"** TIP: I think that means you have to play some puzzle or game now... **"
+	{
+		"chi"		"** **"
+	}
+	"** There is an orange cube thing and a sorta basket thing... Might it be basketball? **"
+	{
+		"chi"		"** **"
+	}
+	"** Welcome to the mystical island of Kraznov Poopata **"
+	{
+		"chi"		"** **"
+	}
+	"** YOU'RE GETTING POOPFARTED FOR BEING 2LOW WACKOS **"
+	{
+		"chi"		"** **"
+	}
+	"** ERRBODY GETTIN' DEDED - GO H8 THE MAP MOAR! **"
+	{
+		"chi"		"** **"
+	}
+	"** And all this tiresome effort for a simple cartoony cock? Oh dear... **"
+	{
+		"chi"		"** **"
+	}
+	"***WARMUP***"
+	{
+		"chi"		"** **"
+	}
+}

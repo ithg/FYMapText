@@ -1,0 +1,55 @@
+"Console_T"
+{
+	"**The door will open in 45 seconds. Cover!!**"
+	{
+		"chi"		"** **"
+	}
+	"**Door is open 10 sec**"
+	{
+		"chi"		"** **"
+	}
+	"**Elevator is leaving in 35s**"
+	{
+		"chi"		"** **"
+	}
+	"**Elevator is leaving in 5s**"
+	{
+		"chi"		"** **"
+	}
+	"**Boat will arrive in 30 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"** Boss Fight in 10s **"
+	{
+		"chi"		"** **"
+	}
+	"** Boss Fight in 5s **"
+	{
+		"chi"		"** **"
+	}
+	"** Nades do more damage **"
+	{
+		"chi"		"** **"
+	}
+	"** Boss is dead - Escape ! **"
+	{
+		"chi"		"** **"
+	}
+	"**The door will open in 30 seconds. Cover!!**"
+	{
+		"chi"		"** **"
+	}
+	">>>Respawn wall break in 20 sec<<<"
+	{
+		"chi"		"** **"
+	}
+	"***MAP BY - LUFFAREN***"
+	{
+		"chi"		"** **"
+	}
+	"***DO NOT TRY TO TAKE SHORTCUTS - IT WILL RESULT IN TELEPORTING BACK***"
+	{
+		"chi"		"** **"
+	}
+}

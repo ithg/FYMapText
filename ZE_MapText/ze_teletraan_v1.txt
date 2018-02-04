@@ -1,0 +1,31 @@
+"Console_T"
+{
+	"Teletraan will open door in few seconds !"
+	{
+		"chi"		"**大门将于数秒后打开**"
+	}
+	"Fall Back !!!"
+	{
+		"chi"		"**撤退！！！！**"
+	}
+	"Teletraan will open door soon !"
+	{
+		"chi"		"**大门正在打开呢 坚持一会**"
+	}
+	"Optimus is now to clear the way !"
+	{
+		"chi"		"**擎天柱现在清理了道路**"
+	}
+	"Teletraan will close door in few seconds"
+	{
+		"chi"		"**大门将在数秒后关闭**"
+	}
+	"Teletraan will close door in 10 seconds"
+	{
+		"chi"		"**大门还有10S就关闭了**"
+	}
+	"Map by Lup4n`"
+	{
+		"chi"		"**地图作者：Lup4n 翻译：牛肉粉**"
+	}
+}

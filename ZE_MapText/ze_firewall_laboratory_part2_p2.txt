@@ -1,0 +1,7 @@
+"Console_T"
+{
+	"Break the doors to exit the laboratory."
+	{
+		"chi"		"** **"
+	}
+}

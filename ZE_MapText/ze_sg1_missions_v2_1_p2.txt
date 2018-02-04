@@ -1,0 +1,135 @@
+"Console_T"
+{
+	">>>MAP BY FREEZE!<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>MAKE YOUR WAY TO THE CONTROL ROOM<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>INCOMING WORMHOLE. CLOSE THE IRIS!<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>MISSION: ESCAPE FROM STARGATECENTER<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>EVERYONE IN SPAWN AREAS GETTING TELEPORTED<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>ZOMBIES: BREAK THE IRIS!<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>MISSION: ABYDOS<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>ACTIVATE THE STARGATE<<<"
+	{
+		"chi"		"** **"
+	}
+	"***Map by Reflelia***"
+	{
+		"chi"		"** **"
+	}
+	">>>STORAGE DOOR OPENING IN 5 SEC<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>PRESS THE BUTTON<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>RUN TO THE ELEVATOR<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>ELEVATOR LEAVING IN 5 SEC<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>ZOMBIES: GO UP THE ELEVATOR SHAFT<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>JUMP INTO THE GENERATOR TO OVERHEAT IT<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>HOLD THIS POSITION UNTIL THE GENERATOR OVERHEATED<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>THE GENERATOR IS OVERHEATING. HOLD THE POSITION<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>DONE. RUN FOR YOUR LIFES!<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>Door opening in 10 sec<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>TEAM FALL BACK! THE DOOR IS OPEN<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>HOLD HERE WHILE OTHERS REPAIR THE ELEVATOR<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>POWER TO THE DOORS RESTORED<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>CALL THE ELEVATOR<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>ELEVATOR ARRIVING IN 15 SECONDS<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>TEAM FALL BACK<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>RUUUUUUUUUUUUN<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>RUN INTO GATE ROOM<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>Map by FreeZe<<<"
+	{
+		"chi"		"** **"
+	}
+	"Thanks to Fuu Westsider Kaemon Hannibal Sephiroth Senne Teddy and Infinity"
+	{
+		"chi"		"** **"
+	}
+	">>>Gateroom-doors closing in 5 seconds<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>LEAVE THE ABYDOS-GATEROOM...FAST!<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>FIND THE C4 OUTSIDE<<<"
+	{
+		"chi"		"** **"
+	}
+	"** ZE FFXII PARAMINA RIFT **"
+	{
+		"chi"		"** **"
+	}
+}

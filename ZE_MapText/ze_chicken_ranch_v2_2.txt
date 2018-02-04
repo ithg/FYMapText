@@ -1,0 +1,63 @@
+"Console_T"
+{
+	"** We have reached the ranch at the edge of the peninsula. **"
+	{
+		"chi"		"** **"
+	}
+	"** Our reports show that some sort of facility is hidden within it... **"
+	{
+		"chi"		"** **"
+	}
+	"** MISSION: FIND A WAY IN! NEUTRALIZE ANY OPPOSING FORCE! **"
+	{
+		"chi"		"** **"
+	}
+	"** Wait until we meet up! Hold the zombies off! **"
+	{
+		"chi"		"** **"
+	}
+	"** MOVE! **"
+	{
+		"chi"		"** **"
+	}
+	"** This little tram seems to go well with the factory: it has chickens. **"
+	{
+		"chi"		"** **"
+	}
+	"** Why would they even trap 4 chickens on a tram that doesn't seem to move...? **"
+	{
+		"chi"		"** **"
+	}
+	"** ... **"
+	{
+		"chi"		"** **"
+	}
+	"** WAIT! THE CHICKENS ARE THE POWER! SHOOT THEM! **"
+	{
+		"chi"		"** **"
+	}
+	"** WE WERE TOO SLOW! TACTICAL NUKE INBOUND! **"
+	{
+		"chi"		"** **"
+	}
+	"** NUKE INCOMING IN 5 **"
+	{
+		"chi"		"** **"
+	}
+	"** 4 **"
+	{
+		"chi"		"** **"
+	}
+	"** 3 **"
+	{
+		"chi"		"** **"
+	}
+	"** 2 **"
+	{
+		"chi"		"** **"
+	}
+	"** 1 **"
+	{
+		"chi"		"** **"
+	}
+}

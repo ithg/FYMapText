@@ -1,0 +1,11 @@
+"Console_T"
+{
+	"Map made by Puklica"
+	{
+		"chi"		"** **"
+	}
+	">>> |LEVEL 1| <<<"
+	{
+		"chi"		"** **"
+	}
+}

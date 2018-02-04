@@ -1,0 +1,75 @@
+"Console_T"
+{
+	"*** Level 1 ***"
+	{
+		"chi"		"** **"
+	}
+	"* Turning music on *"
+	{
+		"chi"		"** **"
+	}
+	"*** Player has picked up HandCannon ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Door opens in 35 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Door opens in 25 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 10 seconds left ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Door is Opening ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Door Opening in 25 seconds! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** FALL BACK ***"
+	{
+		"chi"		"** **"
+	}
+	">>> Hold for 15 seconds! <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> Hold for a bit more! <<<"
+	{
+		"chi"		"** **"
+	}
+	"*** Teleporter Activates in 20 Seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Door Opens in 30 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** OH NOOES ***"
+	{
+		"chi"		"** **"
+	}
+	"*** KILL RICK ASTLEY BEFORE HE RICKROLLS US! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Player has picked up Lego Maker ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Gate opening ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Player has picked up Ammo Box ***"
+	{
+		"chi"		"** **"
+	}
+}

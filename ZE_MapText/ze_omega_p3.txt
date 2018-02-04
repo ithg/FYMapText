@@ -1,0 +1,43 @@
+"Console_T"
+{
+	"***Cargo Door Opens in 10 Seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Main Testlab Door Opens in 10 Seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Bridge Activated***"
+	{
+		"chi"		"** **"
+	}
+	"***Bridge Deactivated***"
+	{
+		"chi"		"** **"
+	}
+	"***CartControl Door Opens in 5 Seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Rail Cart leaves in 5 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Refinery hatches opening***"
+	{
+		"chi"		"** **"
+	}
+	"***Error Overflow dangerous chemicals detected***"
+	{
+		"chi"		"** **"
+	}
+	"***Tram Tunnel Door opens in 1 Minute***"
+	{
+		"chi"		"** **"
+	}
+	"***Tram Starts in 5 Seconds***"
+	{
+		"chi"		"** **"
+	}
+}

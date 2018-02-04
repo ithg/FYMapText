@@ -1,0 +1,27 @@
+"Console_T"
+{
+	"Map made by Cuniczek"
+	{
+		"chi"		"** **"
+	}
+	"Thanks to Enviolinador & Darnias"
+	{
+		"chi"		"** **"
+	}
+	"Added extra shininess to the coins."
+	{
+		"chi"		"** **"
+	}
+	"Zombies have secured a checkpoint."
+	{
+		"chi"		"** **"
+	}
+	"You have collected enough coins. Nuke inbound in 70 seconds."
+	{
+		"chi"		"** **"
+	}
+	"Proceed to find a safehouse if you want to survive."
+	{
+		"chi"		"** **"
+	}
+}

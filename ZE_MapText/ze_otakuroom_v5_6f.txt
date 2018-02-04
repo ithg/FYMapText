@@ -1,0 +1,187 @@
+"Console_T"
+{
+	"**Original map : kz_otakuroom_v3 , by GemaYue**"
+	{
+		"chi"		"**原图：kz_otakuroom_v3 作者：Gemayue**"
+	}
+	"**Map by Tenshi**"
+	{
+		"chi"		"**本图作者：Tenshi  汉化：风云社**"
+	}
+	"**Model by uuz**"
+	{
+		"chi"		"**模型提供：uuz**"
+	}
+	"**Special Thanks:GemaYue , uuz , 银月筱瑶**"
+	{
+		"chi"		"** **"
+	}
+	"**It's my first map , thanks for playing**"
+	{
+		"chi"		"** **"
+	}
+	"**Stage 1**"
+	{
+		"chi"		"**第一关**"
+	}
+	"**Hold 15 seconds**"
+	{
+		"chi"		"**守住15秒**"
+	}
+	"**Hold 30 seconds**"
+	{
+		"chi"		"**守住30秒**"
+	}
+	"**5 seconds**"
+	{
+		"chi"		"**5秒倒计时**"
+	}
+	"**Hold 35 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**Hold on 80 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**The elevator is rising**"
+	{
+		"chi"		"** **"
+	}
+	"**Nuke in 5 seconds**"
+	{
+		"chi"		"**5秒后启动核爆**"
+	}
+	"**3**"
+	{
+		"chi"		"** **"
+	}
+	"**2**"
+	{
+		"chi"		"** **"
+	}
+	"**1**"
+	{
+		"chi"		"** **"
+	}
+	"**Stage 2**"
+	{
+		"chi"		"** **"
+	}
+	"**Hold 15 seconds until the lid of rubbish bin opening**"
+	{
+		"chi"		"** **"
+	}
+	"**Jump into the rubbish bin**"
+	{
+		"chi"		"** **"
+	}
+	"**Hold 10 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**Wait 30 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**Wall breaking in 20 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**Hold 40 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**Go to the ClearRobot**"
+	{
+		"chi"		"** **"
+	}
+	"**ClearRobot leaving in 8 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**Stage 3**"
+	{
+		"chi"		"** **"
+	}
+	"**Wait 5 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**Teleport activated**"
+	{
+		"chi"		"** **"
+	}
+	"**Jump into the screen**"
+	{
+		"chi"		"**快！往屏幕上跳！**"
+	}
+	"**Kanameishi**"
+	{
+		"chi"		"** **"
+	}
+	"**Gasu**"
+	{
+		"chi"		"** **"
+	}
+	"**全人类の绯想�?**"
+	{
+		"chi"		"**全人类の绯想天**"
+	}
+	"**Sakai**"
+	{
+		"chi"		"** **"
+	}
+	"**Im defeated.Its impossable**"
+	{
+		"chi"		"** **"
+	}
+	"**Air leaves in 30 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**[ZM]**"
+	{
+		"chi"		"** **"
+	}
+	"**Nuke in 3 mins**"
+	{
+		"chi"		"** **"
+	}
+	"**Nuke in 2 mins**"
+	{
+		"chi"		"** **"
+	}
+	"***1***"
+	{
+		"chi"		"** **"
+	}
+	"***Modified by Reflelia***"
+	{
+		"chi"		"** **"
+	}
+	"***60 SECONDS LEFT***"
+	{
+		"chi"		"** **"
+	}
+	"***WARM UP ROUIND***"
+	{
+		"chi"		"** **"
+	}
+	"**Round Failed**"
+	{
+		"chi"		"** **"
+	}
+	"**Nuke in 1 min**"
+	{
+		"chi"		"** **"
+	}
+	">> Map by Taskuvaras <<"
+	{
+		"chi"		"** **"
+	}
+	"***STAGE 1 -- THE SHIP***"
+	{
+		"chi"		"** **"
+	}
+}

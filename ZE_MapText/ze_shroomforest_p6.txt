@@ -1,0 +1,247 @@
+"Console_T"
+{
+	">> Fixed by Moltard <<"
+	{
+		"chi"		"** **"
+	}
+	"[Special Thanks to: Muro#[A] FT]"
+	{
+		"chi"		"** **"
+	}
+	">> WARMUP ROUND <<"
+	{
+		"chi"		"** **"
+	}
+	">> 40 SECONDS LEFT <<"
+	{
+		"chi"		"** **"
+	}
+	">> 30 SECONDS LEFT <<"
+	{
+		"chi"		"** **"
+	}
+	">> 20 SECONDS LEFT <<"
+	{
+		"chi"		"** **"
+	}
+	">> IDEA: Sienestaja <<"
+	{
+		"chi"		"** **"
+	}
+	">> Map by Taskuvaras <<"
+	{
+		"chi"		"** **"
+	}
+	">> 10 SECONDS LEFT <<"
+	{
+		"chi"		"** **"
+	}
+	">> WARMUP ROUND END <<"
+	{
+		"chi"		"** **"
+	}
+	">> LEVEL: FLAT GRASS <<"
+	{
+		"chi"		"** **"
+	}
+	">> PLAYER HAS PICKED UP GRAVITY <<"
+	{
+		"chi"		"** **"
+	}
+	"*** WAIT TILL THAT WALL BREAKS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** WALL IS BROKEN RUUUUUUN!! ***"
+	{
+		"chi"		"** **"
+	}
+	">> PLAYER HAS PICKED UP 6 MINES <<"
+	{
+		"chi"		"** **"
+	}
+	"*** WAIT TILL BOMB BREAKS THOSE BOARDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** BOARDS ARE BROKEN RUUUUUUN!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Leaf 1 leaving in 7 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Leaf 2 leaving in 7 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	">> HOLD FOR 30 seconds <<"
+	{
+		"chi"		"** **"
+	}
+	">> 5 more seconds <<"
+	{
+		"chi"		"** **"
+	}
+	"*** OH NO Its an EVIL BUTTERFLY ***"
+	{
+		"chi"		"** **"
+	}
+	">> GO! GO! GO! <<"
+	{
+		"chi"		"** **"
+	}
+	"*** SHOOT IT BEFORE ITS TOO LATE!! ***"
+	{
+		"chi"		"** **"
+	}
+	">> PLAYER HAS PICKED UP ICE <<"
+	{
+		"chi"		"** **"
+	}
+	"*** BUTTERFLY IS DEAD RESCUE IS COMING ***"
+	{
+		"chi"		"** **"
+	}
+	">> BUTTERFLY LEAVING IN 10 seconds <<"
+	{
+		"chi"		"** **"
+	}
+	">> LEVEL COMPLETED!! <<"
+	{
+		"chi"		"** **"
+	}
+	">> LEVEL: BIG TREE <<"
+	{
+		"chi"		"** **"
+	}
+	"*** HOLD FOR 10 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** HOLD FOR 20 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** HOLD FOR 40 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	">> PLAYER HAS PICKED UP HEAL <<"
+	{
+		"chi"		"** **"
+	}
+	"*** HOLD FOR 5 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** GO GO GO!!!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ELEVATOR LEAVING IN 20 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ELEVATOR LEAVING IN 10 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ELEVATOR LEAVING IN 5 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	">> ITS ANGRY PIKACHU SHOOT IT!!!!!!!!!! <<"
+	{
+		"chi"		"** **"
+	}
+	">> CT GET OFF THE ELEVATOR OR U WILL GET PUNISHED <<"
+	{
+		"chi"		"** **"
+	}
+	">> PIKACHU IS USING THUNDERBOLT KEEP SHOOTING!!!!!!!!!! <<"
+	{
+		"chi"		"** **"
+	}
+	"*** PIKACHU IS DEAD!! RUN TO RESCUE BUTTERFLY ***"
+	{
+		"chi"		"** **"
+	}
+	">> BUTTERFLY LEAVING IN 15 seconds <<"
+	{
+		"chi"		"** **"
+	}
+	">> LEVEL: HELL <<"
+	{
+		"chi"		"** **"
+	}
+	"*** HOLD FOR 30 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** DOOR IS OPEN! RUUUN! ***"
+	{
+		"chi"		"** **"
+	}
+	">> YOU NEED TO FIND A KEY TO OPEN THAT LOCK <<"
+	{
+		"chi"		"** **"
+	}
+	">> MAYBE ITS IN THOSE BOXES IN SIDE ROOMS <<"
+	{
+		"chi"		"** **"
+	}
+	"*** PLAYER FOUND A KEY ***"
+	{
+		"chi"		"** **"
+	}
+	"*** OH NO!! ITS SATAN!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** SHOOT IT OR YOU WILL BE HIS SLAVES FOREVER!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** THROW GRENADES TO KILL IT EASIER ***"
+	{
+		"chi"		"** **"
+	}
+	"*** SATAN IS PREPARING TO ATTACK ***"
+	{
+		"chi"		"** **"
+	}
+	"*** SATAN IS HURT YOU ARE FREE TO LEAVE HELL ***"
+	{
+		"chi"		"** **"
+	}
+	">> WAIT FOR 10 SECONDS <<"
+	{
+		"chi"		"** **"
+	}
+	">> LEVEL COMPLETED <<"
+	{
+		"chi"		"** **"
+	}
+	">> EXTREME MODE ADDED <<"
+	{
+		"chi"		"** **"
+	}
+	">> BOSSES ON LEVEL II <<"
+	{
+		"chi"		"** **"
+	}
+	"*** HOLD FOR ABOUT 30 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	">> PLAYER HAS PICKED UP WIND <<"
+	{
+		"chi"		"** **"
+	}
+	"[NORMAL MODE]"
+	{
+		"chi"		"** **"
+	}
+}

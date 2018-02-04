@@ -1,0 +1,47 @@
+"Console_T"
+{
+	"**********MAP CREATED BY: Hannibal[SPA] (Rafuron) **********"
+	{
+		"chi"		"** **"
+	}
+	"**Random objective:**"
+	{
+		"chi"		"** **"
+	}
+	"**Destroy the Ring**"
+	{
+		"chi"		"** **"
+	}
+	"***AFK Teleport in 15 s***"
+	{
+		"chi"		"** **"
+	}
+	"***Humans have reached the Cirith Ungol tower***"
+	{
+		"chi"		"** **"
+	}
+	"***A human MUST pick up the RING while the others defend the entrance.***"
+	{
+		"chi"		"** **"
+	}
+	"***Nazguls coming to Minas Morgul in 15 s***"
+	{
+		"chi"		"** **"
+	}
+	"**The ring has been picked!**"
+	{
+		"chi"		"** **"
+	}
+	"** The bearer feels the weight of the Ring ** Protect him! **"
+	{
+		"chi"		"** **"
+	}
+	"**The ring carrier must go down to open the door.**"
+	{
+		"chi"		"** **"
+	}
+	"***Earendil light has been picked***"
+	{
+		"chi"		"** **"
+	}
+}

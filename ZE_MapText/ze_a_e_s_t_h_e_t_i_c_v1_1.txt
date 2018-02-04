@@ -1,0 +1,143 @@
+"Console_T"
+{
+	"** Thanks for your visit. **"
+	{
+		"chi"		"** **"
+	}
+	"** The show is starting soon: broadcasting LIVE in 10. **"
+	{
+		"chi"		"** **"
+	}
+	"** Something's up, something's left. The movement comes soon again. **"
+	{
+		"chi"		"** **"
+	}
+	"** The spectacle must continue, though at a different place. **"
+	{
+		"chi"		"** **"
+	}
+	"** Extras must be part of the action too, or were they the protagonists? **"
+	{
+		"chi"		"** **"
+	}
+	"** A scene change might go well with the changing times that soon may come. **"
+	{
+		"chi"		"** **"
+	}
+	"** Off they go! The calmer tones of the prairie might soothen the wilder souls. **"
+	{
+		"chi"		"** **"
+	}
+	"** First base reached. It ought to begin. **"
+	{
+		"chi"		"** **"
+	}
+	"** Second base reached. Steps further from either end.**"
+	{
+		"chi"		"** **"
+	}
+	"** Third base reached. The double entendre is cuadruple intended. **"
+	{
+		"chi"		"** **"
+	}
+	"** Fourth base reached. Nearing and yet still so afar. **"
+	{
+		"chi"		"** **"
+	}
+	"** Fifth base reached. Wisely interpreted, the still-standing walls will fall. **"
+	{
+		"chi"		"** **"
+	}
+	"** At some point in the journey, the traveller is given a hand. **"
+	{
+		"chi"		"** **"
+	}
+	"** Reaching out for help is at times harder than everything else... **"
+	{
+		"chi"		"** **"
+	}
+	"** Stay in the grey lest you want the tentacles to grab you and take you to your end. **"
+	{
+		"chi"		"** **"
+	}
+	"** [...] The hand that feeds you, that knows you, that helps you -- that hand you will bite. **"
+	{
+		"chi"		"** **"
+	}
+	"** Moving forward and destroying for change... mumbling 'progress'... an ideal... **"
+	{
+		"chi"		"** **"
+	}
+	"** ...the time might come for the trees to hang onto themselves and the wind a hundred tales will tell... **"
+	{
+		"chi"		"** **"
+	}
+	"** And as time is but a rambling story, rambling further it shall flow. **"
+	{
+		"chi"		"** **"
+	}
+	"** Where is the spectacle but in what is unknown? **"
+	{
+		"chi"		"** **"
+	}
+	"** Who was Merle Haggard? Why did his mother cry? **"
+	{
+		"chi"		"** **"
+	}
+	"** The stories of old ought to be forgotten - only that way shall new always be found. **"
+	{
+		"chi"		"** **"
+	}
+	"** Céline probably rides along with us to the end of the night, making offhand remarks. **"
+	{
+		"chi"		"** **"
+	}
+	"** Has anybody seen the keys that open the window to reach the stars? **"
+	{
+		"chi"		"** **"
+	}
+	"** pastebin.comrawXtibtTiH **"
+	{
+		"chi"		"** **"
+	}
+	"** That cadence that beating in you is nothing but a feverish dream, a selfish attack against the One State. **"
+	{
+		"chi"		"** **"
+	}
+	"** ...and as lovers they meet: different but equal in ways they couldn't tell... **"
+	{
+		"chi"		"** **"
+	}
+	"** BEHOLD! Little more than beasts in humanly flesh will come! **"
+	{
+		"chi"		"** **"
+	}
+	"** Move it! Only of bar stools, ephebes and nonsense may the future be made of! **"
+	{
+		"chi"		"** **"
+	}
+	"** Not without surprise we stand and stand as time goes by... **"
+	{
+		"chi"		"** **"
+	}
+	"** We once dreamed for elsewhere -- a gentler place -- and might regret if there we get... **"
+	{
+		"chi"		"** **"
+	}
+	"** Ticking for not much longer and then... ...will we see your face again? **"
+	{
+		"chi"		"** **"
+	}
+	"** At an unbreakable impasse with time Kochan stood -- monsters crept and creep still...  **"
+	{
+		"chi"		"** **"
+	}
+	"** ...and forever after the monsters creeping would... **"
+	{
+		"chi"		"** **"
+	}
+	"** AWAKE! OH EYES THAT SEE... But what will we find looking in these dreams? **"
+	{
+		"chi"		"** **"
+	}
+}

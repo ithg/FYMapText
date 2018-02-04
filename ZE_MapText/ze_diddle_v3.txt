@@ -1,0 +1,179 @@
+"Console_T"
+{
+	"***WARMUP***"
+	{
+		"chi"		"** **"
+	}
+	"*****ROUND END*****"
+	{
+		"chi"		"** **"
+	}
+	"***THE DIDDLERY WILL COMMENCE IN 60 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***THE DIDDLERY WILL COMMENCE IN 30 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***THE DIDDLERY WILL COMMENCE IN 20 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***THE DIDDLERY WILL COMMENCE IN 10 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***THE DIDDLERY WILL COMMENCE IN 5 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***THE DIDDLERY WILL COMMENCE IN 4 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***THE DIDDLERY WILL COMMENCE IN 3 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***THE DIDDLERY WILL COMMENCE IN 2 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***THE DIDDLERY WILL COMMENCE IN 1 SECOND***"
+	{
+		"chi"		"** **"
+	}
+	"***HAPPY DIDDLING***"
+	{
+		"chi"		"** **"
+	}
+	"*You are stuck inside Turtle Reaction's Computer - Try to escape this place*"
+	{
+		"chi"		"** **"
+	}
+	"*Tiki 1 Broken - There are 2 more tikis to find*"
+	{
+		"chi"		"** **"
+	}
+	"*Defend here for 20 seconds*"
+	{
+		"chi"		"** **"
+	}
+	"*FALL BACK*"
+	{
+		"chi"		"** **"
+	}
+	"*Defend for 30 seconds*"
+	{
+		"chi"		"** **"
+	}
+	"*Elevator Activating in 10 seconds*"
+	{
+		"chi"		"** **"
+	}
+	"*Elevator activated*"
+	{
+		"chi"		"** **"
+	}
+	"*Push the little red cube :)*"
+	{
+		"chi"		"** **"
+	}
+	"*Wall 2 breaks in 40 seconds*"
+	{
+		"chi"		"** **"
+	}
+	"*Do you hear that?*"
+	{
+		"chi"		"** **"
+	}
+	"*That was a close one!*"
+	{
+		"chi"		"** **"
+	}
+	"*Tiki 2 Broken*"
+	{
+		"chi"		"** **"
+	}
+	"*Last Stand - Defend for 40 seconds*"
+	{
+		"chi"		"** **"
+	}
+	"*Looks like this is the way out of the computer!*"
+	{
+		"chi"		"** **"
+	}
+	"*Gates closing in 5 seconds*"
+	{
+		"chi"		"** **"
+	}
+	"*Gates closing*"
+	{
+		"chi"		"** **"
+	}
+	"*Initializing Escape Program Sequence*"
+	{
+		"chi"		"** **"
+	}
+	"*What is this music...?*"
+	{
+		"chi"		"** **"
+	}
+	"***Hello there, Im Turtle***"
+	{
+		"chi"		"** **"
+	}
+	"***I came to warn you, something BIG is out there and angry***"
+	{
+		"chi"		"** **"
+	}
+	"***But ill be there to help. Bye for now***"
+	{
+		"chi"		"** **"
+	}
+	"*The hell..? I thought we left Turtle Reactions Computer*"
+	{
+		"chi"		"** **"
+	}
+	"*Defend for 20 seconds*"
+	{
+		"chi"		"** **"
+	}
+	"*Do you hear that again..?*"
+	{
+		"chi"		"** **"
+	}
+	"*Tiki 3 Broken*"
+	{
+		"chi"		"** **"
+	}
+	"***FIND YOUR LOVE***"
+	{
+		"chi"		"** **"
+	}
+	"GIT OUT OF MI HOUUUUUSE"
+	{
+		"chi"		"** **"
+	}
+	"***SURPRISE YOUR LOVE***"
+	{
+		"chi"		"** **"
+	}
+	"***BLESS YOUR LOVE***"
+	{
+		"chi"		"** **"
+	}
+	"***FEED YOUR LOVE***"
+	{
+		"chi"		"** **"
+	}
+	"***SACRIFICE YOUR LOVE***"
+	{
+		"chi"		"** **"
+	}
+	"***ESCAPE YOUR LOVE***"
+	{
+		"chi"		"** **"
+	}
+}

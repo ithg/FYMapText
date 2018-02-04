@@ -1,0 +1,235 @@
+"Console_T"
+{
+	">>> WARMUP ROUND <<<"
+	{
+		"chi"		"** **"
+	}
+	">>*** MAP BY STK ***<<"
+	{
+		"chi"		"** **"
+	}
+	">> STAGE 1 <<"
+	{
+		"chi"		"** **"
+	}
+	"** A player has picked up Heal Staff **"
+	{
+		"chi"		"** **"
+	}
+	"** A player has picked up Tornado Staff **"
+	{
+		"chi"		"** **"
+	}
+	"** The doors will open in 20 seconds **"
+	{
+		"chi"		"** **"
+	}
+	"** 5 seconds left **"
+	{
+		"chi"		"** **"
+	}
+	"** FALL BACK **"
+	{
+		"chi"		"** **"
+	}
+	"** The doors will open in 25 seconds **"
+	{
+		"chi"		"** **"
+	}
+	"** The door will open in 30 seconds **"
+	{
+		"chi"		"** **"
+	}
+	"** The doors will open in 15 seconds **"
+	{
+		"chi"		"** **"
+	}
+	"** Bomb explodes in 20 seconds **"
+	{
+		"chi"		"** **"
+	}
+	"** Hold zombies for 15 seconds **"
+	{
+		"chi"		"** **"
+	}
+	"*** YOU WON STAGE 1 ***"
+	{
+		"chi"		"** **"
+	}
+	">> STAGE 2 <<"
+	{
+		"chi"		"** **"
+	}
+	"** A player has picked up Earth Staff **"
+	{
+		"chi"		"** **"
+	}
+	"** A player has picked up Quicksand Staff **"
+	{
+		"chi"		"** **"
+	}
+	"** Teleport will open in 20 seconds **"
+	{
+		"chi"		"** **"
+	}
+	"** 5 seconds left. **"
+	{
+		"chi"		"** **"
+	}
+	"** Kill him or he kills you!!! **"
+	{
+		"chi"		"** **"
+	}
+	"*** Grenades do more damage. ***"
+	{
+		"chi"		"** **"
+	}
+	"*** He's dead. Run. ***"
+	{
+		"chi"		"** **"
+	}
+	"** The doors will open on 15 seconds **"
+	{
+		"chi"		"** **"
+	}
+	"** Press on the 4 obelisks to open the door **"
+	{
+		"chi"		"** **"
+	}
+	"** The doors will open in 10 seconds **"
+	{
+		"chi"		"** **"
+	}
+	"** Elevator leaves in 20 seconds **"
+	{
+		"chi"		"** **"
+	}
+	"** YOU WON STAGE 2 **"
+	{
+		"chi"		"** **"
+	}
+	">> STAGE 3 <<"
+	{
+		"chi"		"** **"
+	}
+	"** Hold for 20 seconds. **"
+	{
+		"chi"		"** **"
+	}
+	"** Teleport will open in 15 seconds **"
+	{
+		"chi"		"** **"
+	}
+	"** Hold Zombies for 10 seconds **"
+	{
+		"chi"		"** **"
+	}
+	"** YOU WON STAGE 3 **"
+	{
+		"chi"		"** **"
+	}
+	">> STAGE 4 <<"
+	{
+		"chi"		"** **"
+	}
+	"** Meteorite arrives in 17 seconds. **"
+	{
+		"chi"		"** **"
+	}
+	"*** Grenades do more damage. (8 SECONDS)***"
+	{
+		"chi"		"** **"
+	}
+	"*** YOU WON STAGE 4 ***"
+	{
+		"chi"		"** **"
+	}
+	"** Run into the center and break the crystal!!! **"
+	{
+		"chi"		"** **"
+	}
+	">> STAGE 5 <<"
+	{
+		"chi"		"** **"
+	}
+	"** 10 seconds left **"
+	{
+		"chi"		"** **"
+	}
+	"** Teleport will open in 20 seconds. **"
+	{
+		"chi"		"** **"
+	}
+	"** Teleport will open on 10 seconds **"
+	{
+		"chi"		"** **"
+	}
+	"** Hold for 15 seconds. **"
+	{
+		"chi"		"** **"
+	}
+	"*** Grenades do more damage (4 SECONDS). ***"
+	{
+		"chi"		"** **"
+	}
+	"** Do not come to the edge of the platform! **"
+	{
+		"chi"		"** **"
+	}
+	"** NOW YOU DIE! **"
+	{
+		"chi"		"** **"
+	}
+	"** Hold for 10 seconds. **"
+	{
+		"chi"		"** **"
+	}
+	"*** YOU WON STAGE 5 ***"
+	{
+		"chi"		"** **"
+	}
+	"** Humans have become immortal!!! **"
+	{
+		"chi"		"** **"
+	}
+	"** Zombies have 1 HP! **"
+	{
+		"chi"		"** **"
+	}
+	"** Victory in 230 seconds. **"
+	{
+		"chi"		"** **"
+	}
+	">> ZM ROUND <<"
+	{
+		"chi"		"** **"
+	}
+	"** Victory in 200 seconds. **"
+	{
+		"chi"		"** **"
+	}
+	"** Victory in 150 seconds. **"
+	{
+		"chi"		"** **"
+	}
+	"** Victory in 100 seconds. **"
+	{
+		"chi"		"** **"
+	}
+	"** Victory in 50 seconds. **"
+	{
+		"chi"		"** **"
+	}
+	"** Victory in 10 seconds. **"
+	{
+		"chi"		"** **"
+	}
+	">> VICTORY <<"
+	{
+		"chi"		"** **"
+	}
+	">>*** THANKS FOR PLAYING! ***<<"
+	{
+		"chi"		"** **"
+	}
+}

@@ -1,0 +1,91 @@
+"Console_T"
+{
+	"===[ MAP MADE BY LUFFAREN ]==="
+	{
+		"chi"		"** **"
+	}
+	"***IT IS PIZZATIME FOLKS***"
+	{
+		"chi"		"** **"
+	}
+	"***PIZZA ROLLER LEAVING IN 15 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***PIZZA ROLLER LEAVING IN 5 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***WELCOME TO PIZZA LAND***"
+	{
+		"chi"		"** **"
+	}
+	"***MAMA KOWAMA 2017***"
+	{
+		"chi"		"** **"
+	}
+	"***PISS CART LEAVING IN 20 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***PISS CART LEAVING IN 5 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***PIZZA SURF IS OPEN***"
+	{
+		"chi"		"** **"
+	}
+	"***PICKED UP - HOT PIZZA STAFF***"
+	{
+		"chi"		"** **"
+	}
+	"***ITEM USED - HOT PIZZA***"
+	{
+		"chi"		"** **"
+	}
+	"***THE PIZZA IS AGGRESSIVE***"
+	{
+		"chi"		"** **"
+	}
+	"***PIZZA SURF OPENING IN 15 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***PICKED UP - ROCK PIZZA STAFF***"
+	{
+		"chi"		"** **"
+	}
+	"***THE FRENCH ARE COMING***"
+	{
+		"chi"		"** **"
+	}
+	"***A PIZZA POLE HAS BEEN PISSED ON***"
+	{
+		"chi"		"** **"
+	}
+	"***PICKED UP - FAST PIZZA STAFF***"
+	{
+		"chi"		"** **"
+	}
+	"***OPENING LOWER DOOR***"
+	{
+		"chi"		"** **"
+	}
+	"***RESPECT THE TRAFFIC RULES***"
+	{
+		"chi"		"** **"
+	}
+	"***OR GET IMPALED BY CARS***"
+	{
+		"chi"		"** **"
+	}
+	"***ACTION CAR DELUXE***"
+	{
+		"chi"		"** **"
+	}
+	"***SHREK WELCOMES YOU***"
+	{
+		"chi"		"** **"
+	}
+}

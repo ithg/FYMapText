@@ -1,0 +1,123 @@
+"Console_T"
+{
+	"***Map by Reflelia***"
+	{
+		"chi"		"** **"
+	}
+	"** There seems to be a nasty bug infestation! **"
+	{
+		"chi"		"** **"
+	}
+	"** Luckily bugs tend to dislike bright lights! **"
+	{
+		"chi"		"** **"
+	}
+	"** WE CAN'T SEEM TO PROGRESS AHEAD... **"
+	{
+		"chi"		"** **"
+	}
+	"** HOLD UNTIL WE FIGURE SOMETHING OUT! **"
+	{
+		"chi"		"** **"
+	}
+	"** THE WINDOW! GET ON IT! **"
+	{
+		"chi"		"**玻璃碎了，快进去！**"
+	}
+	"** We need to make the door move! **"
+	{
+		"chi"		"**我们得想办法移开这扇门！**"
+	}
+	"** It looks as if it would probably open if we get the wheel moving... **"
+	{
+		"chi"		"** **"
+	}
+	"** GET GOING! WE HAVE ENOUGH KINETIC ENERGY! **"
+	{
+		"chi"		"** **"
+	}
+	"** THE TOP DOOR IS OPENING 5 SECONDS! **"
+	{
+		"chi"		"**上方大门5秒后开启**"
+	}
+	"** Something spooky seems to be going on that table! **"
+	{
+		"chi"		"** **"
+	}
+	"** We need to reach the top! **"
+	{
+		"chi"		"**我们得到达顶部去！**"
+	}
+	"** The seance is beginning and the spirits are calling... **"
+	{
+		"chi"		"** **"
+	}
+	"** The spirits marked the 'H' leter... **"
+	{
+		"chi"		"** **"
+	}
+	"** 'A'... **"
+	{
+		"chi"		"** **"
+	}
+	"** 'L'... **"
+	{
+		"chi"		"** **"
+	}
+	"** 'L' again... **"
+	{
+		"chi"		"** **"
+	}
+	"** 'O'... **"
+	{
+		"chi"		"** **"
+	}
+	"** 'W'... **"
+	{
+		"chi"		"** **"
+	}
+	"** 'E'... **"
+	{
+		"chi"		"** **"
+	}
+	"** 'E' yet again... **"
+	{
+		"chi"		"** **"
+	}
+	"** 'N'... **"
+	{
+		"chi"		"** **"
+	}
+	"** It spelled 'HALLOWEEN'! **"
+	{
+		"chi"		"**哇！拼起来竟然就是“HALLOWEEN”！**"
+	}
+	"** Who would have guessed? **"
+	{
+		"chi"		"** **"
+	}
+	"** Something is happening! **"
+	{
+		"chi"		"** **"
+	}
+	"** Get on the lamp! Quick! The spell might not last long! **"
+	{
+		"chi"		"** **"
+	}
+	"** There is some screaking sound in the distance - maybe something is lurking in the darkness! **"
+	{
+		"chi"		"** **"
+	}
+	"** Try to get that old toy going! We must get out of here! **"
+	{
+		"chi"		"** **"
+	}
+	"** MS. WHISKERS HAS WHISKED US! IT'S ALL OVER! **"
+	{
+		"chi"		"** **"
+	}
+	"**Stage 1**"
+	{
+		"chi"		"** **"
+	}
+}

@@ -1,0 +1,51 @@
+"Console_T"
+{
+	"* * * MAP BY AobaSuzukaze(sweetS), Special Thanks reflelia * * *"
+	{
+		"chi"		"** **"
+	}
+	"***15sec left***"
+	{
+		"chi"		"**等待15秒**"
+	}
+	"*** FALL BACK ***"
+	{
+		"chi"		"**撤退！**"
+	}
+	"***HOLD 30sec***"
+	{
+		"chi"		"**守住30秒！**"
+	}
+	"***5sec left***"
+	{
+		"chi"		"**剩余5秒！**"
+	}
+	"***FALL BACK and break construction***"
+	{
+		"chi"		"**撤退，等待建筑倒塌！**"
+	}
+	"***Neptune will teleport you after 15sec...***"
+	{
+		"chi"		"**海王星将在15秒后传送你！**"
+	}
+	"Neptune : FALL BACK ! ! !"
+	{
+		"chi"		"**海王星：撤退！**"
+	}
+	"***HOLD 60sec to explose wall***"
+	{
+		"chi"		"** **"
+	}
+	"***HOLD 5sec***"
+	{
+		"chi"		"** **"
+	}
+	"***FALL BACK ! ! !***"
+	{
+		"chi"		"** **"
+	}
+	"^^^ Map By: BillSmauz ^^^"
+	{
+		"chi"		"** **"
+	}
+}

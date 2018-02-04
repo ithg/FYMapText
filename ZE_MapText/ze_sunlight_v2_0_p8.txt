@@ -1,0 +1,19 @@
+"Console_T"
+{
+	"Created by Soft Serve"
+	{
+		"chi"		"** **"
+	}
+	"Map ported by www.dashijie.es"
+	{
+		"chi"		"** **"
+	}
+	"*** STAGE I ***"
+	{
+		"chi"		"** **"
+	}
+	"ZE Sunlight"
+	{
+		"chi"		"** **"
+	}
+}

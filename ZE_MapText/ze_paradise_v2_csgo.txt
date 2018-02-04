@@ -1,0 +1,35 @@
+"Console_T"
+{
+	"HINT: Break your way out!"
+	{
+		"chi"		"** **"
+	}
+	"HINT: 'Crouch' into the hang gliders and then stand up inside."
+	{
+		"chi"		"** **"
+	}
+	"HINT: Cut the boat cable!"
+	{
+		"chi"		"** **"
+	}
+	"HINT: SWIM AROUND THE BUOY TO REACH WILMEKEA PEAK!"
+	{
+		"chi"		"** **"
+	}
+	"HINT: Ocean currents will impede progress."
+	{
+		"chi"		"** **"
+	}
+	"** Helicopter leaving in 15 seconds! **"
+	{
+		"chi"		"** **"
+	}
+	"** Missile launched! You will have to jump! **"
+	{
+		"chi"		"** **"
+	}
+	"^^^ Map By: BillSmauz ^^^"
+	{
+		"chi"		"** **"
+	}
+}

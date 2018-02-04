@@ -1,0 +1,167 @@
+"Console_T"
+{
+	"Warping all players to Siberia in 15 seconds."
+	{
+		"chi"		"** **"
+	}
+	"Objective. Find and destroy the source of the outbreak."
+	{
+		"chi"		"** **"
+	}
+	"Overriding security breach 30 seconds"
+	{
+		"chi"		"** **"
+	}
+	"10 seconds left"
+	{
+		"chi"		"** **"
+	}
+	"Door is now open. Get inside the dam!"
+	{
+		"chi"		"** **"
+	}
+	"Dam door closing in 10 seconds"
+	{
+		"chi"		"** **"
+	}
+	"Zombie spawns are advancing in 20 seconds"
+	{
+		"chi"		"** **"
+	}
+	"Reducing steam pressure 10 seconds"
+	{
+		"chi"		"** **"
+	}
+	"Steam pressure at 66%"
+	{
+		"chi"		"** **"
+	}
+	"Steam pressure at 33%"
+	{
+		"chi"		"** **"
+	}
+	"Steam pressure at 0%"
+	{
+		"chi"		"** **"
+	}
+	"Zombie spawns advancing in 15 seconds"
+	{
+		"chi"		"** **"
+	}
+	"Dam door opening in 20 seconds"
+	{
+		"chi"		"** **"
+	}
+	"Dam door closing in 5 seconds"
+	{
+		"chi"		"** **"
+	}
+	"Door opening in 20 seconds"
+	{
+		"chi"		"** **"
+	}
+	"Door opening in 10 seconds"
+	{
+		"chi"		"** **"
+	}
+	"Door closing in 10 seconds"
+	{
+		"chi"		"** **"
+	}
+	"Zombie spawns advancing in 25 seconds"
+	{
+		"chi"		"** **"
+	}
+	"Door opening in 30 seconds"
+	{
+		"chi"		"** **"
+	}
+	"Arming C4 in 30 seconds"
+	{
+		"chi"		"** **"
+	}
+	"C4 armed in 10 seconds"
+	{
+		"chi"		"** **"
+	}
+	"C4 in now armed"
+	{
+		"chi"		"** **"
+	}
+	"New objective. Reach the top of the dam for extraction"
+	{
+		"chi"		"** **"
+	}
+	"Zombie spawn advancing in 15 seconds"
+	{
+		"chi"		"** **"
+	}
+	"Elevator doors opening in 20 seconds"
+	{
+		"chi"		"** **"
+	}
+	"Elevator doors closing in 10 seconds"
+	{
+		"chi"		"** **"
+	}
+	"Time portal will open in 50 seconds"
+	{
+		"chi"		"** **"
+	}
+	"Zombie spawn advancing in 10 seconds"
+	{
+		"chi"		"** **"
+	}
+	"TIP: Zombies can pass through our portal."
+	{
+		"chi"		"** **"
+	}
+	"TIP: It would be wise to stay and defend a bit until the explosion occurs."
+	{
+		"chi"		"** **"
+	}
+	"30 seconds"
+	{
+		"chi"		"** **"
+	}
+	"10 seconds"
+	{
+		"chi"		"** **"
+	}
+	"C4 exploding in 10 seconds"
+	{
+		"chi"		"** **"
+	}
+	"-Hardcore Mode-"
+	{
+		"chi"		"** **"
+	}
+	"** LEVEL: NOT TOO ROUGH **"
+	{
+		"chi"		"** **"
+	}
+	"Push gun obtained!"
+	{
+		"chi"		"** **"
+	}
+	"The push gun can be used every 45 seconds."
+	{
+		"chi"		"** **"
+	}
+	"An infected got through our portal! Push them back!"
+	{
+		"chi"		"** **"
+	}
+	"An infected has passed through our portal."
+	{
+		"chi"		"** **"
+	}
+	"Proximity mine obtained!"
+	{
+		"chi"		"** **"
+	}
+	"The promixity mine can be used every 24 seconds."
+	{
+		"chi"		"** **"
+	}
+}

@@ -1,0 +1,115 @@
+"Console_T"
+{
+	"*** This map is based on mg_Serpentis_Temple by Kaemon and Luffaren ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Many assets from the original map were used ***"
+	{
+		"chi"		"** **"
+	}
+	"*** WARMUP ROUND (50 sec) ***"
+	{
+		"chi"		"** **"
+	}
+	"*** WARMUP ROUND (60 sec) ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Map By Nostar & Moltard ***"
+	{
+		"chi"		"** **"
+	}
+	"*** WARMUP ROUND (40 sec) ***"
+	{
+		"chi"		"** **"
+	}
+	"*** WARMUP ROUND (30 sec) ***"
+	{
+		"chi"		"** **"
+	}
+	"*** WARMUP ROUND (20 sec) ***"
+	{
+		"chi"		"** **"
+	}
+	"*** WARMUP ROUND (10 sec) ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Stage 1 loaded ***"
+	{
+		"chi"		"** **"
+	}
+	"*** STAGE 1 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Find a way to reach the temple ***"
+	{
+		"chi"		"** **"
+	}
+	"*** DOOR OPEN IN 30 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Poison Snake has been picked ***"
+	{
+		"chi"		"** **"
+	}
+	"*** DOOR OPEN IN 20 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** AFK TELEPORT IN 5 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Fire Snake has been picked ***"
+	{
+		"chi"		"** **"
+	}
+	"*** AFK TELEPORT IN 15 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** TELEPORT IN 25 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ZM TELEPORT IN 10 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** A sacrifice is necessary to open this passage ***"
+	{
+		"chi"		"** **"
+	}
+	"*** The passage will be open in 10 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** DOOR OPEN IN 25 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** HealAmmo Snake has been picked ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ZM TELEPORT IN 5 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** HOLD 10 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** DOOR CLOSE IN 5 SECONDS ! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** KILL REMAINING ZOMBIES ***"
+	{
+		"chi"		"** **"
+	}
+}

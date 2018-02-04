@@ -1,0 +1,83 @@
+"Console_T"
+{
+	"***50 SECONDS LEFT***"
+	{
+		"chi"		"** **"
+	}
+	"***40 SECONDS LEFT***"
+	{
+		"chi"		"** **"
+	}
+	"***30 SECONDS LEFT***"
+	{
+		"chi"		"** **"
+	}
+	"***20 SECONDS LEFT***"
+	{
+		"chi"		"** **"
+	}
+	"***Modified by Reflelia***"
+	{
+		"chi"		"** **"
+	}
+	"***60 SECONDS LEFT***"
+	{
+		"chi"		"** **"
+	}
+	"***WARM UP ROUIND***"
+	{
+		"chi"		"** **"
+	}
+	"***10 SECONDS LEFT***"
+	{
+		"chi"		"** **"
+	}
+	"***CURRENT MODE >>>NORMAL<<<***"
+	{
+		"chi"		"** **"
+	}
+	"***CURRENT MODE >>>CUSTOM<<<***"
+	{
+		"chi"		"** **"
+	}
+	"***Nuke launched***"
+	{
+		"chi"		"** **"
+	}
+	"***5***"
+	{
+		"chi"		"** **"
+	}
+	"***4***"
+	{
+		"chi"		"** **"
+	}
+	"***3***"
+	{
+		"chi"		"** **"
+	}
+	"***2***"
+	{
+		"chi"		"** **"
+	}
+	"***1***"
+	{
+		"chi"		"** **"
+	}
+	"***Nuke impact***"
+	{
+		"chi"		"** **"
+	}
+	"***Barrel picked up***"
+	{
+		"chi"		"** **"
+	}
+	"***Speed picked up***"
+	{
+		"chi"		"** **"
+	}
+	"***Jump portal opened***"
+	{
+		"chi"		"** **"
+	}
+}

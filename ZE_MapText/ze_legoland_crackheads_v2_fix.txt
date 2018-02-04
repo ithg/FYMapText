@@ -1,0 +1,183 @@
+"Console_T"
+{
+	"**Map remake by [ＥSＣAＰＥ] Loving You (수정자 : 러빙유)**"
+	{
+		"chi"		"** **"
+	}
+	"** MAP MADE BY PATRAO **"
+	{
+		"chi"		"** **"
+	}
+	"** SPECIAL THANKS TO ENVIOLINADOR **"
+	{
+		"chi"		"** **"
+	}
+	"** WHITE BLOCKS = PRO WAY | NOOBS HAVE LADDER **"
+	{
+		"chi"		"** **"
+	}
+	"** HOLD THIS AREA FOR 60 SECONDS **"
+	{
+		"chi"		"** **"
+	}
+	"** 5 SECONDS LEFT **"
+	{
+		"chi"		"** **"
+	}
+	"** CHOOSE ONE PORTAL**"
+	{
+		"chi"		"** **"
+	}
+	"** HOLD THIS AREA FOR 30 SECONDS! **"
+	{
+		"chi"		"** **"
+	}
+	"** 5 MORE SECONDS **"
+	{
+		"chi"		"** **"
+	}
+	"** HOLD THIS AREA FOR 33 SECONDS! **"
+	{
+		"chi"		"** **"
+	}
+	"** TELEPORT CHARGING **"
+	{
+		"chi"		"** **"
+	}
+	"HOLD ZOMBIES UNTILL IT IS FULLY CHARGED"
+	{
+		"chi"		"** **"
+	}
+	"** 25 % CHARGED **"
+	{
+		"chi"		"** **"
+	}
+	"** 50 % CHARGED **"
+	{
+		"chi"		"** **"
+	}
+	"** 75% CHARGED **"
+	{
+		"chi"		"** **"
+	}
+	"** 100 %! GO GO GO!!! **"
+	{
+		"chi"		"** **"
+	}
+	"** HOLD THIS AREA FOR 50 SECONDS **"
+	{
+		"chi"		"** **"
+	}
+	"** SHOOT ZOMBIES OUT UNTILL LADDER BREAKS **"
+	{
+		"chi"		"** **"
+	}
+	"** HOLD ZOMBIES FOR 50 SECONDS **"
+	{
+		"chi"		"** **"
+	}
+	"** ZOMBIES: CLIMB THE STAIRS! **"
+	{
+		"chi"		"** **"
+	}
+	"** The giant colored man-god salutes you... as you will on his domain! **"
+	{
+		"chi"		"** **"
+	}
+	"** Throw all your nades! **"
+	{
+		"chi"		"** **"
+	}
+	"** Cool'R Gun has been picked up. Press +USE (E) to activate. **"
+	{
+		"chi"		"** **"
+	}
+	"** It has a 75 seconds cooldown. **"
+	{
+		"chi"		"** **"
+	}
+	"** BUILDER HAS BEEN PICKED UP! **"
+	{
+		"chi"		"** **"
+	}
+	"** USE IT WELL! IT CAN ONLY BE USED 5 TIMES **"
+	{
+		"chi"		"** **"
+	}
+	"** HOLD ZOMBIES FOR 45 SECONDS **"
+	{
+		"chi"		"** **"
+	}
+	"** HOLD FOR 30 SECONDS **"
+	{
+		"chi"		"** **"
+	}
+	"** WALL BREAKING IN 5 SECONDS **"
+	{
+		"chi"		"** **"
+	}
+	"** HOLD THIS PLATFORM FOR 37 SECONDS **"
+	{
+		"chi"		"** **"
+	}
+	"** HOLD FOR 25 SECONDS **"
+	{
+		"chi"		"** **"
+	}
+	"** HOLD ZOMBIES FOR 30 SECONDS **"
+	{
+		"chi"		"** **"
+	}
+	"** ELEVATOR LEAVING IN 30 SECONDS **"
+	{
+		"chi"		"** **"
+	}
+	"** ELEVATOR LEAVING IN 5 SECONDS **"
+	{
+		"chi"		"** **"
+	}
+	"** NUKE ACTIVATED **"
+	{
+		"chi"		"** **"
+	}
+	"** 5 **"
+	{
+		"chi"		"** **"
+	}
+	"** 4 **"
+	{
+		"chi"		"** **"
+	}
+	"** 3 **"
+	{
+		"chi"		"** **"
+	}
+	"** 2 **"
+	{
+		"chi"		"** **"
+	}
+	"** 1 **"
+	{
+		"chi"		"** **"
+	}
+	"** He's going to annihilate us in 10 seconds... SHOOT!!!**"
+	{
+		"chi"		"** **"
+	}
+	"** HE HAS LOADED HIS WEAPON!!! WE ARE DEAD!!!**"
+	{
+		"chi"		"** **"
+	}
+	">> Map by TaskuVaras and Moltard <<"
+	{
+		"chi"		"** **"
+	}
+	"** HOLD THIS AREA FOR 30 SECONDS **"
+	{
+		"chi"		"** **"
+	}
+	"** NUKE BUTTON UNLOCKED! **"
+	{
+		"chi"		"** **"
+	}
+}

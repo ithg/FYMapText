@@ -1,0 +1,39 @@
+"Console_T"
+{
+	"^^^ Map By: BillSmauz ^^^"
+	{
+		"chi"		"** **"
+	}
+	"*** Lift Starts in 10 Seconds ***"
+	{
+		"chi"		"**缆车10秒后启动！**"
+	}
+	"*** Dropship Arrives in 2 Minutes ***"
+	{
+		"chi"		"**运输机2分钟后到达！**"
+	}
+	"*** Nuke Immediate After Dropship Departure ***"
+	{
+		"chi"		"**核弹将在运输机离开后毁灭清场！**"
+	}
+	"*** Dropship Arrival in 1 Minute ***"
+	{
+		"chi"		"**运输机1分钟后到达！**"
+	}
+	"*** Dropship Arrival in 20 ***"
+	{
+		"chi"		"**运输机20秒后到达！**"
+	}
+	"*** Dropship is Here ***"
+	{
+		"chi"		"**运输机已到达！**"
+	}
+	"*** Dropship Departure in 30 Seconds ***"
+	{
+		"chi"		"**运输机20秒后离开！**"
+	}
+	"*** Dropship Departure in 10 Seconds ***"
+	{
+		"chi"		"**运输机将在10秒后离开！**"
+	}
+}

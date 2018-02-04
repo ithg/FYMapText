@@ -1,0 +1,403 @@
+"Console_T"
+{
+	"***ROCK WALL WILL BREAK IN 15 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***ROCK WALL WILL BREAK IN 5 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***FALL BACK***"
+	{
+		"chi"		"** **"
+	}
+	"***PLAYER PICKED UP ITEM - SPEEDER***"
+	{
+		"chi"		"** **"
+	}
+	"***SOMETHING IS COMING...***"
+	{
+		"chi"		"** **"
+	}
+	"***RUN***"
+	{
+		"chi"		"** **"
+	}
+	"***GET UP ON THAT ROCK***"
+	{
+		"chi"		"** **"
+	}
+	"***WANNA SKIP TO EXTREME MODE? > STEP ON THE PLATFORM***"
+	{
+		"chi"		"** **"
+	}
+	"***90% OF THE HUMANS NEED TO VOTE IN ORDER FOR IT TO PASS***"
+	{
+		"chi"		"** **"
+	}
+	"***TRUMP IS PROUD OF YOU***"
+	{
+		"chi"		"** **"
+	}
+	"***THE VOTE HAS SPOKEN***"
+	{
+		"chi"		"** **"
+	}
+	"***ENABLING EXTREME MODE***"
+	{
+		"chi"		"** **"
+	}
+	"***RESTARTING ROUND***"
+	{
+		"chi"		"** **"
+	}
+	"***HAIL TRUMP***"
+	{
+		"chi"		"** **"
+	}
+	"***THE ETERNAL TRUTH LOOMS***"
+	{
+		"chi"		"** **"
+	}
+	"***YOU HAVE DEFILED MUFASAS CORPSE***"
+	{
+		"chi"		"** **"
+	}
+	"***SKIPPING CUTSCENE***"
+	{
+		"chi"		"** **"
+	}
+	"***YOU SICK BASTARDS...***"
+	{
+		"chi"		"** **"
+	}
+	"***PROLOGUE COMPLETE***"
+	{
+		"chi"		"** **"
+	}
+	"***SNOW WALL WILL BREAK IN 10 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***PLAYER PICKED UP ITEM - HEALING SHITBOX***"
+	{
+		"chi"		"** **"
+	}
+	"***DRAWBRIDGE WILL DRAW ITSELF IN 5 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***DRAWBRIDGE IS DRAWING***"
+	{
+		"chi"		"** **"
+	}
+	"***DRAWBRIDGE HAS BEEN DRAWED***"
+	{
+		"chi"		"** **"
+	}
+	"***INNER BEAVER BLASTDOOR IS OPENING IN 20 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***SEWER BLASTDOOR WILL OPEN IN 40 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***INNER INNEST INCEST BEAVER BLASTDOOR IS OPENING IN 15 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***THIS GATE WILL OPEN ONCE BOTH PATHS HAVE BEEN CLEARED***"
+	{
+		"chi"		"** **"
+	}
+	"***SEWER BLASTDOOR IS OPENING***"
+	{
+		"chi"		"** **"
+	}
+	"***SECOND FIRST JEDI-SCROLL-DOOR IS OPENING IN 15 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***SECOND FIRST JEDI-SCROLL-DOOR IS OPENING***"
+	{
+		"chi"		"** **"
+	}
+	"***INCEST***"
+	{
+		"chi"		"** **"
+	}
+	"***FIRST FIRST JEDI-SCROLL-DOOR IS OPENING IN 15 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***WINCEST***"
+	{
+		"chi"		"** **"
+	}
+	"***STEELWORKS DOOR WILL OPEN IN 30 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***STEELWORKS DOOR WILL OPEN IN 5 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***STEELWORKS DOOR IS OPENING***"
+	{
+		"chi"		"** **"
+	}
+	"***STEELWORKS DOOR WILL CLOSE IN 5 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***STEELWORKS DOOR IS CLOSING***"
+	{
+		"chi"		"** **"
+	}
+	"***THE BEAVERS ARE COMING***"
+	{
+		"chi"		"** **"
+	}
+	"***THE BEAVERS ARE AGRESSIVE***"
+	{
+		"chi"		"** **"
+	}
+	"***SUB-PRIMARY PROTOCOL DOOR WILL OPEN IN 40 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***SELF-DESTRUCT SEQUENCE HAS BEEN INITIATED***"
+	{
+		"chi"		"** **"
+	}
+	"***LASER SHUTDOWN IN 20 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***LASER SHUTDOWN IN 5 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***ESCAPE THE BEAVER STEELWORKS FACILITY***"
+	{
+		"chi"		"** **"
+	}
+	"***SUB-PRIMARY PROTOCOL DOOR WILL OPEN IN 5 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***THAT SEEMS TO BE THE LAST OF THEM***"
+	{
+		"chi"		"** **"
+	}
+	"***PRIMARY PROTOCOL DOOR WILL OPEN IN 20 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***PLAYER PICKED UP ITEM - MINI CANNON***"
+	{
+		"chi"		"** **"
+	}
+	"***SECONDARY PROTOCOL DOOR WILL OPEN IN 20 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***ELEVATOR OPENS IN 15 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***ELEVATOR DOOR IS OPEN***"
+	{
+		"chi"		"** **"
+	}
+	"***ELEVATOR LEAVES IN 5 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***FINAL ELEVATOR DOOR WILL CLOSE IN 30 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***MUFASA.. IS DEAD...***"
+	{
+		"chi"		"** **"
+	}
+	"***SANTA CLAUS WILL PAY FOR HIS DEEDS***"
+	{
+		"chi"		"** **"
+	}
+	"***FINAL ELEVATOR DOOR WILL CLOSE IN 5 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***FINAL ELEVATOR DOOR IS CLOSING***"
+	{
+		"chi"		"** **"
+	}
+	"***ACT 1 COMPLETE***"
+	{
+		"chi"		"** **"
+	}
+	"***RIGHT PRIMAL ELEVATOR LEAVES IN 10 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***RIGHT PRIMAL ELEVATOR IS LEAVING***"
+	{
+		"chi"		"** **"
+	}
+	"***LEFT PRIMAL ELEVATOR LEAVES IN 10 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***LEFT PRIMAL ELEVATOR IS LEAVING***"
+	{
+		"chi"		"** **"
+	}
+	"***LEFT LEFT SECOND FACE WALL OPENS IN 30 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***LEFT LEFT SECOND FACE WALL HAS EXPLODED***"
+	{
+		"chi"		"** **"
+	}
+	"***RIGHT RIGHT SECOND FACE WALL OPENS IN 20 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***RIGHT RIGHT SECOND FACE WALL HAS EXPLODED***"
+	{
+		"chi"		"** **"
+	}
+	"***SECONDARY PROTOCOL ELEVATOR IS LEAVING IN 30 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***SECONDARY PROTOCOL ELEVATOR IS LEAVING IN 5 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***SECONDARY PROTOCOL ELEVATOR IS LEAVING***"
+	{
+		"chi"		"** **"
+	}
+	"***SECRET SANTA CHAPEL DOOR IS OPENING IN 20 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***SECRET SANTA CHAPEL DOOR IS OPENING***"
+	{
+		"chi"		"** **"
+	}
+	"***SATISFY THE LIPS WITH SEWER CHOCOLATE IN ORDER TO ENTER***"
+	{
+		"chi"		"** **"
+	}
+	"***7 SMEARED HUMANS SHOULD BE ABLE TO SATISFY THOSE SORE LIPS***"
+	{
+		"chi"		"** **"
+	}
+	"***GOOD LUCK***"
+	{
+		"chi"		"** **"
+	}
+	"***THE GATEFACE IS PLEASED WITH YOUR CHOCOLATE SERVICE***"
+	{
+		"chi"		"** **"
+	}
+	"***YOU MAY NOW ENTER***"
+	{
+		"chi"		"** **"
+	}
+	"***HEAD TOWARDS SANTA'S FACTORY***"
+	{
+		"chi"		"** **"
+	}
+	"***BE PREPARED FOR ANYTHING***"
+	{
+		"chi"		"** **"
+	}
+	"***SANTA FACTORY DOOR IS OPENING IN 20 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***SANTA FACTORY DOOR IS OPENING IN 5 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***SANTA FACTORY DOOR IS OPENING***"
+	{
+		"chi"		"** **"
+	}
+	"***SMELL THE DANK MIXTAPE***"
+	{
+		"chi"		"** **"
+	}
+	"***MAJOR FACE WALL EXPLODES IN 15 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***THE MIXTAPE IS OUT OF CONTROL***"
+	{
+		"chi"		"** **"
+	}
+	"***MAIN ELEVATOR IS LEAVING IN 20 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***MAJOR FACE WALL IS ABOUT TO EXPLODE***"
+	{
+		"chi"		"** **"
+	}
+	"***MAJOR FACE WALL WENT BOOM***"
+	{
+		"chi"		"** **"
+	}
+	"***MAIN ELEVATOR IS LEAVING IN 5 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***MAIN ELEVATOR IS LEAVING***"
+	{
+		"chi"		"** **"
+	}
+	"EVERYONE GO HERE AND TELL KAEMON TO STOP SLACKING - http:"
+	{
+		"chi"		"** **"
+	}
+	"***THE PIZZA IS AGGRESSIVE***"
+	{
+		"chi"		"** **"
+	}
+	"Where da nudes for Luffaren b at?"
+	{
+		"chi"		"** **"
+	}
+	"^That was the stupidest thing i've ever heard as a map"
+	{
+		"chi"		"** **"
+	}
+	"Type 1 if you are jerking it right now"
+	{
+		"chi"		"** **"
+	}
+	"ALL HAIL LUFFAREN, THE GOD OF BEAVERS AND DREAMS!"
+	{
+		"chi"		"** **"
+	}
+	"^This fella is a silly-willy that everyone should point and laugh at!"
+	{
+		"chi"		"** **"
+	}
+	"Hey there everyone, you should totally send Luffaren some hot nudes ASAP!"
+	{
+		"chi"		"** **"
+	}
+	"***STAGE 1 -- THE SHIP***"
+	{
+		"chi"		"** **"
+	}
+}

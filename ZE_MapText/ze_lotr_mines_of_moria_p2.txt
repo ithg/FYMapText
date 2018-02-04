@@ -1,0 +1,87 @@
+"Console_T"
+{
+	"**Map by: Hannibal [SPA] (Rafuron)**"
+	{
+		"chi"		"** **"
+	}
+	"**Bring the ring to Khazad-Dum bridge to win easily**"
+	{
+		"chi"		"** **"
+	}
+	"**Saruman staff has been picked!**"
+	{
+		"chi"		"** **"
+	}
+	"**Humans have reached Balin's tomb! Resist 55 s**"
+	{
+		"chi"		"** **"
+	}
+	"**Balrog coming to SPAWN CAVE AND LADDER ZONE in 15s**"
+	{
+		"chi"		"** **"
+	}
+	"**Resist 30 s**"
+	{
+		"chi"		"** **"
+	}
+	"**Resist 15 s**"
+	{
+		"chi"		"** **"
+	}
+	"**Go to the Khazad-Dum bridge!**"
+	{
+		"chi"		"** **"
+	}
+	"**Gandalf staff has been picked!**"
+	{
+		"chi"		"** **"
+	}
+	"**The ring has been picked!**"
+	{
+		"chi"		"** **"
+	}
+	"**Stay in the circle! Zombies can't go in!**"
+	{
+		"chi"		"** **"
+	}
+	"** Protection ring will close in 15 s **"
+	{
+		"chi"		"** **"
+	}
+	"** ... **"
+	{
+		"chi"		"** **"
+	}
+	"** Moria is unstable! Run towards the stairs in  **"
+	{
+		"chi"		"** **"
+	}
+	"**5**"
+	{
+		"chi"		"** **"
+	}
+	"**4**"
+	{
+		"chi"		"** **"
+	}
+	"**3**"
+	{
+		"chi"		"** **"
+	}
+	"**2**"
+	{
+		"chi"		"** **"
+	}
+	"**1**"
+	{
+		"chi"		"** **"
+	}
+	"**Go!**"
+	{
+		"chi"		"** **"
+	}
+	"**Balrog coming to BALIN AND COLUMN ZONE in 15s**"
+	{
+		"chi"		"** **"
+	}
+}

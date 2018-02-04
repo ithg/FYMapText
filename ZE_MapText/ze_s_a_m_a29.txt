@@ -1,0 +1,111 @@
+"Console_T"
+{
+	">>Map by Tenshi<<"
+	{
+		"chi"		"** **"
+	}
+	">>Special Thanks: uuz , nano ,thas<<"
+	{
+		"chi"		"** **"
+	}
+	">>Thanks for playing<<"
+	{
+		"chi"		"** **"
+	}
+	"**Zombie has picked up <Gravity>**"
+	{
+		"chi"		"**僵尸拾起了ZM重力**"
+	}
+	"**Player has picked up <Water Magic>**"
+	{
+		"chi"		"** **"
+	}
+	"**Player has picked up <Ultima Magic>**"
+	{
+		"chi"		"**一名玩家学习了终极魔法**"
+	}
+	"**Player has picked up <Tornado Magic>**"
+	{
+		"chi"		"** **"
+	}
+	"**Player has picked up <Gravity Magic>**"
+	{
+		"chi"		"** **"
+	}
+	">>GATE OPENING IN 15 SEC<<"
+	{
+		"chi"		">>>大门15秒后开启<<<"
+	}
+	"**Player has picked up <Earth Magic>**"
+	{
+		"chi"		"** **"
+	}
+	">>MAZEDOOR OPENING IN 30 SEC<<"
+	{
+		"chi"		">>>大门30秒后打开<<<"
+	}
+	"**Player has picked up <Heal Magic>**"
+	{
+		"chi"		"** **"
+	}
+	">>ACTIVATE THE CRYSTAL TOWER AND...<<"
+	{
+		"chi"		">>>激活水晶<<<"
+	}
+	">>BREAK THE INVERTED CRYSTAL TOWER<<"
+	{
+		"chi"		">>>打碎传送水晶上方的水晶保护<<<"
+	}
+	">>DOOR OPENING IN 15 SEC<<"
+	{
+		"chi"		">>>门将在15秒后开启<<<"
+	}
+	"**Player has picked up <Lightning Magic>**"
+	{
+		"chi"		"** **"
+	}
+	"**Player has picked up <Teleport Crystal>**"
+	{
+		"chi"		"** **"
+	}
+	">>HOLD 45 SEC<<"
+	{
+		"chi"		">>>守住45秒<<<"
+	}
+	">>DOOR OPENING IN 25 SEC<<"
+	{
+		"chi"		">>>BOSS房25秒后开启<<<"
+	}
+	"**Zombie has picked up <Ice>**"
+	{
+		"chi"		"** **"
+	}
+	">>NADE DO MORE DAMAGE<<"
+	{
+		"chi"		"** **"
+	}
+	">>OUTDOOR OPENING IN 25 SEC<<"
+	{
+		"chi"		"** **"
+	}
+	">>HOLD 15 SEC<<"
+	{
+		"chi"		"** **"
+	}
+	">>NUKE IN 10 SEC<<"
+	{
+		"chi"		"** **"
+	}
+	">>3<<"
+	{
+		"chi"		"** **"
+	}
+	">>2<<"
+	{
+		"chi"		"** **"
+	}
+	">>1<<"
+	{
+		"chi"		"** **"
+	}
+}

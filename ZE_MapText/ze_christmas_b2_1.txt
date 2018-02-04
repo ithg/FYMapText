@@ -1,0 +1,175 @@
+"Console_T"
+{
+	">> Map by Taskuvaras  Fixed with Moltard <<"
+	{
+		"chi"		"** **"
+	}
+	">> LEVEL: 1 <<"
+	{
+		"chi"		"** **"
+	}
+	">> PLAYER HAS PICKED UP GRAVITY <<"
+	{
+		"chi"		"** **"
+	}
+	"110 Cat Found"
+	{
+		"chi"		"** **"
+	}
+	"***Door opening in 20 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"210 Cat Found"
+	{
+		"chi"		"** **"
+	}
+	"***Hold here for 10 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***The train is stuck and wont start***"
+	{
+		"chi"		"** **"
+	}
+	"***Take the left path***"
+	{
+		"chi"		"** **"
+	}
+	"***Defend until we open the gate***"
+	{
+		"chi"		"** **"
+	}
+	"***The door is open***"
+	{
+		"chi"		"** **"
+	}
+	"***THE GATES ARE CLOSED***"
+	{
+		"chi"		"** **"
+	}
+	"***1 PLAYER HAS TO GO TO PRESS THE BUTTON***"
+	{
+		"chi"		"** **"
+	}
+	"310 Cat Found"
+	{
+		"chi"		"** **"
+	}
+	"***Exit Door will open in 20 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Exit Door will open in 10 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Exit Door is open***"
+	{
+		"chi"		"** **"
+	}
+	"***Defend for 10 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Hold for 30 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"410 Cat Found"
+	{
+		"chi"		"** **"
+	}
+	"***Defend few seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Elevator leaving in 20 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Elevator doors closing in 10 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Elevator doors closing in 5 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"**Sleigh leaving in 20 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**Sleigh leaving in 10 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**Level completed**"
+	{
+		"chi"		"** **"
+	}
+	">> LEVEL: 2 <<"
+	{
+		"chi"		"** **"
+	}
+	"**Sleigh leaving in 5 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"***5 seconds left***"
+	{
+		"chi"		"** **"
+	}
+	"***Station Doors will open in 10 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Station Doors are open***"
+	{
+		"chi"		"** **"
+	}
+	"***The train is blocking the path***"
+	{
+		"chi"		"** **"
+	}
+	"***We need to blow it up***"
+	{
+		"chi"		"** **"
+	}
+	"***Plant the c4 on each side of the train by pressing E ***"
+	{
+		"chi"		"** **"
+	}
+	"***C4 is planted***"
+	{
+		"chi"		"** **"
+	}
+	"***It should explode soon***"
+	{
+		"chi"		"** **"
+	}
+	"***Hold for 15 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Hold for 5 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Hold for 10 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"510 Cat Found"
+	{
+		"chi"		"** **"
+	}
+	"***1***"
+	{
+		"chi"		"** **"
+	}
+	"***Modified by Reflelia***"
+	{
+		"chi"		"** **"
+	}
+}

@@ -1,0 +1,79 @@
+"Console_T"
+{
+	">>>Map Created By: Bill Smauz<<<"
+	{
+		"chi"		"** **"
+	}
+	"Thanks: Kaemon and Struki and Jazzman"
+	{
+		"chi"		"** **"
+	}
+	"Thanks To: The SteamGamers Community"
+	{
+		"chi"		"** **"
+	}
+	"***Lift Returning Across Canyon***"
+	{
+		"chi"		"** **"
+	}
+	"***Lift Departing in 5 Seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Cave Wall Will Collapse in 18 Seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Second Cave Wall Will Collapse in 20 Seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Defend This Location***"
+	{
+		"chi"		"** **"
+	}
+	"***APC Starting in 5 Seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Stay Within the APC's Interior***"
+	{
+		"chi"		"** **"
+	}
+	"***12 Seconds to Enter the Outpost***"
+	{
+		"chi"		"** **"
+	}
+	"***Dropship Arrival in 60 Seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Nuking Planet Surface in 60 Seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Dropship Arrival in 30 Seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***BugHole has Opened in Center of Outpost***"
+	{
+		"chi"		"** **"
+	}
+	"***Dropship Arrival in 10 Seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Dropship has Arrived***"
+	{
+		"chi"		"** **"
+	}
+	"***Dropship Departing in 15 Seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Dropship is Departing***"
+	{
+		"chi"		"** **"
+	}
+}

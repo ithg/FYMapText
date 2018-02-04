@@ -1,0 +1,351 @@
+"Console_T"
+{
+	"***Map Made By Color!***"
+	{
+		"chi"		"** **"
+	}
+	"***Stage 1***"
+	{
+		"chi"		"** **"
+	}
+	"***MAP BY - LUFFAREN***"
+	{
+		"chi"		"** **"
+	}
+	"***DO NOT TRY TO TAKE SHORTCUTS - IT WILL RESULT IN TELEPORTING BACK***"
+	{
+		"chi"		"** **"
+	}
+	"***A human has picked up health!***"
+	{
+		"chi"		"** **"
+	}
+	"***Hold for 35s!***"
+	{
+		"chi"		"** **"
+	}
+	"***5s left!***"
+	{
+		"chi"		"** **"
+	}
+	"***Wood door will break in 10s!***"
+	{
+		"chi"		"** **"
+	}
+	"***All zombies will be teleported in 9s!***"
+	{
+		"chi"		"** **"
+	}
+	"***Hold for 45s!***"
+	{
+		"chi"		"** **"
+	}
+	"***Hold for 30s!***"
+	{
+		"chi"		"** **"
+	}
+	"***Rock monster will appear in 20s!***"
+	{
+		"chi"		"** **"
+	}
+	"***Shoot rock monster between two eyes!(use m249 or negev)***"
+	{
+		"chi"		"** **"
+	}
+	"***Rock monster will attack in 5s!***"
+	{
+		"chi"		"** **"
+	}
+	"***Rock monster uses blast!(move to the edge of the platform)***"
+	{
+		"chi"		"** **"
+	}
+	"***Boss will destroy us in 5s!***"
+	{
+		"chi"		"** **"
+	}
+	"***Rock monster has been defeated!Go!***"
+	{
+		"chi"		"** **"
+	}
+	"***Hold for 25s!***"
+	{
+		"chi"		"** **"
+	}
+	"***Do not allow zombies to enter the safe room!***"
+	{
+		"chi"		"** **"
+	}
+	"***Enter the safe room!The nuke will launch in 10s!***"
+	{
+		"chi"		"** **"
+	}
+	"***Stage completed!***"
+	{
+		"chi"		"** **"
+	}
+	"***Next Stage:[Race]***"
+	{
+		"chi"		"** **"
+	}
+	"***Race***"
+	{
+		"chi"		"** **"
+	}
+	"***Winners will have access to get special items in next stage!***"
+	{
+		"chi"		"** **"
+	}
+	"***Zombies will come in 12s!***"
+	{
+		"chi"		"** **"
+	}
+	"***Great!Hold for 60s!***"
+	{
+		"chi"		"** **"
+	}
+	"***Next Stage:[Stage 2]***"
+	{
+		"chi"		"** **"
+	}
+	"***Stage 2***"
+	{
+		"chi"		"** **"
+	}
+	"***A human has picked up unlimited hegrenade!***"
+	{
+		"chi"		"** **"
+	}
+	"***A zombie has picked up accelerate!***"
+	{
+		"chi"		"** **"
+	}
+	"***The wood door will break in 25s!***"
+	{
+		"chi"		"** **"
+	}
+	"***Keep care of zombies!***"
+	{
+		"chi"		"** **"
+	}
+	"***A human has picked up fire!***"
+	{
+		"chi"		"** **"
+	}
+	"***A human has picked up rock!***"
+	{
+		"chi"		"** **"
+	}
+	"***Rock monster uses left fire(move to right)!***"
+	{
+		"chi"		"**BOSS将在左平台燃烧火焰（向右平台移动）**"
+	}
+	"***Rock monster uses lightning!(crouch)***"
+	{
+		"chi"		"**BOSS发动雷电技能（蹲下躲避）**"
+	}
+	"***Rock monster uses right fire(move to left)!***"
+	{
+		"chi"		"**BOSS发动右平台火焰燃烧（向左平台移动）**"
+	}
+	"***Rock monster uses water!(go to the end of the platform)***"
+	{
+		"chi"		"**BOSS发动了流动之水（尽可能移动到平台最后）**"
+	}
+	"***Next Stage:[Laser]***"
+	{
+		"chi"		"** **"
+	}
+	"***Laser race will begin later!***"
+	{
+		"chi"		"** **"
+	}
+	"***Laser***"
+	{
+		"chi"		"** **"
+	}
+	"***Some tips!***"
+	{
+		"chi"		"** **"
+	}
+	"***Tip1:Red laser can add health!***"
+	{
+		"chi"		"** **"
+	}
+	"***Tip2:Blue laser can hurt!***"
+	{
+		"chi"		"** **"
+	}
+	"***Tip3:Purple laser can reduce speed infinitely!***"
+	{
+		"chi"		"** **"
+	}
+	"***Tip4:Green laser can teleport!***"
+	{
+		"chi"		"** **"
+	}
+	"***Laser slash will appear in 5s***"
+	{
+		"chi"		"** **"
+	}
+	"***Next Stage:[Stage 3]***"
+	{
+		"chi"		"** **"
+	}
+	"***Stage 3***"
+	{
+		"chi"		"** **"
+	}
+	"***Some barriers disappeared!***"
+	{
+		"chi"		"** **"
+	}
+	"***Color lasers are activated!***"
+	{
+		"chi"		"** **"
+	}
+	"***A human has picked up lightning!***"
+	{
+		"chi"		"** **"
+	}
+	"***A human will shine the roof!***"
+	{
+		"chi"		"** **"
+	}
+	"***Hold here for 25s!***"
+	{
+		"chi"		"** **"
+	}
+	"***Resist for 25s!***"
+	{
+		"chi"		"** **"
+	}
+	"***The ultimate will start in 14s!***"
+	{
+		"chi"		"** **"
+	}
+	"***Rock monster uses skyfire!***"
+	{
+		"chi"		"**BOSS发动了天火技能**"
+	}
+	"***Next Stage:[Surf]***"
+	{
+		"chi"		"** **"
+	}
+	"***Surf***"
+	{
+		"chi"		"** **"
+	}
+	"***Find a place to hold for 45s! ***"
+	{
+		"chi"		"** **"
+	}
+	"***Teleport all players in 20s! ***"
+	{
+		"chi"		"** **"
+	}
+	"***Zombies will come in 20s!***"
+	{
+		"chi"		"** **"
+	}
+	"***Hold here for 35s!***"
+	{
+		"chi"		"** **"
+	}
+	"***Complete the surf and you will award 100 scores and a molotov!***"
+	{
+		"chi"		"** **"
+	}
+	"***All zombies will come in 20s!***"
+	{
+		"chi"		"** **"
+	}
+	"***Hold here for 25s or complete last surf!***"
+	{
+		"chi"		"** **"
+	}
+	"***Jump above the chicken!***"
+	{
+		"chi"		"** **"
+	}
+	"***Hold the chicken for last 35s!***"
+	{
+		"chi"		"** **"
+	}
+	"***Next Stage:[Stage 4]***"
+	{
+		"chi"		"** **"
+	}
+	"***Stage 4***"
+	{
+		"chi"		"** **"
+	}
+	"***Constant skyfire will appear in some areas!***"
+	{
+		"chi"		"** **"
+	}
+	"***A zombie has picked up fireball! ***"
+	{
+		"chi"		"** **"
+	}
+	"***Wood door will break in 30s!***"
+	{
+		"chi"		"** **"
+	}
+	"***Find the green glow to activate the wood bed!***"
+	{
+		"chi"		"** **"
+	}
+	"***The wood bed will move in 10s!***"
+	{
+		"chi"		"** **"
+	}
+	"***Rock monster will use forward-push in 3s!***"
+	{
+		"chi"		"**BOSS 3S后将要往前推动（准备按住S）**"
+	}
+	"***25s left!***"
+	{
+		"chi"		"** **"
+	}
+	"***Next Stage:[Wind]***"
+	{
+		"chi"		"** **"
+	}
+	"***Wind***"
+	{
+		"chi"		"** **"
+	}
+	"***Oh!You are shining the roof!***"
+	{
+		"chi"		"** **"
+	}
+	"***Choice begins in 20s!***"
+	{
+		"chi"		"** **"
+	}
+	"***Choose a stage!***"
+	{
+		"chi"		"** **"
+	}
+	"***Zombie infection!Enjoy yourself!***"
+	{
+		"chi"		"** **"
+	}
+	"***Hold for 150s!***"
+	{
+		"chi"		"** **"
+	}
+	"***60s left!***"
+	{
+		"chi"		"** **"
+	}
+	"***Rock monster will use backward-push in 3s!***"
+	{
+		"chi"		"**BOSS 3S后将要发动推动技能（准备按W）**"
+	}
+	"***Rock monster will use right-push in 3s!***"
+	{
+		"chi"		"**BOSS 3S后发动右推技能（准备按住A）**"
+	}
+}

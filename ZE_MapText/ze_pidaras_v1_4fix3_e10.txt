@@ -1,0 +1,227 @@
+"Console_T"
+{
+	"*** ze_Pidaras_v1_4 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Map by Nostar ***"
+	{
+		"chi"		"**地图作者：Nostar**"
+	}
+	"*** Thank you so much to Noctali  Cuniczek  Moltard  and all Pidaras ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Good luck and Let's Rock ! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Admoun please Minas Tirith nextmap or ban or flute ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL 1 : KILL THE PYRAMIGAY ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Pidaras Freezer has been picked ***"
+	{
+		"chi"		"**冰冻枪被捡起**"
+	}
+	"*** Pidaras Shotgun pickep up ! Only 35 shots ! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** GANDALF DONT LIKE DOOR HUGGER ***"
+	{
+		"chi"		"** **"
+	}
+	"*** BECAUSE HE'S A FUCKING RACIST ***"
+	{
+		"chi"		"** **"
+	}
+	"*** DOOR OPEN IN 25 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** DOOR OPEN IN 10 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** DOOR OPEN FUCKING PIDARAS !!! GO GO GO !!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** AFK TELEPORT IN 10 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** EXPLOSION IN 15 SECONDS PIDARAS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Pidaras Heal  Unlimited Ammo has been picked ***"
+	{
+		"chi"		"** **"
+	}
+	"***Bahatard is dead ! Run fucking idiot !***"
+	{
+		"chi"		"** **"
+	}
+	"***The pidaras train move in 10 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"*** Zombies will be teleported in 10 seconds ! Run to the gate ! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** The pidaras gate is open in 15 seconds! cover fucking morons ! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** The gate is open ! If you are a true pidaras sacrifices you and stay cover ! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** OMFG !!! This is.. this is..... THIS IS THE WORLD OF GFL !!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Cover 20 seconds on this big ASS fucking racist ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ZM teleport in 3 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** The gay horses move in 5 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** OMFG SHOOT THIS FUCKING PYRAMIGAY ***"
+	{
+		"chi"		"** **"
+	}
+	"*** WARNING THESE HORSES ARE BITCHES ! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Stay cover here guys while waiting for the bridge ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Find the pidaras key to open the door ***"
+	{
+		"chi"		"** **"
+	}
+	"*** The pidaras key was found ! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** FALL BACK FUCKING RETARD ***"
+	{
+		"chi"		"** **"
+	}
+	"*** PORTAL OPEN IN 20 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** TELEPORT AFK IN 5 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** GO GO GO PIDARAS ! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** RUN TO THE RED DOOR FUCKING NIGGA ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ZM TELEPORT IN 5 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"***  RED DOOR OPEN IN 25 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** GOGOGO FUCKING PIDARAS !!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** OK... GUYS... IT'S TIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIMEE !!!!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ZOMBIE TELEPORT IN 5 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"** Boss Fight in 20s **"
+	{
+		"chi"		"** **"
+	}
+	"*** It's time guys ! fight for mother RUSSIA ! ***"
+	{
+		"chi"		"** **"
+	}
+	"** Boss Fight in 10s **"
+	{
+		"chi"		"** **"
+	}
+	"*** OMFG SHOOT THIS FUCKING KID !!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** MESHLEM USE PENISGUN ! CROUCH TO DODGE IT ! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** MESHLEM USE GANDALF PUTATIMA !!! DON'T STAY IN THE MIDDLE ! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** MESHLEM USE ZIZICOPTER ! JUMP TO DODGE IT ! ***"
+	{
+		"chi"		"** **"
+	}
+	"> ZE UT2004 CONVOY"
+	{
+		"chi"		"** **"
+	}
+	"*** MESHLEM USE DIARRHEA ! JUMP ! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Pidaras flamethrower has been picked ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ZM TELEPORT IN 10 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** GLASS BREAK IN 5 SECONDS ! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** OH MY GOD ! THIS IS BOMEC ! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Minigun has been picked"
+	{
+		"chi"		"** **"
+	}
+	"*** OMFG ! IT'S FAGGET TIME ! LET'S ROCK ! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** OMFG ! SHOOT ROSHI ! I'M SCARED !!! ***"
+	{
+		"chi"		"** **"
+	}
+}

@@ -1,0 +1,19 @@
+"Console_T"
+{
+	"**********MAP CREATED BY: Hannibal[SPA] (Rafuron) **********"
+	{
+		"chi"		"** **"
+	}
+	"** Tips : Ideas : Adjustments by Maese Danielot **"
+	{
+		"chi"		"** **"
+	}
+	"**CURRENT DIFFICULTY ** >> EASY << **"
+	{
+		"chi"		"** **"
+	}
+	"** MATERIA SPAMMERS WILL BE PUNISHED **"
+	{
+		"chi"		"** **"
+	}
+}

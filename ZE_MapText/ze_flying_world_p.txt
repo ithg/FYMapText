@@ -1,0 +1,139 @@
+"Console_T"
+{
+	">>>RUN TO THE CT FLIGHING BOAT<<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>FOLLOW THE BLUE LIGHT<<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>CT FLIGHING BOAT LEAVING IN 15 SECONDS<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>MAP BY LeGrem<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>ZOMBIES FLIGHING BOAT LEAVING IN 10 SECONDS<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>CT FLIGHING BOAT LEAVING<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>ZOMBIES FLIGHING BOAT LEAVING<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>BREAK THE WOODEN BLOCKER ON TOP<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>THE OTHER NEED TO COVER<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>DOORS CLOSING IN 25 SECONDS<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>DOORS CLOSING IN 5 SECONDS<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>RUN<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>FLYING BOAT WILL LEAVE IN 15 SECONDS<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>COVER 25 SECONDS<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>5 SECONDS LEFT<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>START THE GENERATOR TO OPEN THE DOOR<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>ACTIVATE THE GENERATOR<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>DOOR WILL OPEN IN 30 SECONDS<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>RUN TO THE CONTROL ROOM AND ACTIVATE THE PANEL<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>CONTROL PANEL ACTIVATED<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>TAKE THE LADDER<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>RUN TO THE NEXT CONTROL PANEL<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>COVER 20 SECONDS<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>RUN TO THE LAST CONTROL PANEL<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>LIFT LEAVING IN 15 SECONDS<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>FLIGHING BOAT LEAVING IN 15 SECONDS<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>RUN TO THE AIRPORT BUILDING<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>COVER 45 SECONDS<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>20 SECONDS LEFT<<<"
+	{
+		"chi"		"** **"
+	}
+	">>RUN TO THE LAB<<"
+	{
+		"chi"		"** **"
+	}
+	">>>WAIT C4 EXPLOSION<<<"
+	{
+		"chi"		"** **"
+	}
+	">>> WAIT FLYING BOAT AT THE TOP OF THE LIGHTHOUSE<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>WAIT THE FLYING BOAT 15 SECONDS<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>FLYING BOAT LEAVING IN 10 SECONDS<<<"
+	{
+		"chi"		"** **"
+	}
+}
