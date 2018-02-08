@@ -1,0 +1,407 @@
+"Console_T"
+{
+	"*** Map made by Altima ***"
+	{
+		"chi"		"**地图作者：Altima 地图翻译：牛肉粉**"
+	}
+	"*** Mapping Help Airvulpes,Kune,thas,Rukly,Shufen ***"
+	{
+		"chi"		"**地图帮助：Airvulpes kune thas Rukly Shufen**"
+	}
+	"*** Model :Dakotec ***"
+	{
+		"chi"		"**模型帮助：Dakotec**"
+	}
+	"*** ze_ffxiv_wanderers_palace ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Level:Normal ***"
+	{
+		"chi"		"**关卡：普通**"
+	}
+	"*** HINT: Activate Nymian Device ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 15 seconds to activate Nymian device ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 5 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 30 seconds to Activate Nymian device ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 15 seconds to Enkidu Battle and AFK Teleport ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Enkidu appeared ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Shoot to Enkidu ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Enkidu dead ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 25 seconds to Activate Nymian device ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 10 seconds  ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Look for all of Nymian device ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Nymian device 1 activated ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Nymian device 2 activated ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Nymian device 3 activated ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Nymian device 4 activated ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ALL Nymian device Activated ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 5 seconds to Activate Nymian device ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Normal Clear!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Next Level Hard ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Level:Hard ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 15 seconds to leave Tonberrys ***"
+	{
+		"chi"		"** **"
+	}
+	"***A player picked up Summoner Shadow Flare***"
+	{
+		"chi"		"** **"
+	}
+	"***Recast 60s***"
+	{
+		"chi"		"** **"
+	}
+	"***A player picked up Black Mage Flare***"
+	{
+		"chi"		"** **"
+	}
+	"***Recast 55s***"
+	{
+		"chi"		"** **"
+	}
+	"*** 20 seconds to activate Nymian device ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 30 seconds to Open Road ***"
+	{
+		"chi"		"** **"
+	}
+	"***A player picked up Mount Night Mare***"
+	{
+		"chi"		"** **"
+	}
+	"***Recast 50s***"
+	{
+		"chi"		"** **"
+	}
+	"*** 30 seconds to Activate Nymian device  ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 10 seconds   ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Location: The Navel ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Behemoth King Appeared ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Shoot Him ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Heavens Fall ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Land Slide ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Behemoth King dead ***"
+	{
+		"chi"		"** **"
+	}
+	"***45 seconds to HARD CLEAR***"
+	{
+		"chi"		"** **"
+	}
+	"***5 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***HARD CLEAR***"
+	{
+		"chi"		"** **"
+	}
+	"***Texture Support by fujione***"
+	{
+		"chi"		"** **"
+	}
+	"***Map made by Altima***"
+	{
+		"chi"		"** **"
+	}
+	"***Next Level Extreme***"
+	{
+		"chi"		"** **"
+	}
+	"*** Level:Extreme ***"
+	{
+		"chi"		"** **"
+	}
+	"***A player picked up Paladin Shield Oath"
+	{
+		"chi"		"** **"
+	}
+	"***Recast 80s***"
+	{
+		"chi"		"** **"
+	}
+	"*** 35 seconds to activate Nymian device ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 10 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Chase the ADS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 30 seconds to Open Door ***"
+	{
+		"chi"		"** **"
+	}
+	"***A player picked up Limit Break***"
+	{
+		"chi"		"** **"
+	}
+	"*** once only ***"
+	{
+		"chi"		"** **"
+	}
+	"***A player picked up White Mage Benediction***"
+	{
+		"chi"		"** **"
+	}
+	"*** 45 seconds to Break Rocks ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Recast 150s ***"
+	{
+		"chi"		"** **"
+	}
+	"***Bahamut Prime appeared***"
+	{
+		"chi"		"** **"
+	}
+	"***Bahamut Prime is Casting now***"
+	{
+		"chi"		"** **"
+	}
+	"***Akh Morn***"
+	{
+		"chi"		"** **"
+	}
+	"*** 3 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 2 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 1 ***"
+	{
+		"chi"		"** **"
+	}
+	"***Flare***"
+	{
+		"chi"		"** **"
+	}
+	"***Heavens Fall***"
+	{
+		"chi"		"** **"
+	}
+	"***Earth Shaker***"
+	{
+		"chi"		"** **"
+	}
+	"***ADS Attack***"
+	{
+		"chi"		"** **"
+	}
+	"***shoot ADS and Zombies***"
+	{
+		"chi"		"** **"
+	}
+	"***Tempest Wing***"
+	{
+		"chi"		"** **"
+	}
+	"***Bahamut Prime dead***"
+	{
+		"chi"		"** **"
+	}
+	"*** 15 seconds to activate Elevator ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 30 seconds to Open Wall ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Dont Touch Water ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Water is Death Zone ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Nael Van Dahrnus Appeared ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Kill HER ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Dead ***"
+	{
+		"chi"		"** **"
+	}
+	"***A player picked up Bird Armys Paeon***"
+	{
+		"chi"		"** **"
+	}
+	"***Recast 90s***"
+	{
+		"chi"		"** **"
+	}
+	"*** Extreme CLEAR ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Next Level Savage ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Level:Savage ***"
+	{
+		"chi"		"** **"
+	}
+	"***Holm gang zombie incoming...***"
+	{
+		"chi"		"** **"
+	}
+	"*** Recast 95s ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 30 seconds to Break Fence ***"
+	{
+		"chi"		"** **"
+	}
+	"***DIFFICULTY --- NORMAL***"
+	{
+		"chi"		"** **"
+	}
+	"*** Flare ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Hold 20 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"***Location: The Ragnarok ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Defend 45 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ADS ATTACK ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Dalamud appeared ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Dalamud the last boss ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Shadow Flare ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Cauterize ***"
+	{
+		"chi"		"** **"
+	}
+	"*** True Bahamut appeared ***"
+	{
+		"chi"		"** **"
+	}
+	"*** True Heavens fall ***"
+	{
+		"chi"		"** **"
+	}
+	">>>Respawn wall break in 20 sec<<<"
+	{
+		"chi"		"** **"
+	}
+}

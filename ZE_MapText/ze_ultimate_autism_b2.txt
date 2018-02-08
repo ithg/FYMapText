@@ -1,0 +1,23 @@
+"Console_T"
+{
+	"***SURF***"
+	{
+		"chi"		"** **"
+	}
+	"***THE TWIST WILL BE: ***"
+	{
+		"chi"		"** **"
+	}
+	"***"
+	{
+		"chi"		"** **"
+	}
+	"***LOW GRAVITY***"
+	{
+		"chi"		"** **"
+	}
+	"***GET TO THE CENTER***"
+	{
+		"chi"		"** **"
+	}
+}

@@ -1,0 +1,23 @@
+"Console_T"
+{
+	"** LEVEL: NOT TOO ROUGH **"
+	{
+		"chi"		"** **"
+	}
+	"Defend few seconds"
+	{
+		"chi"		"** **"
+	}
+	"Path will open in few seconds !"
+	{
+		"chi"		"** **"
+	}
+	"Hold them a bit !!!"
+	{
+		"chi"		"** **"
+	}
+	"Path is open ! Fall Back, Run !!"
+	{
+		"chi"		"** **"
+	}
+}

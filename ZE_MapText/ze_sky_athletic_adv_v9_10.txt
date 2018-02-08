@@ -794,23 +794,23 @@
 	}
 	"WARNING : ZOMBIES ARE ALIVE !!!"
 	{
-		"chi"		"** **"
+		"chi"		"**警告：僵尸笼是开放的 请注意防守**"
 	}
 	"*** HINT : Don't shoot the machine !! SHOOT THE her head !!! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**HINT:别攻击她的战车 攻击他的头部（本体）**"
 	}
 	"***MAP BY - LUFFAREN***"
 	{
-		"chi"		"** **"
+		"chi"		"**地图作者：LUFFAREN**"
 	}
 	"***DO NOT TRY TO TAKE SHORTCUTS - IT WILL RESULT IN TELEPORTING BACK***"
 	{
-		"chi"		"** **"
+		"chi"		"**不要尝试寻找捷径，你会为此传送回来**"
 	}
 	"*** EXPLOSION IN 3 SECONDS!!!!! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**还有3S发生爆炸**"
 	}
 	"*** 2!!! ***"
 	{
@@ -822,39 +822,39 @@
 	}
 	"Girl CLOUD :Can't move finely !! Is engine colding !?"
 	{
-		"chi"		"** **"
+		"chi"		"**云妹妹：我.....动不了 我的发动机着火了**"
 	}
 	"*** WIND is too strong !! Bullets will be back !! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**风的力量太强大了！！子弹似乎又飞回来了**"
 	}
 	"BOY CLOUD : Too hot!! keep away it from me !!"
 	{
-		"chi"		"** **"
+		"chi"		"**古惑云仔：好热啊 离我远点**"
 	}
 	"*** Her machine is releasing smoke!!keep shooting !! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**她的战车已经开始冒烟了 保持火力**"
 	}
 	"Girl cloud : What...? Why can't move !?"
 	{
-		"chi"		"** **"
+		"chi"		"**云妹妹：什么？？我怎么动不了？！**"
 	}
 	"Girl cloud : Ahh!! Please move !!"
 	{
-		"chi"		"** **"
+		"chi"		"**云妹妹：卧槽!!!!!!快动起来了啊！！！！！**"
 	}
 	"Girl cloud : AHHHHHHHHHHHH !!"
 	{
-		"chi"		"** **"
+		"chi"		"**云妹妹：啊啊啊啊啊啊啊啊啊啊!!!**"
 	}
 	"*** You defeated Girl cloud ***"
 	{
-		"chi"		"** **"
+		"chi"		"**你击败了云妹妹**"
 	}
 	"*** It's her final attack !! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**这是她最后的攻击了**"
 	}
 	"*** SURVIVE FOR 15 SECONDS !! ***"
 	{
@@ -918,31 +918,31 @@
 	}
 	"*** STAGE 1: EXTREME COMPLETED ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第1关：极限难度完成**"
 	}
 	"*** STAGE 2: EXTREME ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第二关：极限??!难度**"
 	}
 	"*** A PLAYER HAS PICKED UP A SMALL HEALTH LIGHT ***"
 	{
-		"chi"		"** **"
+		"chi"		"**有玩家捡到了小奶神器**"
 	}
 	"BOY CLOUD :I couldn't beat you humans..."
 	{
-		"chi"		"** **"
+		"chi"		"**古惑云仔：我无法击败你们**"
 	}
 	"Girl CLOUD :I couldn't beat you too..."
 	{
-		"chi"		"** **"
+		"chi"		"**云妹妹：我也无法击败你们**"
 	}
 	"TWO CLOUDS :but..."
 	{
-		"chi"		"** **"
+		"chi"		"**两兄妹：但是.........................**"
 	}
 	"TWO CLOUDS :My Father will defeat you instead of us !!"
 	{
-		"chi"		"** **"
+		"chi"		"**两兄妹：我们的父亲将在这里击溃你们**"
 	}
 	"BOY CLOUD :HEY DAD !! PLEASE DEFEAT THEM !!!!!!!!"
 	{

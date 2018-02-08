@@ -1,0 +1,99 @@
+"Console_T"
+{
+	"*** Map by Airvulpes ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Hold 30 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 10 seconds left ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Hold 20 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 5 seconds left ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Hold 25 seconds ***"
+	{
+		"chi"		"**守住25秒**"
+	}
+	"*** CRUSTAL MOVEMENT ***"
+	{
+		"chi"		"** **"
+	}
+	"*** QUAKE ***"
+	{
+		"chi"		"**地震**"
+	}
+	"*** LAND SUBSIDENCE ***"
+	{
+		"chi"		"** **"
+	}
+	"*** EARTHEN SHIELD ***"
+	{
+		"chi"		"** **"
+	}
+	"*** EARTH STOMP ***"
+	{
+		"chi"		"** **"
+	}
+	"*** EARTH SHOCK ***"
+	{
+		"chi"		"** **"
+	}
+	"*** EARTHQUAKE ***"
+	{
+		"chi"		"** **"
+	}
+	"*** doors opens 10 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Door opens 25 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Door opens 35 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** BLIZZARD ***"
+	{
+		"chi"		"** **"
+	}
+	"*** FREEZING COFFIN ***"
+	{
+		"chi"		"** **"
+	}
+	"*** TIDAL WAVE ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ICICLE FALL ***"
+	{
+		"chi"		"** **"
+	}
+	"*** FROZEN WATER ***"
+	{
+		"chi"		"** **"
+	}
+	"*** RISING WATER ***"
+	{
+		"chi"		"** **"
+	}
+	"*** DIAMOND DUST ***"
+	{
+		"chi"		"** **"
+	}
+	"***WARMUP***"
+	{
+		"chi"		"** **"
+	}
+}

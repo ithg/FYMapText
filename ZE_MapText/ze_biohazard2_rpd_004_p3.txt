@@ -1,0 +1,11 @@
+"Console_T"
+{
+	">>> WARMUP ROUND 40 SECONDS REMAINING <<<"
+	{
+		"chi"		"** **"
+	}
+	"'i love u'"
+	{
+		"chi"		"** **"
+	}
+}

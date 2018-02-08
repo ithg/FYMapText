@@ -1,0 +1,95 @@
+"Console_T"
+{
+	"*** Ze_sC_Turtles By T3tra ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Lift 2 Departing In 5 Seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Lift 1 Departing In 5 Seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Main Gate 2 Opening In 5 Seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Main Gate 1 Opening In 5 Seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Tunnel Door Opening In 10 Seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Escape Boat 1 Is Leaving In 3 Seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Escape Boat 2 Is Leaving In 3 Seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Cave Dangle Conveyor Departing In 5 Seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Cave Bridge Has Been Blown ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Cave Blast Doors Opening In 40 Seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Cave Blast Doors Opening In 10 Seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Cave Blast Doors Opening In 2 Seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Zombies Detected In Submarine Bay ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Security Devices Enabled ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Hurry! Submarine Is Leaving! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Submarine Obstructed: Can't Leave The Bay ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Get To The Dock And Hope For Rescue! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** WARNING: The Sea Is Contaminated - Dont Swim Out ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Turtles Inbound! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Raft 1 Is Departing In 45 Seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Submarine Speed Restrictors Disabled ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Ridiculously Oversized Nuke Has Been Launched! ***"
+	{
+		"chi"		"** **"
+	}
+}

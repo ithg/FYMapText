@@ -1,0 +1,83 @@
+"Console_T"
+{
+	"*** MAP BY P'A'SS ***"
+	{
+		"chi"		"** **"
+	}
+	">>> Hold until the City Doors Open! <<<"
+	{
+		"chi"		"** **"
+	}
+	"*** Cover the windows until we find a way out of here ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Kitchen and living room windows are broken! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** RESIST ***"
+	{
+		"chi"		"** **"
+	}
+	"*** GET DOWN IN THE BASEMENT NOW ***"
+	{
+		"chi"		"** **"
+	}
+	">>> Elevator Leaves in 10 seconds !! <<"
+	{
+		"chi"		"** **"
+	}
+	">>> Door Opens in 25 seconds <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> Door Opens in 15 seconds <<<"
+	{
+		"chi"		"** **"
+	}
+	"*** Bathroom and living room windows are broken! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Facility door opens in 25 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Door opens in 20 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Silo doors open in 25 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** STARTING THE REACTORS... ***"
+	{
+		"chi"		"** **"
+	}
+	"*** OH NO ***"
+	{
+		"chi"		"** **"
+	}
+	"*** THE REACTOR CORES ARE GOING UNSTABLE ***"
+	{
+		"chi"		"** **"
+	}
+	"*** YOU NEED TO MAKE YOUR WAY TO THE BUNKER BELOW SECTOR 1 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** SECTOR 1 DOORS SHOULD OPEN SOON! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** RESIST! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** THIS PLACE IS GOING TO BLOW UP IN 2 MINUTES ***"
+	{
+		"chi"		"** **"
+	}
+}

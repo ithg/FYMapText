@@ -1,0 +1,51 @@
+"Console_T"
+{
+	">> WARMUP ROUND <<"
+	{
+		"chi"		"** **"
+	}
+	"*** Map By P'a'ss and Kim ***"
+	{
+		"chi"		"** **"
+	}
+	">>> mat_colorcorrection 1 IN CONSOLE FOR BETTER VISUALS <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> After winning a round you will get 100 points which equals with 1 level  <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> Level 1 item requires 100 points Level 2 item requires 200 points and so on. <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> When round starts you have small amount of time to pick an item before the zombies spawn <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> AFTER PICKING UP AN ITEM YOU CAN USE THEIR ATTACKS WITH EITHER LEFT OR RIGHT MOUSE CLICK <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> Shooting the Zombie items in the head will push them back! <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> ONLY 1 OF EACH HUMAN ITEMS CAN BE TAKEN AT ONCE <<<"
+	{
+		"chi"		"** **"
+	}
+	">> Stage 1 Helgen <<"
+	{
+		"chi"		"** **"
+	}
+	">> City gate closes in 50 seconds <<"
+	{
+		"chi"		"** **"
+	}
+	">> Run for the helgen keep NOW! <<"
+	{
+		"chi"		"** **"
+	}
+}

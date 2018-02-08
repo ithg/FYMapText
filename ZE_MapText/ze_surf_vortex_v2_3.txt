@@ -24,4 +24,52 @@
 	{
 		"chi"		"** **"
 	}
+	"***Gravity picked up***"
+	{
+		"chi"		"** **"
+	}
+	"***Gravity Used***"
+	{
+		"chi"		"** **"
+	}
+	">>>Respawn wall break in 20 sec<<<"
+	{
+		"chi"		"** **"
+	}
+	"***Low Health picked up***"
+	{
+		"chi"		"** **"
+	}
+	"***Find Another Button***"
+	{
+		"chi"		"** **"
+	}
+	"***Teleport error fixed in 30 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Try to find second button***"
+	{
+		"chi"		"** **"
+	}
+	"***zombies are coming***"
+	{
+		"chi"		"** **"
+	}
+	"***Second teleport fixed in 30 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***5 second left***"
+	{
+		"chi"		"** **"
+	}
+	"***Watch out!***"
+	{
+		"chi"		"** **"
+	}
+	"***READY TO RUN***"
+	{
+		"chi"		"** **"
+	}
 }

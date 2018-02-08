@@ -262,23 +262,23 @@
 	}
 	"** KILL REMAINING ZOMBIES **"
 	{
-		"chi"		"** **"
+		"chi"		"**清理掉进来的所有僵尸**"
 	}
 	"** Player has learned POISONA (damage lvl4) **"
 	{
-		"chi"		"** **"
+		"chi"		"**有玩家捡到了毒神器（4级毒）**"
 	}
 	"** Player has learned FIRAGA (fire lvl5) **"
 	{
-		"chi"		"** **"
+		"chi"		"**有玩家捡到了火神器（5级火）**"
 	}
 	"** Player has learned FLARE (damage lvl5) **"
 	{
-		"chi"		"** **"
+		"chi"		"**有玩家拿到了毒神器（5级毒）**"
 	}
 	"** BOSS HAS BEEN STAGGERED **"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS开始进攻了**"
 	}
 	"** BULLETSNADES DOES 200 '. DAMAGE ON BOSS FOR 10 SECONDS **"
 	{
@@ -286,15 +286,15 @@
 	}
 	"** YOU KILLED MATEUS **"
 	{
-		"chi"		"** **"
+		"chi"		"**你杀死了BOSS**"
 	}
 	"** ELEVATOR WILL LEAVE IN 30 SECONDS **"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯将于30S后离开**"
 	}
 	"** ELEVATOR WILL LEAVE IN 5 SECONDS **"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯将于5S后离开**"
 	}
 	"** HOLD THE ELEVATOR TILL WE REACH THE TOP **"
 	{
@@ -349,6 +349,26 @@
 		"chi"		"** **"
 	}
 	"**Stage 1**"
+	{
+		"chi"		"** **"
+	}
+	"** THE RIGHT WAY HAS BEEN OPENED **"
+	{
+		"chi"		"** **"
+	}
+	"** WE ARE ALMOST OUT THIS FOREST **"
+	{
+		"chi"		"** **"
+	}
+	"** DEFEND HERE TILL THIS GATE OPENS **"
+	{
+		"chi"		"** **"
+	}
+	"** 5 MORE SECONDS **"
+	{
+		"chi"		"** **"
+	}
+	"***DIFFICULTY --- NORMAL***"
 	{
 		"chi"		"** **"
 	}

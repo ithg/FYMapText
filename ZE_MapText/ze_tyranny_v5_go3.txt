@@ -1,0 +1,367 @@
+"Console_T"
+{
+	">>> Map by Moray <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> Thanks to nano (Help & Ideas) <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> WARMUP ROUND 30 SECONDS REMAINING <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> WARMUP ROUND 20 SECONDS REMAINING <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> WARMUP ROUND 40 SECONDS REMAINING <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> WARMUP ROUND 10 SECONDS REMAINING <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> WARMUP ROUND END <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> STAGE 1 <<<"
+	{
+		"chi"		">>>第一关<<<"
+	}
+	">>> ENTRANCE DOOR OPENING <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> HOLD 25 SECONDS <<<"
+	{
+		"chi"		">>>守住25秒<<<"
+	}
+	">>> PLAYER HAS PICKED UP HEAL <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> AFK TELEPORT IN 10 SECONDS <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> HOLD 20 SECONDS <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> PLAYER HAS PICKED UP PUSH <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> AFK TELEPORT IN 5 SECONDS <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> PLAYER HAS PICKED UP ICE <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> HOLD 10 SECONDS <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> HOLD 5 SECONDS <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> PLAYER HAS PICKED UP FIRE <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> HOLD 15 SECONDS <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> SPIDER IS COMING <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> SPIDER USED POISON <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> SPIDER IS DEFEATED <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> TELEPORTER ACTIVATE IN 20 SECONDS <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> DOOR CLOSING <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> STAGE 1 COMPLETED <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> STAGE 2 <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> PLAYER HAS PICKED UP ZOMBIE HEAL <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> PLAYER HAS PICKED UP ZOMBIE FIRE <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> TROLL IS COMING <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> TROLL IS DEFEATED <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> PLAYER HAS PICKED UP LIGHTNING <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> IT'S DRAGON <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> DRAGON IS DEFEATED <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> STAGE 2 COMPLETED <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> STAGE 3 <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> HOLD 30 SECONDS <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> HOLD 35 SECONDS <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> PLAYER HAS PICKED UP ZOMBIE POISON <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> DRAGON IS COMING <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> DRAGON USED POISON <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> DRAGON USED WATER <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> DRAGON USED FIRE <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> DRAGON USED PUSH <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> GATE OPENING IN 5 SECONDS <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> PLAYER HAS PICKED UP AMMO <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> PLAYER HAS PICKED UP HEDGE <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> PLAYER HAS PICKED UP KILLER <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> 5 SECONDS REMAINING. DON'T DELAY <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> RUN <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> GARGANTUA IS COMING KEEP RUNNING <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> SHOOT DRAGON <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> TELEPORTER ACTIVATE IN 10 SECONDS <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> STAGE 3 COMPLETED <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> STAGE 4 <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> PLAYER HAS PICKED UP ZOMBIE INVISIBLE <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> PLAYER HAS PICKED UP ZOMBIE GRAVITY <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> GARGANTUA IS COMING <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> GARGANTUA USED GRAVITY <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> GARGANTUA USED POISON <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> GARGANTUA USED KILLER. GO SIDE <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> GARGANTUA USED PUSH <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> GARGANTUA USED FIRE <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> GARGANTUA USED ICE <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> GARGANTUA IS DEFEATED <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> GATE OPENING IN 10 SECONDS <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> HOLD 40 SECONDS <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> HOLD 15 SECONDS<<<"
+	{
+		"chi"		"** **"
+	}
+	">>> BRIDGE IS BROKEN <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> ALL ZM ITEMS IS DISABLED <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> IT'S BALROG <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> BALROG IS ESCAPED <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> STAGE 4 COMPLETED <<<"
+	{
+		"chi"		"** **"
+	}
+	"*** WARMUP ROUND (60 sec) ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Map By Nostar & Moltard ***"
+	{
+		"chi"		"** **"
+	}
+	">>> DRAGON USED GRAVITY <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> STAGE 5 <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> AFK TELEPORT IN 3 SECONDS <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> BREAK STATUE TO GET ITEM <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> PLAYER HAS PICKED UP GRAVITY <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> NOOB TRASHED <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> BALROG IS COMING <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> BALROG USED KILLER <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> BALROG USED GRAVITY <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> BALROG USED SHIELD <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> BALROG USED FIRE <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> BALROG USED PUSH <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> BALROG USED POISON <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> BALROG USED HEAL <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> BALROG USE LASER <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> PLAYER HAS PICKED UP ZOMBIE KILLER <<<"
+	{
+		"chi"		"** **"
+	}
+}

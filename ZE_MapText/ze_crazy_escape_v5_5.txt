@@ -6,7 +6,7 @@
 	}
 	"### SPECIAL THANKS : Moltard ###"
 	{
-		"chi"		"** **"
+		"chi"		"**特别感谢：Moltard**"
 	}
 	"### GRAMMAR CORRECTION BY: ###"
 	{
@@ -374,7 +374,7 @@
 	}
 	"### ZOMBIES CAN TRY TO BREAK THAT THING TO ###"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸去挠碎中间的箱子**"
 	}
 	"### ACTIVATE SPINNING THING !! IF THIS THING BREAKS ###"
 	{
@@ -450,19 +450,19 @@
 	}
 	"### PRESS S PLEASE THANK YOU ###"
 	{
-		"chi"		"** **"
+		"chi"		"**小心，快按住S**"
 	}
 	"### PLEASE LOOK DOWN THANK YOU ###"
 	{
-		"chi"		"** **"
+		"chi"		"**小心，你看你下面是什么**"
 	}
 	"### YOU THINK YOU ARE PRO LASER DODGER ? U MAD ? ###"
 	{
-		"chi"		"** **"
+		"chi"		"**你确定你是跳刀elite吗？**"
 	}
 	"### PRESS W PLEASE THANKS YOU ###"
 	{
-		"chi"		"** **"
+		"chi"		"**小心，快按住W！**"
 	}
 	"### YOU CAN BE SURE ###"
 	{
@@ -481,6 +481,22 @@
 		"chi"		"** **"
 	}
 	"### JUMP PLEASE THANK YOU ###"
+	{
+		"chi"		"**小心，快跳起来！**"
+	}
+	"### HOLD THIS LAST POSTION FOR 30 SECONDS ###"
+	{
+		"chi"		"** **"
+	}
+	"### GOOD JOB BUT THIS NOT THE END ###"
+	{
+		"chi"		"** **"
+	}
+	"### NOW PREPARE TO FACE YOUR INEVITABLE DEATH  ###"
+	{
+		"chi"		"** **"
+	}
+	"*** Ze_sC_Turtles By T3tra ***"
 	{
 		"chi"		"** **"
 	}

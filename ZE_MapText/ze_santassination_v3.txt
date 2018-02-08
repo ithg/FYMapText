@@ -400,4 +400,732 @@
 	{
 		"chi"		"** **"
 	}
+	"***STAGE SET - ACT II***"
+	{
+		"chi"		"** **"
+	}
+	"***HITLERS TEETH ARE NOW BROKEN***"
+	{
+		"chi"		"** **"
+	}
+	"***DEMOCRACY HEREBY WINS THE SUPERBOWL***"
+	{
+		"chi"		"** **"
+	}
+	"***BLACK HOLE***"
+	{
+		"chi"		"** **"
+	}
+	"***NAZI NIPPLE***"
+	{
+		"chi"		"** **"
+	}
+	"***BLACK HOLE AND NAZI NIPPLE HAS BEEN ACTIVATED***"
+	{
+		"chi"		"** **"
+	}
+	"***GLASS WILL BREAK IN 5 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***THE MEXISLED CAN TAKE YOU OVER THE BORDER FOR 40$***"
+	{
+		"chi"		"** **"
+	}
+	"***YOU MANAGED TO SCRAPE TOGETHER 41$ FROM YOUR TUITION MONEY***"
+	{
+		"chi"		"** **"
+	}
+	"***20 SECONDS UNTIL DEPARTURE***"
+	{
+		"chi"		"** **"
+	}
+	"***THE MEXISLED WOULD PREFER YOU TO CALL IT -THE BURRITO SHITTER-***"
+	{
+		"chi"		"** **"
+	}
+	"***PLEASE COMPLY TO THIS REQUEST OR YOUR CLUB PENGUIN ACCOUNT WILL BE DISABLED***"
+	{
+		"chi"		"** **"
+	}
+	"***5 SECONDS UNTIL DEPARTURE***"
+	{
+		"chi"		"** **"
+	}
+	"***THE BURRITO SHITTER IS DEPARTING***"
+	{
+		"chi"		"** **"
+	}
+	"***NEXT STOP - ILLEGALITY***"
+	{
+		"chi"		"** **"
+	}
+	"***PUNISHING EDGERS WITH BURRITO LOVE***"
+	{
+		"chi"		"** **"
+	}
+	"***MAGIC ZOMBIE PUSH IS DISABLED***"
+	{
+		"chi"		"** **"
+	}
+	"***ZOMBIES CAN NOW GET YOU FROM THE SIDES***"
+	{
+		"chi"		"** **"
+	}
+	"***FACTORY DOOR OPENS IN 10 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***FACTORY DOOR OPENS IN 5 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***FACTORY DOOR OPENS IN 4 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***FACTORY DOOR OPENS IN 3 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***FACTORY DOOR OPENS IN 2 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***FACTORY DOOR OPENS IN 1 SECOND***"
+	{
+		"chi"		"** **"
+	}
+	"***OPENING DOORS IN 10 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***OPENING DOORS IN 5 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***OPENING DOORS***"
+	{
+		"chi"		"** **"
+	}
+	"***THE BABYLON BABY BUTTON HAS BEEN TOUCHED***"
+	{
+		"chi"		"** **"
+	}
+	"***THE BABYLON BABY IS PLEASED WITH YOUR ASSISTANCE***"
+	{
+		"chi"		"** **"
+	}
+	"***SEXY VENT GATE IS OPENING IN 20 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***SEXY VENT GATE IS OPENING IN 5 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***SEXY VENT GATE IS OPENING***"
+	{
+		"chi"		"** **"
+	}
+	"***OPENING BASE SOCRATES ELEVATOR GATE***"
+	{
+		"chi"		"** **"
+	}
+	"***TIP - YOU CAN BREAK THE RUSTY METAL***"
+	{
+		"chi"		"** **"
+	}
+	"***FIND THE BUTTONS***"
+	{
+		"chi"		"** **"
+	}
+	"***BUTTON 1 PRESSED***"
+	{
+		"chi"		"** **"
+	}
+	"***BUTTON 2 PRESSED***"
+	{
+		"chi"		"** **"
+	}
+	"***BUTTON 3 PRESSED***"
+	{
+		"chi"		"** **"
+	}
+	"***YOU CAN NOW ADVANCE***"
+	{
+		"chi"		"** **"
+	}
+	"***OPENING UPPER CHAPEL DOOR IN 10 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***OPENING UPPER CHAPEL DOOR IN 5 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***OPENING UPPER CHAPEL DOOR***"
+	{
+		"chi"		"** **"
+	}
+	"***SEXY REINDEER IS OPENING IN 15 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***SEXY REINDEER IS OPENING IN 5 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***SEXY REINDEER IS SPREADING***"
+	{
+		"chi"		"** **"
+	}
+	"***BRIDGE EXIT GATE IS OPENING IN 15 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***BRIDGE EXIT GATE IS OPENING IN 5 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***BRIDGE EXIT GATE IS OPENING***"
+	{
+		"chi"		"** **"
+	}
+	"***HEAD TOWARD SANTAS LAIR***"
+	{
+		"chi"		"** **"
+	}
+	"***YOUR FEET BECOME NIMBLE THROUGH DETERMINATION***"
+	{
+		"chi"		"** **"
+	}
+	"***GET INSIDE SANTAS LAIR***"
+	{
+		"chi"		"** **"
+	}
+	"***SANTA'S LAIR GATE IS CLOSING IN 10 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***SANTA'S LAIR GATE IS CLOSING***"
+	{
+		"chi"		"** **"
+	}
+	"***ACT 2 COMPLETE***"
+	{
+		"chi"		"** **"
+	}
+	"***LOWER ELEVATOR IS LEAVING IN 20 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***LOWER ELEVATOR IS LEAVING IN 5 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***LOWER ELEVATOR IS LEAVING***"
+	{
+		"chi"		"** **"
+	}
+	"***OUTER GATE IS OPENING IN 50 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***OUTER GATE IS OPENING IN 10 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***LOWER GATE IS OPENING IN 35 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***OUTER GATE IS OPENING***"
+	{
+		"chi"		"** **"
+	}
+	"***LOWER GATE IS OPENING IN 5 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***LOWER GATE IS OPENING***"
+	{
+		"chi"		"** **"
+	}
+	"***OUTER ELEVATOR IS LEAVING IN 40 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***OUTER ELEVATOR IS LEAVING IN 5 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***OUTER ELEVATOR IS LEAVING***"
+	{
+		"chi"		"** **"
+	}
+	"***INNER UPPER GATE IS OPENING IN 40 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***INNER UPPER GATE IS OPENING IN 5 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***INNER UPPER GATE IS OPENING***"
+	{
+		"chi"		"** **"
+	}
+	"***OUTER WALL ENTRANCE IS OPENING IN 30 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***OUTER WALL ENTRANCE IS OPENING IN 5 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***OUTER WALL ENTRANCE IS OPENING***"
+	{
+		"chi"		"** **"
+	}
+	"***UPPER GATE IS OPENING IN 30 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***LOWER GATE IS OPENING IN 30 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***UPPER GATE IS OPENING***"
+	{
+		"chi"		"** **"
+	}
+	"***OUTER GATE WILL OPEN IN 20 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***OUTER GATE WILL OPEN IN 5 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***MOVE IT***"
+	{
+		"chi"		"** **"
+	}
+	"***SANTA'S DOOR IS OPENING IN 20 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***SANTA'S DOOR IS OPENING***"
+	{
+		"chi"		"** **"
+	}
+	"***SANTA'S DOOR IS CLOSING IN 5 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***SANTA'S DOOR IS CLOSING IN 4 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***SANTA'S DOOR IS CLOSING IN 3 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***SANTA'S DOOR IS CLOSING IN 2 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***SANTA'S DOOR IS CLOSING IN 1 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***SANTA'S DOOR IS CLOSING***"
+	{
+		"chi"		"** **"
+	}
+	"*** - SANTA - ***"
+	{
+		"chi"		"** **"
+	}
+	"***YOU HAVE DEFEATED SANTA***"
+	{
+		"chi"		"** **"
+	}
+	"***FOR NOW... IT SEEMS***"
+	{
+		"chi"		"** **"
+	}
+	"***UPPER TOWER DOOR IS OPENING IN 20 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***UPPER TOWER DOOR IS OPENING***"
+	{
+		"chi"		"** **"
+	}
+	"***MUFASA IS PRAYING FOR THE TRUTH***"
+	{
+		"chi"		"** **"
+	}
+	"***THE FINAL ELEVATOR IS LEAVING IN 50 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***THE FINAL ELEVATOR IS LEAVING IN 20 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***THE FINAL ELEVATOR IS LEAVING IN 10 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***THE FINAL ELEVATOR IS LEAVING IN 5 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***THE FINAL ELEVATOR IS LEAVING***"
+	{
+		"chi"		"** **"
+	}
+	"***FINAL GATE IS CLOSING IN 15 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***FINAL GATE IS CLOSING IN 5 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***FINAL GATE IS CLOSING***"
+	{
+		"chi"		"** **"
+	}
+	"*** - BIG SANTA - ***"
+	{
+		"chi"		"** **"
+	}
+	"***YOU HAVE DEFEATED SANTA CLAUS***"
+	{
+		"chi"		"** **"
+	}
+	"***MUFASAS DEATH HAS BEEN AVENGED***"
+	{
+		"chi"		"** **"
+	}
+	"***PEACE WILL NOW SPREAD THROUGH THE LANDS***"
+	{
+		"chi"		"** **"
+	}
+	"***THANK YOU FOR PLAYING***"
+	{
+		"chi"		"** **"
+	}
+	"***MAP MADE BY - LUFFAREN***"
+	{
+		"chi"		"** **"
+	}
+	"***MAP RESET - GOING BACK TO PROLOUGE***"
+	{
+		"chi"		"** **"
+	}
+	"***IT FEELS LIKE YOU MISSED SOMETHING***"
+	{
+		"chi"		"** **"
+	}
+	"***IS THIS THE REAL ENDING?***"
+	{
+		"chi"		"** **"
+	}
+	"***STAGE SET - ACT III***"
+	{
+		"chi"		"** **"
+	}
+	"***THE ULTIMATE MURDER BUTTON HAS BEEN PRESSED***"
+	{
+		"chi"		"** **"
+	}
+	"***MERRY XMAS***"
+	{
+		"chi"		"** **"
+	}
+	"***...AND HAPPY SIMBA DAY***"
+	{
+		"chi"		"** **"
+	}
+	"***ZAZU IS PRAYING FOR THE TRUTH***"
+	{
+		"chi"		"** **"
+	}
+	"***CENTER GATE IS OPENING IN 30 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***CENTER GATE IS OPENING IN 5 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***CENTER GATE IS OPENING***"
+	{
+		"chi"		"** **"
+	}
+	"***ELEVATOR SHAFT GATE IS OPENING IN 30 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***SIMBA IS PRAYING FOR THE TRUTH***"
+	{
+		"chi"		"** **"
+	}
+	"***ELEVATOR SHAFT GATE IS OPENING IN 5 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***ELEVATOR SHAFT GATE IS OPENING***"
+	{
+		"chi"		"** **"
+	}
+	"***PLAYER PICKED UP ITEM - ROCKET CANNON***"
+	{
+		"chi"		"** **"
+	}
+	"***THE TRUE PATH IS CLEAR NOW***"
+	{
+		"chi"		"** **"
+	}
+	"***YOU SUDDENLY FEEL UNEASY ABOUT FACING SANTA...***"
+	{
+		"chi"		"** **"
+	}
+	"***YOU FEEL LIKE THE WORLD IS GOING TO BREAK APART SOON...***"
+	{
+		"chi"		"** **"
+	}
+	"***YOU DO NOT WANT TO DO THIS ANYMORE...***"
+	{
+		"chi"		"** **"
+	}
+	"***YOU WANT TO STOP...***"
+	{
+		"chi"		"** **"
+	}
+	"***THIS IS WRONG...***"
+	{
+		"chi"		"** **"
+	}
+	"***THIS.. IS THE TRUTH***"
+	{
+		"chi"		"** **"
+	}
+	"***SOCRATES IS JUDGING YOU***"
+	{
+		"chi"		"** **"
+	}
+	"***SOCRATES HAS TO CLEANSE YOU***"
+	{
+		"chi"		"** **"
+	}
+	"***SOCRATES IMAGINES***"
+	{
+		"chi"		"** **"
+	}
+	"***SOCRATES DESPISES YOU***"
+	{
+		"chi"		"** **"
+	}
+	"***SOCRATES PONDERS***"
+	{
+		"chi"		"** **"
+	}
+	"***SOCRATES CRIES***"
+	{
+		"chi"		"** **"
+	}
+	"***SOCRATES ERECTS***"
+	{
+		"chi"		"** **"
+	}
+	"***SOCRATES IS BLOSSOMING***"
+	{
+		"chi"		"** **"
+	}
+	"***PLAYER PICKED UP ITEM - BEAM CANNON***"
+	{
+		"chi"		"** **"
+	}
+	"***THE TRUE TRAM IS LEAVING IN 30 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***THE TRUE TRAM IS LEAVING IN 5 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***THE TRUE TRAM IS LEAVING***"
+	{
+		"chi"		"** **"
+	}
+	"***THE TRUE ELEVATOR IS LEAVING IN 30 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***THE TRUE ELEVATOR IS LEAVING IN 5 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***THE TRUE ELEVATOR IS LEAVING***"
+	{
+		"chi"		"** **"
+	}
+	"***SPECIAL SOCRATES ZOMBIE TELEPORT IN 5***"
+	{
+		"chi"		"** **"
+	}
+	"***4***"
+	{
+		"chi"		"** **"
+	}
+	"***3***"
+	{
+		"chi"		"** **"
+	}
+	"***2***"
+	{
+		"chi"		"** **"
+	}
+	"***UNO***"
+	{
+		"chi"		"** **"
+	}
+	"***THE MAPPER FELT THE NEED TO COMPENSATE FOR SOMETHING THAT HE LACKED***"
+	{
+		"chi"		"** **"
+	}
+	"***DON'T TELL HIM I SAID THAT***"
+	{
+		"chi"		"** **"
+	}
+	"***SOCRATES WISHES SILENTLY***"
+	{
+		"chi"		"** **"
+	}
+	"***SOCRATES FEELS YOU***"
+	{
+		"chi"		"** **"
+	}
+	"***SOCRATES CRAVES***"
+	{
+		"chi"		"** **"
+	}
+	"***SOCRATES CARES FOR NO MAN***"
+	{
+		"chi"		"** **"
+	}
+	"***SOCRATES PLAYS NINTENDO 64***"
+	{
+		"chi"		"** **"
+	}
+	"***SOCRATES IS***"
+	{
+		"chi"		"** **"
+	}
+	"***SOCRATES REGRETS YOUR DEEDS***"
+	{
+		"chi"		"** **"
+	}
+	"***SOCRATES FEEDS***"
+	{
+		"chi"		"** **"
+	}
+	"***SOCRATES NEEDS BENDER***"
+	{
+		"chi"		"** **"
+	}
+	"***SOCRATES IS ALL***"
+	{
+		"chi"		"** **"
+	}
+	"***SOCRATES IS NOTHING***"
+	{
+		"chi"		"** **"
+	}
+	"***SOCRATES IS NOTHING AT ALL***"
+	{
+		"chi"		"** **"
+	}
+	"***SOCRATES DOES NOT EXIST***"
+	{
+		"chi"		"** **"
+	}
+	"***SOCRATES IS AWAKENED***"
+	{
+		"chi"		"** **"
+	}
+	"***SOCRATES CANNOT KEEP***"
+	{
+		"chi"		"** **"
+	}
+	"***SOCRATES RUMBLES YOUR WILL***"
+	{
+		"chi"		"** **"
+	}
+	"***SOCRATES WILL ARRIVE***"
+	{
+		"chi"		"** **"
+	}
+	"***SOCRATES SELLS GASOLINE***"
+	{
+		"chi"		"** **"
+	}
+	"***SOCRATES WILL CLEANSE***"
+	{
+		"chi"		"** **"
+	}
+	"***SOCRATES WILL DESTROY***"
+	{
+		"chi"		"** **"
+	}
+	"***SOCRATES IS NEAR***"
+	{
+		"chi"		"** **"
+	}
+	"***SOCRATES WELCOMES YOU***"
+	{
+		"chi"		"** **"
+	}
+	"***SOCRATES IS SANTA***"
+	{
+		"chi"		"** **"
+	}
+	"*** - TRUE SANTA - ***"
+	{
+		"chi"		"** **"
+	}
+	"***PLAYER PICKED UP ITEM - HERDER***"
+	{
+		"chi"		"** **"
+	}
+	"***SPEEDER ITEMS ACTIVATED***"
+	{
+		"chi"		"** **"
+	}
+	"***YOU HAVE DONE IT!***"
+	{
+		"chi"		"** **"
+	}
+	"***YOU HAVE DEFEATED SOCRATES - THE TRUE SANTA!***"
+	{
+		"chi"		"** **"
+	}
+	"***YOU WILL BE REMEMBERED AS CHAMPIONS***"
+	{
+		"chi"		"** **"
+	}
+	"***THE END***"
+	{
+		"chi"		"** **"
+	}
+	"***STAGE SET - PROLOGUE***"
+	{
+		"chi"		"** **"
+	}
 }

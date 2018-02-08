@@ -16,4 +16,128 @@
 	{
 		"chi"		"** **"
 	}
+	"**Door opening in 10 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**Superior door opening in 30 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"** DOOR OPENS IN 5 s **"
+	{
+		"chi"		"** **"
+	}
+	"** A player has adquired ELECTRO MATERIA **"
+	{
+		"chi"		"** **"
+	}
+	"** A player has adquired WIND MATERIA **"
+	{
+		"chi"		"** **"
+	}
+	"**Door is opening in 10 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**Door is opening in 5**"
+	{
+		"chi"		"** **"
+	}
+	"**Door is open**"
+	{
+		"chi"		"** **"
+	}
+	"**Elevator is leaving in 10s**"
+	{
+		"chi"		"** **"
+	}
+	"** A player has adquired ICE MATERIA **"
+	{
+		"chi"		"** **"
+	}
+	"** We have reached the core  ...**"
+	{
+		"chi"		"** **"
+	}
+	"** ... Cloud is planting the bomb **"
+	{
+		"chi"		"** **"
+	}
+	"** Bomb has been planted  **  Run **"
+	{
+		"chi"		"** **"
+	}
+	"**Keep shooting ! We dont know what it can do **"
+	{
+		"chi"		"** **"
+	}
+	"** The monster is going to attack ! **"
+	{
+		"chi"		"** **"
+	}
+	"**Its dead ** Go go! Run upstairs ! **"
+	{
+		"chi"		"** **"
+	}
+	"** EXPLOSION IN 160 SECONDS **"
+	{
+		"chi"		"** **"
+	}
+	"**  150 SECONDS LEFT **"
+	{
+		"chi"		"** **"
+	}
+	"**  140 SECONDS LEFT **"
+	{
+		"chi"		"** **"
+	}
+	"**  130 SECONDS LEFT **"
+	{
+		"chi"		"** **"
+	}
+	"**  120 SECONDS LEFT **"
+	{
+		"chi"		"** **"
+	}
+	"**  110 SECONDS LEFT **"
+	{
+		"chi"		"** **"
+	}
+	"**  100 SECONDS LEFT **"
+	{
+		"chi"		"** **"
+	}
+	"**  90 SECONDS LEFT **"
+	{
+		"chi"		"** **"
+	}
+	"** DOOR OPENS IN 35 S ** Go to the control room and try to open it earlier **"
+	{
+		"chi"		"** **"
+	}
+	"**  80 SECONDS LEFT **"
+	{
+		"chi"		"** **"
+	}
+	"**  70 SECONDS LEFT **"
+	{
+		"chi"		"** **"
+	}
+	"** Well done! Door is opening in 10 seconds **"
+	{
+		"chi"		"** **"
+	}
+	"**  60 SECONDS LEFT **"
+	{
+		"chi"		"** **"
+	}
+	"*** Mapping Help Airvulpes,Kune,thas,Rukly,Shufen ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Model :Dakotec ***"
+	{
+		"chi"		"** **"
+	}
 }

@@ -124,4 +124,24 @@
 	{
 		"chi"		"** **"
 	}
+	">>>JACKS PISTOL HAS BEEN TAKEN<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>REMEMBER ONLY 1 SHOT!<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>Press USE to shoot<<<"
+	{
+		"chi"		"** **"
+	}
+	"*** Mapping Help Airvulpes,Kune,thas,Rukly,Shufen ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Model :Dakotec ***"
+	{
+		"chi"		"** **"
+	}
 }

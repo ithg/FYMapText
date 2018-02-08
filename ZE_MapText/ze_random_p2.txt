@@ -368,4 +368,60 @@
 	{
 		"chi"		"** **"
 	}
+	"***Hold final barrier for 15secs!***"
+	{
+		"chi"		"** **"
+	}
+	"***Final barrier down!***"
+	{
+		"chi"		"** **"
+	}
+	"***The Boss has been weakened But it will recover in 60secs and use its final attack!***"
+	{
+		"chi"		"** **"
+	}
+	"***CT's will have to jump off and activate the switches!***"
+	{
+		"chi"		"** **"
+	}
+	"***Turn on all 4 to FINISH IT OFF and activate the Orb Teleport!***"
+	{
+		"chi"		"** **"
+	}
+	"***Switch 1 Unlocked!***"
+	{
+		"chi"		"** **"
+	}
+	"***Switch Activated!***"
+	{
+		"chi"		"** **"
+	}
+	"***HURRY UP!!!***"
+	{
+		"chi"		"** **"
+	}
+	"***All Switches ON!!***"
+	{
+		"chi"		"** **"
+	}
+	"***PORTAL COLLAPSING IN 10secs!! ***"
+	{
+		"chi"		"** **"
+	}
+	"***JUMP INTO THE ORB!!***"
+	{
+		"chi"		"** **"
+	}
+	"***CONGRATULATIONS -- THANK YOU FOR PLAYING!!***"
+	{
+		"chi"		"** **"
+	}
+	"*** Tested server : Sakura[CS:S],POSSESSION[CS:GO] ***"
+	{
+		"chi"		"** **"
+	}
+	"*** map created by thas ***"
+	{
+		"chi"		"** **"
+	}
 }

@@ -1,0 +1,43 @@
+"Console_T"
+{
+	"*** Make your way to train station and leave the city. ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Generator room will open in 8s. ***"
+	{
+		"chi"		"** **"
+	}
+	".. Train station gate open in 5 seconds!!"
+	{
+		"chi"		"** **"
+	}
+	"*** Generator room will close in 2s. ***"
+	{
+		"chi"		"** **"
+	}
+	".. Train station gate close in 10 seconds!!"
+	{
+		"chi"		"** **"
+	}
+	"*** Trains are leaving in one minute. ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Trains are leaving in 30s. ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Trains are leaving!!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Nuke will be launched in 30s. ***"
+	{
+		"chi"		"** **"
+	}
+	"ESCAPE FROM ZOMBIELAND"
+	{
+		"chi"		"** **"
+	}
+}

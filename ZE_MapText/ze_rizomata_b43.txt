@@ -1,0 +1,99 @@
+"Console_T"
+{
+	"*** Map by Airvulpes ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Hold 20 seconds ***"
+	{
+		"chi"		"**守住20秒**"
+	}
+	"*** 5 seconds left ***"
+	{
+		"chi"		"**还有5秒**"
+	}
+	"*** Hold 30 seconds ***"
+	{
+		"chi"		"**守住30秒**"
+	}
+	"*** 10 seconds left ***"
+	{
+		"chi"		"**还剩10秒**"
+	}
+	"*** AERIAL BLAST ***"
+	{
+		"chi"		"**大气爆发**"
+	}
+	"*** GUST ***"
+	{
+		"chi"		"**狂风**"
+	}
+	"*** Hold 50 seconds ***"
+	{
+		"chi"		"**守住50秒**"
+	}
+	"*** DOWNBURST ***"
+	{
+		"chi"		"**下沉气流**"
+	}
+	"*** UPDRAFT ***"
+	{
+		"chi"		"**上升气流**"
+	}
+	"*** EYE OF THE STORM ***"
+	{
+		"chi"		"**风暴之眼**"
+	}
+	"*** TORNADO ***"
+	{
+		"chi"		"**龙卷风**"
+	}
+	"*** Hold 10 seconds ***"
+	{
+		"chi"		"**守住10秒**"
+	}
+	"*** LIFT IS LEAVING IN 5 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** FLASH OVER ***"
+	{
+		"chi"		"**闪燃**"
+	}
+	"*** MEGA FLARE ***"
+	{
+		"chi"		"** **"
+	}
+	"*** SUN STRIKE ***"
+	{
+		"chi"		"**阳炎冲击**"
+	}
+	"*** FIREBALL ***"
+	{
+		"chi"		"**大火球**"
+	}
+	"*** FLAME RADIATION ***"
+	{
+		"chi"		"** **"
+	}
+	"*** FORGE SPIRITS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** FRAMBERGE ***"
+	{
+		"chi"		"**火焰剑（注意天上的刀）**"
+	}
+	"*** GIGA FLARE ***"
+	{
+		"chi"		"** **"
+	}
+	"*** TERA FLARE ***"
+	{
+		"chi"		"**百万耀斑**"
+	}
+	"*** EXA FLARE ***"
+	{
+		"chi"		"** **"
+	}
+}

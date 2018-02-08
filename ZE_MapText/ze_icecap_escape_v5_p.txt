@@ -120,4 +120,12 @@
 	{
 		"chi"		"** **"
 	}
+	">> Map by Taskuvaras <<"
+	{
+		"chi"		"** **"
+	}
+	"ESCAPE FROM ZOMBIELAND"
+	{
+		"chi"		"** **"
+	}
 }

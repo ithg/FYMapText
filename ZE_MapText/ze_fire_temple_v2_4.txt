@@ -1,0 +1,39 @@
+"Console_T"
+{
+	"<<< Map made by Jllaneras >>>"
+	{
+		"chi"		">>>地图作者：Jllaneras 翻译：牛肉粉<<<"
+	}
+	"<<< Defend for 30 seconds! >>>"
+	{
+		"chi"		">>>坚守30S<<<"
+	}
+	"<<< Zombies teleport in 30 seconds! >>>"
+	{
+		"chi"		">>>僵尸还有30S后传送<<<"
+	}
+	"<<< Box will break in 30 seconds! >>>"
+	{
+		"chi"		">>>箱子将于30S后破碎<<<"
+	}
+	"<<< SHOOT CRYSTAL!!!! >>>"
+	{
+		"chi"		">>>射击水晶<<<"
+	}
+	"<<< Back gate opening in 15 seconds! >>>"
+	{
+		"chi"		">>>撤退的大门还有15S后打开<<<"
+	}
+	"<<< Zombies teleport in 40 seconds! >>>"
+	{
+		"chi"		">>>僵尸传送点40S后启用<<<"
+	}
+	"*** Mapping Help Airvulpes,Kune,thas,Rukly,Shufen ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Model :Dakotec ***"
+	{
+		"chi"		"** **"
+	}
+}

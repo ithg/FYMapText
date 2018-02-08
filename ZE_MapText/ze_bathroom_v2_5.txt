@@ -2,7 +2,7 @@
 {
 	"Map made by Puklica & Cuniczek"
 	{
-		"chi"		"** **"
+		"chi"		"**地图作者：Puklica & Cuniczek  翻译：牛肉粉**"
 	}
 	">>> |LEVEL 1| <<<"
 	{
@@ -10,7 +10,7 @@
 	}
 	"***DIFFICULTY --- NORMAL***"
 	{
-		"chi"		"** **"
+		"chi"		"**难度：普通**"
 	}
 	"** LEVEL: NOT TOO ROUGH **"
 	{
@@ -18,47 +18,47 @@
 	}
 	"Sponge builder has been picked up."
 	{
-		"chi"		"** **"
+		"chi"		"**海绵墙被某玩家捡到了**"
 	}
 	"Mouse trap has been picked up."
 	{
-		"chi"		"** **"
+		"chi"		"**老鼠夹被某玩家捡到了**"
 	}
 	"We'll have to roll down the toilet paper to safely climb down."
 	{
-		"chi"		"** **"
+		"chi"		"**我们需要滚动那卷卫生纸 这样才有办法下去**"
 	}
 	"Toilet paper has been rolled down. Fall back!"
 	{
-		"chi"		"** **"
+		"chi"		"**卫生纸已经滚完了 大家快往下跳 离开这里**"
 	}
 	"Hold for 15 seconds."
 	{
-		"chi"		"** **"
+		"chi"		"**守住15S**"
 	}
 	"Resist for 25 seconds."
 	{
-		"chi"		"** **"
+		"chi"		"**坚守25S**"
 	}
 	"Resist for 20 seconds."
 	{
-		"chi"		"** **"
+		"chi"		"**坚守20S**"
 	}
 	"Hold here until something happens!"
 	{
-		"chi"		"** **"
+		"chi"		"**坚守这里 即将有事情发生**"
 	}
 	"The path is blocked. Fall back!"
 	{
-		"chi"		"** **"
+		"chi"		"**道路已被海绵封锁 僵尸过不来了 大家撤退**"
 	}
 	"The Rubber Duck has been defeated."
 	{
-		"chi"		"** **"
+		"chi"		"**可达鸭已被击败**"
 	}
 	"You have won first level!"
 	{
-		"chi"		"** **"
+		"chi"		"**你成功的过了第1关**"
 	}
 	">>> |LEVEL 2| <<<"
 	{
@@ -66,74 +66,74 @@
 	}
 	"Resist until the wall breaks."
 	{
-		"chi"		"** **"
+		"chi"		"**坚守住这里 等待墙体破碎**"
 	}
 	"Fall back!"
 	{
-		"chi"		"** **"
+		"chi"		"**大家撤退**"
 	}
 	"We have to clear the soap out of the way to be able to climb up."
 	{
-		"chi"		"** **"
+		"chi"		"**我们需要把这个肥♂皂推开 然后才能爬梳子上去**"
 	}
 	"The path has been cleared."
 	{
-		"chi"		"** **"
+		"chi"		"**前方的道路已被开放了**"
 	}
 	"We'll have to jump outside and walk across the mirror."
 	{
-		"chi"		"** **"
+		"chi"		"**我们需要跳到蓝色的牙刷后面守着**"
 	}
 	"Hold on for a few seconds."
 	{
-		"chi"		"** **"
+		"chi"		"**守住这里一会 会有办法的**"
 	}
 	"We can use the hairdryer to reach the shelf!"
 	{
-		"chi"		"** **"
+		"chi"		"**我们可以利用吹风机将我们吹到对面的货架**"
 	}
 	"Seems like there is no way to escape."
 	{
-		"chi"		"** **"
+		"chi"		"**看起来 我们好像无路可走了 大家等会 我来想办法**"
 	}
 	"That's it! Break the shelf support."
 	{
-		"chi"		"** **"
+		"chi"		"**这是现在！破坏掉那个支架**"
 	}
 	"We are trapped! Resist!"
 	{
-		"chi"		"** **"
+		"chi"		"**我们成功了 大家守住**"
 	}
 	"There is no way around."
 	{
-		"chi"		"** **"
+		"chi"		"**这里又没路 大家守住 我来想办法**"
 	}
 	"Fall back we can walk across the door."
 	{
-		"chi"		"** **"
+		"chi"		"**大家快走 通过这个大门到达对面去**"
 	}
 	"We'll have to enter the boiler. Resist!"
 	{
-		"chi"		"** **"
+		"chi"		"**没有路可以走了 大家撑住 我们从锅炉这里冲出去**"
 	}
 	"We can enter through that hole! Fall back!"
 	{
-		"chi"		"** **"
+		"chi"		"**锅炉的墙体被我们凿开了一个洞 这是机会 大家快进去**"
 	}
 	"The sponge has been defeated! Run!"
 	{
-		"chi"		"** **"
+		"chi"		"**海绵宝宝被击败了**"
 	}
 	"Final doors are going to close in 30 seconds! Resist!"
 	{
-		"chi"		"** **"
+		"chi"		"**守住这最后的大门 大门还有30S后关闭**"
 	}
 	"Kill all zombies inside!"
 	{
-		"chi"		"** **"
+		"chi"		"**清理掉所有进来的僵尸**"
 	}
 	"You have won the map! Congratulations!"
 	{
-		"chi"		"** **"
+		"chi"		"**你完成了这张地图 恭喜你**"
 	}
 }

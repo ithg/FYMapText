@@ -160,4 +160,16 @@
 	{
 		"chi"		"** **"
 	}
+	"** The upper tunnel has been reached - RESIST 25 Seconds **"
+	{
+		"chi"		"** **"
+	}
+	"** Zombies have compromised the holy pyramid! **"
+	{
+		"chi"		"** **"
+	}
+	"** THE WORLD ENDS WITH A ZOMBIE INFESTATION! **"
+	{
+		"chi"		"** **"
+	}
 }

@@ -1,0 +1,163 @@
+"Console_T"
+{
+	"## Doors Will Open in 30 Seconds ##"
+	{
+		"chi"		"** **"
+	}
+	"## Doors Will Open in 10 Seconds ##"
+	{
+		"chi"		"** **"
+	}
+	"## Doors Will Open in 5 Seconds ##"
+	{
+		"chi"		"** **"
+	}
+	"## Doors Open RUN ##"
+	{
+		"chi"		"** **"
+	}
+	"## Lift Leaving in 30 Seconds ##"
+	{
+		"chi"		"** **"
+	}
+	"## Lift Leaving in 10 Seconds ##"
+	{
+		"chi"		"** **"
+	}
+	"## Lift Leaving in 5 Seconds ##"
+	{
+		"chi"		"** **"
+	}
+	"## Lift Leaving ##"
+	{
+		"chi"		"** **"
+	}
+	"## Careful of the collapsing Floor! ##"
+	{
+		"chi"		"** **"
+	}
+	"## Trap Door Opening in 30 Seconds ##"
+	{
+		"chi"		"** **"
+	}
+	"## Trap Door Opening in 10 Seconds ##"
+	{
+		"chi"		"** **"
+	}
+	"## Trap Door Opening in 5 Seconds ##"
+	{
+		"chi"		"** **"
+	}
+	"## Trap Door OPEN FALL BACK ##"
+	{
+		"chi"		"** **"
+	}
+	"##Door Opens 40 Seconds##"
+	{
+		"chi"		"** **"
+	}
+	"##Each Block will turn red when a zombie is in the corridor##"
+	{
+		"chi"		"** **"
+	}
+	"##Each Block will turn green when the corridor is clear##"
+	{
+		"chi"		"** **"
+	}
+	"##Zombies can Break the Blocks sooo DEFEND##"
+	{
+		"chi"		"** **"
+	}
+	"##Door Opens 20 Seconds##"
+	{
+		"chi"		"** **"
+	}
+	"##Door Opens 10 Seconds##"
+	{
+		"chi"		"** **"
+	}
+	"##Door Open RUNNN##"
+	{
+		"chi"		"** **"
+	}
+	"##Door Opening in 25 Seconds Defend!##"
+	{
+		"chi"		"** **"
+	}
+	"##Door Opening in 10 Seconds Defend!##"
+	{
+		"chi"		"** **"
+	}
+	"##Door Open FALL BACK##"
+	{
+		"chi"		"** **"
+	}
+	"## Final Door Opening 40 Seconds ##"
+	{
+		"chi"		"** **"
+	}
+	"## HOLD and DEFEND ##"
+	{
+		"chi"		"** **"
+	}
+	"## Final Door Opening 20 Seconds ##"
+	{
+		"chi"		"** **"
+	}
+	"## Final Door Opening 10 Seconds ##"
+	{
+		"chi"		"** **"
+	}
+	"## Final Door Opening 5 Seconds ##"
+	{
+		"chi"		"** **"
+	}
+	"## Door Open Run ##"
+	{
+		"chi"		"** **"
+	}
+	"## Boss Room Door Closing 10 Seconds ##"
+	{
+		"chi"		"** **"
+	}
+	"## All Players if not in the boss room will be teleported ##"
+	{
+		"chi"		"** **"
+	}
+	"## Boss Room Door Closing 5 Seconds ##"
+	{
+		"chi"		"** **"
+	}
+	"## Boss Room Door Closed...Prepare for BATTLE ##"
+	{
+		"chi"		"** **"
+	}
+	"## REAPER SPLITTER KILL IT ##"
+	{
+		"chi"		"** **"
+	}
+	"## Reaper Splitter Killed ESCAPE ##"
+	{
+		"chi"		"** **"
+	}
+	"## You have 2minutes till the boss room explodes! Kill it Quick! ##"
+	{
+		"chi"		"** **"
+	}
+	"## Zombies will be released in 10 Seconds ##"
+	{
+		"chi"		"** **"
+	}
+	"## 15 Seconds to reach SafeZone ##"
+	{
+		"chi"		"** **"
+	}
+	"## 5 Seconds to reach SafeZone ##"
+	{
+		"chi"		"** **"
+	}
+	"## END GAME ##"
+	{
+		"chi"		"** **"
+	}
+}

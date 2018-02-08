@@ -1,0 +1,19 @@
+"Console_T"
+{
+	"Welcome ! Map made by Valve and zombified by Obscuri"
+	{
+		"chi"		"** **"
+	}
+	"Special thanks to centran and LeGrem"
+	{
+		"chi"		"** **"
+	}
+	"***Fix and port by Epic |cabo| ***"
+	{
+		"chi"		"** **"
+	}
+	"Please wait 20 seconds before the door opening"
+	{
+		"chi"		"** **"
+	}
+}

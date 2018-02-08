@@ -72,4 +72,28 @@
 	{
 		"chi"		"** **"
 	}
+	">> Map by Taskuvaras <<"
+	{
+		"chi"		"** **"
+	}
+	"*** Tested server : Sakura[CS:S],POSSESSION[CS:GO] ***"
+	{
+		"chi"		"** **"
+	}
+	"*** map created by thas ***"
+	{
+		"chi"		"** **"
+	}
+	"> ZE UT2004 CONVOY"
+	{
+		"chi"		"** **"
+	}
+	"***WARMUP***"
+	{
+		"chi"		"** **"
+	}
+	"**ZE_FFXII_FEYWOOD**"
+	{
+		"chi"		"** **"
+	}
 }

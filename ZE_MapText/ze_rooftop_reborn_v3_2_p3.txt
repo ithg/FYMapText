@@ -272,4 +272,28 @@
 	{
 		"chi"		"** **"
 	}
+	"++EXTREME MODE COMPLETED++"
+	{
+		"chi"		"** **"
+	}
+	"++NEXT LEVEL IS RACE++"
+	{
+		"chi"		"** **"
+	}
+	"++DIFFICULTY LEVEL: RACE MOD++"
+	{
+		"chi"		"** **"
+	}
+	"++YOU HAVE 45 SECONDS TO CHOSE THE LEVEL++"
+	{
+		"chi"		"** **"
+	}
+	"++ONLY 1 CAN GO TO THE ADMIN BUTTON++"
+	{
+		"chi"		"** **"
+	}
+	"++YOU HAVE 20 SECONDS TO CHOSE THE LEVEL++"
+	{
+		"chi"		"** **"
+	}
 }

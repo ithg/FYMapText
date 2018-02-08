@@ -2,234 +2,242 @@
 {
 	">>> WARMUP ROUND <<<"
 	{
-		"chi"		"** **"
+		"chi"		">>>热身局<<<"
 	}
 	">>*** MAP BY STK ***<<"
 	{
-		"chi"		"** **"
+		"chi"		"**地图作者：STK 翻译：牛肉粉**"
 	}
 	">> STAGE 1 <<"
 	{
-		"chi"		"** **"
+		"chi"		">>>第一关<<<"
 	}
 	"** A player has picked up Heal Staff **"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家捡起了治疗魔杖**"
 	}
 	"** A player has picked up Tornado Staff **"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家捡起风神器**"
 	}
 	"** The doors will open in 20 seconds **"
 	{
-		"chi"		"** **"
+		"chi"		"**大门20秒后开启**"
 	}
 	"** 5 seconds left **"
 	{
-		"chi"		"** **"
+		"chi"		"**还有5S**"
 	}
 	"** FALL BACK **"
 	{
-		"chi"		"** **"
+		"chi"		"**快，撤退！**"
 	}
 	"** The doors will open in 25 seconds **"
 	{
-		"chi"		"** **"
+		"chi"		"**大门25秒后开启**"
 	}
 	"** The door will open in 30 seconds **"
 	{
-		"chi"		"** **"
+		"chi"		"**大门还有30S后打开**"
 	}
 	"** The doors will open in 15 seconds **"
 	{
-		"chi"		"** **"
+		"chi"		"**大门还有30S后打开**"
 	}
 	"** Bomb explodes in 20 seconds **"
 	{
-		"chi"		"** **"
+		"chi"		"**炸弹20秒后启动**"
 	}
 	"** Hold zombies for 15 seconds **"
 	{
-		"chi"		"** **"
+		"chi"		"**守住僵尸坚持15S**"
 	}
 	"*** YOU WON STAGE 1 ***"
 	{
-		"chi"		"** **"
+		"chi"		"**恭喜你拿下了第一局**"
 	}
 	">> STAGE 2 <<"
 	{
-		"chi"		"** **"
+		"chi"		">>>第二关<<<"
 	}
 	"** A player has picked up Earth Staff **"
 	{
-		"chi"		"** **"
+		"chi"		"**有玩家捡到了土神器**"
 	}
 	"** A player has picked up Quicksand Staff **"
 	{
-		"chi"		"** **"
+		"chi"		"**有玩家捡到了流沙神器**"
 	}
 	"** Teleport will open in 20 seconds **"
 	{
-		"chi"		"** **"
+		"chi"		"**传送将于20S后启用**"
 	}
 	"** 5 seconds left. **"
 	{
-		"chi"		"** **"
+		"chi"		"**坚持5S**"
 	}
 	"** Kill him or he kills you!!! **"
 	{
-		"chi"		"** **"
+		"chi"		"**杀了他 不然 他将亲手安葬你**"
 	}
 	"*** Grenades do more damage. ***"
 	{
-		"chi"		"** **"
+		"chi"		"**手雷可以给BOSS造成巨大的伤害**"
 	}
 	"*** He's dead. Run. ***"
 	{
-		"chi"		"** **"
+		"chi"		"**他输了 我们快走**"
 	}
 	"** The doors will open on 15 seconds **"
 	{
-		"chi"		"** **"
+		"chi"		"**大门还有15后打开**"
 	}
 	"** Press on the 4 obelisks to open the door **"
 	{
-		"chi"		"** **"
+		"chi"		"**请去启动四个机关来打开最终大门**"
 	}
 	"** The doors will open in 10 seconds **"
 	{
-		"chi"		"** **"
+		"chi"		"**大门还有10S后打开**"
 	}
 	"** Elevator leaves in 20 seconds **"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯还有20S就上升了**"
 	}
 	"** YOU WON STAGE 2 **"
 	{
-		"chi"		"** **"
+		"chi"		"**你成功了 恭喜取得第二关的胜利**"
 	}
 	">> STAGE 3 <<"
 	{
-		"chi"		"** **"
+		"chi"		">>>第三关<<<"
 	}
 	"** Hold for 20 seconds. **"
 	{
-		"chi"		"** **"
+		"chi"		"**坚守20S**"
 	}
 	"** Teleport will open in 15 seconds **"
 	{
-		"chi"		"** **"
+		"chi"		"**传送将于15S后启用**"
 	}
 	"** Hold Zombies for 10 seconds **"
 	{
-		"chi"		"** **"
+		"chi"		"**守住僵尸10S**"
 	}
 	"** YOU WON STAGE 3 **"
 	{
-		"chi"		"** **"
+		"chi"		"**恭喜你成功拿下第三关**"
 	}
 	">> STAGE 4 <<"
 	{
-		"chi"		"** **"
+		"chi"		">>>第四关<<<"
 	}
 	"** Meteorite arrives in 17 seconds. **"
 	{
-		"chi"		"** **"
+		"chi"		"**陨石将于17S后砸向大门**"
 	}
 	"*** Grenades do more damage. (8 SECONDS)***"
 	{
-		"chi"		"** **"
+		"chi"		"**在BOSS出现的8S内 手雷可以造成巨额的伤害**"
 	}
 	"*** YOU WON STAGE 4 ***"
 	{
-		"chi"		"** **"
+		"chi"		"**你成功的拿下了第四关 接下来是最后的挑战**"
 	}
 	"** Run into the center and break the crystal!!! **"
 	{
-		"chi"		"** **"
+		"chi"		"**各位快跑到金字塔的顶部并摧毁掉顶部的水晶**"
 	}
 	">> STAGE 5 <<"
 	{
-		"chi"		"** **"
+		"chi"		">>>第五关<<<"
 	}
 	"** 10 seconds left **"
 	{
-		"chi"		"** **"
+		"chi"		"**坚持10S**"
 	}
 	"** Teleport will open in 20 seconds. **"
 	{
-		"chi"		"** **"
+		"chi"		"**传送将于20S后启用**"
 	}
 	"** Teleport will open on 10 seconds **"
 	{
-		"chi"		"** **"
+		"chi"		"**传送将于10S后启用**"
 	}
 	"** Hold for 15 seconds. **"
 	{
-		"chi"		"** **"
+		"chi"		"**坚持守住15S**"
 	}
 	"*** Grenades do more damage (4 SECONDS). ***"
 	{
-		"chi"		"** **"
+		"chi"		"**在BOSS出现的4S内 手雷可以给BOSS带来可观的伤害**"
 	}
 	"** Do not come to the edge of the platform! **"
 	{
-		"chi"		"** **"
+		"chi"		"**千万不要停留在平台的边缘**"
 	}
 	"** NOW YOU DIE! **"
 	{
-		"chi"		"** **"
+		"chi"		"**现在享受死亡吧**"
 	}
 	"** Hold for 10 seconds. **"
 	{
-		"chi"		"** **"
+		"chi"		"**坚守10S**"
 	}
 	"*** YOU WON STAGE 5 ***"
 	{
-		"chi"		"** **"
+		"chi"		"**你成功的攻略了本张地图.....不对还有1关**"
 	}
 	"** Humans have become immortal!!! **"
 	{
-		"chi"		"** **"
+		"chi"		"**人类升华成为英雄（人类进入无敌状态）**"
 	}
 	"** Zombies have 1 HP! **"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸受到恐吓（僵尸只有1HP）**"
 	}
 	"** Victory in 230 seconds. **"
 	{
-		"chi"		"** **"
+		"chi"		"**人类将在230S后胜利**"
 	}
 	">> ZM ROUND <<"
 	{
-		"chi"		"** **"
+		"chi"		">>>最终关卡：僵尸感染<<<"
 	}
 	"** Victory in 200 seconds. **"
 	{
-		"chi"		"** **"
+		"chi"		"**人类还有200S胜利**"
 	}
 	"** Victory in 150 seconds. **"
 	{
-		"chi"		"** **"
+		"chi"		"**撑不住了吗 还有150S呢 是男人就活下去**"
 	}
 	"** Victory in 100 seconds. **"
 	{
-		"chi"		"** **"
+		"chi"		"**还有100S 你身边的人们相继倒下 你还不能倒下**"
 	}
 	"** Victory in 50 seconds. **"
 	{
-		"chi"		"** **"
+		"chi"		"**你离胜利还差50S 带着希望和身法活下去**"
 	}
 	"** Victory in 10 seconds. **"
 	{
-		"chi"		"** **"
+		"chi"		"**最后10S 人类准备反攻 带着逝去战友的意志.....**"
 	}
 	">> VICTORY <<"
 	{
-		"chi"		"** **"
+		"chi"		">>>人类获胜<<<"
 	}
 	">>*** THANKS FOR PLAYING! ***<<"
 	{
-		"chi"		"** **"
+		"chi"		"**感谢游玩本张地图**"
+	}
+	"** A player has picked up Fire Staff **"
+	{
+		"chi"		"**有玩家捡到了火神器**"
+	}
+	"** A player has picked up SandStorm Staff **"
+	{
+		"chi"		"**有玩家拿到了沙尘暴神器**"
 	}
 }

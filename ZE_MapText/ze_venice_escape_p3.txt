@@ -1,0 +1,107 @@
+"Console_T"
+{
+	"***Escape Venice through the Grand Canal and to the Escape Island!***"
+	{
+		"chi"		"** **"
+	}
+	"***Boat 1 leaving in 10secs!***"
+	{
+		"chi"		"** **"
+	}
+	"***Boat 2 leaving in 5secs!***"
+	{
+		"chi"		"** **"
+	}
+	"***Map by RelaxingWalls***"
+	{
+		"chi"		"** **"
+	}
+	"***Map made for SteamGamers Mapping Competition***"
+	{
+		"chi"		"** **"
+	}
+	"***Boat house door open!***"
+	{
+		"chi"		"** **"
+	}
+	"***Lift 2 leaving in 5secs!***"
+	{
+		"chi"		"** **"
+	}
+	"***AFK Teleport in 45 seconds!***"
+	{
+		"chi"		"** **"
+	}
+	"***Helicopter leaving in 75secs!"
+	{
+		"chi"		"** **"
+	}
+	"***Boat 4 leaving in 45secs!***"
+	{
+		"chi"		"** **"
+	}
+	"***Boat 3 leaving in 45secs!***"
+	{
+		"chi"		"** **"
+	}
+	"***Helicopter leaving in 30secs!"
+	{
+		"chi"		"** **"
+	}
+	"***Boat 4 leaving in 5secs!***"
+	{
+		"chi"		"** **"
+	}
+	"***Helicopter leaving in 5secs!"
+	{
+		"chi"		"** **"
+	}
+	"***Boat 3 leaving in 5secs!***"
+	{
+		"chi"		"** **"
+	}
+	"***Nukes ready for launch!***"
+	{
+		"chi"		"** **"
+	}
+	"***Nuke in 10secs!***"
+	{
+		"chi"		"** **"
+	}
+	"***3***"
+	{
+		"chi"		"** **"
+	}
+	"***2***"
+	{
+		"chi"		"** **"
+	}
+	"***1***"
+	{
+		"chi"		"** **"
+	}
+	"***Left bridge charges set for 15secs!***"
+	{
+		"chi"		"** **"
+	}
+	"***Lift 1 leaving in 10secs!***"
+	{
+		"chi"		"** **"
+	}
+	"***Overpass gate will open in 15secs!***"
+	{
+		"chi"		"** **"
+	}
+	"***Boat 5 leaving in 60secs!***"
+	{
+		"chi"		"** **"
+	}
+	"***Boat house bridge charges set for 15secs!***"
+	{
+		"chi"		"** **"
+	}
+	"***Boat 5 leaving in 5secs!***"
+	{
+		"chi"		"** **"
+	}
+}

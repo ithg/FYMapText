@@ -2,7 +2,7 @@
 {
 	">>>Map by Explay<<<"
 	{
-		"chi"		"** **"
+		"chi"		">>>地图作者：Explay 翻译：牛肉粉<<<"
 	}
 	">>>Visit www.nextwin.ru<<<"
 	{
@@ -10,59 +10,59 @@
 	}
 	">>>Respawn wall break in 20 sec<<<"
 	{
-		"chi"		"** **"
+		"chi"		">>>周围的墙体还有20S后破碎<<<"
 	}
 	">>>Defend this place 1 min 15 sec<<<"
 	{
-		"chi"		"** **"
+		"chi"		">>>在这片地区守住75S<<<"
 	}
 	">>>Door open in 5 sec<<<"
 	{
-		"chi"		"** **"
+		"chi"		">>>大门还有5S打开<<<"
 	}
 	">>>This song is Immediate Music Imperativa<<<"
 	{
-		"chi"		"** **"
+		"chi"		">>>这首歌叫做：lmmediate music imperativa<<<"
 	}
 	">>>Teleporting all humans to ZM defend...<<<"
 	{
-		"chi"		"** **"
+		"chi"		">>>传送所有人类到到达地区防守<<<"
 	}
 	">>>Teleporting all Zombies<<<"
 	{
-		"chi"		"** **"
+		"chi"		">>>已传送所有僵尸<<<"
 	}
 	">>>Teleporting everyone in 30 sec<<<"
 	{
-		"chi"		"** **"
+		"chi"		">>>传送所有人还有30S<<<"
 	}
 	">>>Teleporting everyone in 5 sec<<<"
 	{
-		"chi"		"** **"
+		"chi"		">>>传送所有人还有5S<<<"
 	}
 	">>>If you cant pass SURF try to pass XC level<<<"
 	{
-		"chi"		"** **"
+		"chi"		">>>如果你不会滑翔 你可以试着走XC传送口去跳跃<<<"
 	}
 	">>>TIP: If you will pass XC level You receive 5 frags<<<"
 	{
-		"chi"		"** **"
+		"chi"		">>>提示：如果你通过了XC跳台 你将获得5点积分<<<"
 	}
 	">>>TIP: If you will pass SURF level You receive 10 frags<<<"
 	{
-		"chi"		"** **"
+		"chi"		">>>提示：如果你过了滑翔 你将会获得10点积分<<<"
 	}
 	">>>Door will open in 30 sec<<<"
 	{
-		"chi"		"** **"
+		"chi"		">>>大门还有30S后打开<<<"
 	}
 	">>>Teleporting all humans...<<<"
 	{
-		"chi"		"** **"
+		"chi"		">>>已传送所有人类<<<"
 	}
 	">>>Teleporting all Zombies...<<<"
 	{
-		"chi"		"** **"
+		"chi"		">>>已传送所有僵尸<<<"
 	}
 	">>>Door will Open in 3 sec. PREPARE TO RUN<<<"
 	{

@@ -1,0 +1,59 @@
+"Console_T"
+{
+	"*** Map by Kim and P'a'ss ***"
+	{
+		"chi"		"**地图作者：Kim 和 P'a'ss   翻译：牛肉粉**"
+	}
+	"* Turning music on *"
+	{
+		"chi"		"**音乐开始**"
+	}
+	"*** Boat leaving in 5 seconds ***"
+	{
+		"chi"		"**船还有5S后离开**"
+	}
+	"*** Door opens in 25 seconds ***"
+	{
+		"chi"		"**大门还有25S后打开**"
+	}
+	"*** Door Opening in 20 seconds! ***"
+	{
+		"chi"		"**大门还有20S打开**"
+	}
+	"*** Teleporter Activates in 15 Seconds ***"
+	{
+		"chi"		"**传送点将于15S后开启**"
+	}
+	"*** Door Opens in 30 seconds ***"
+	{
+		"chi"		"**大门将于30S后打开**"
+	}
+	"*** OH NOOES ***"
+	{
+		"chi"		"**OH BOSS好丑啊**"
+	}
+	"*** KILL RICK ASTLEY BEFORE HE RICKROLLS US! ***"
+	{
+		"chi"		"**杀了这个BOSS 他想请我们吃他的锤子 躲开他**"
+	}
+	"*** RICK ASTLEY IS DEAD ***"
+	{
+		"chi"		"**BOSS倒下了**"
+	}
+	"*** Hold here for 20 seconds ***"
+	{
+		"chi"		"**守住这里20S**"
+	}
+	"*** Hold 30 second for victory! ***"
+	{
+		"chi"		"**守住这里30S 我们就胜利了**"
+	}
+	"*** Noob Cleaned ***"
+	{
+		"chi"		"**菜鸡僵尸被清理掉了**"
+	}
+	"*** YOU SUCK ***"
+	{
+		"chi"		"**你胜利了！！！！**"
+	}
+}

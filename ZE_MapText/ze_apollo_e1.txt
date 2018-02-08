@@ -1,0 +1,39 @@
+"Console_T"
+{
+	"***Aux Door Opening In 30 Seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Tram Leaving Momentarily***"
+	{
+		"chi"		"** **"
+	}
+	"***Outdoor Tram Starting in 25 Seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Outdoor Tram Starting in 10 Seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Outdoor Tram Starting in 5 Seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Rocket Lift Leaving In 10 Seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Airlock Door Opening In 20 Seconds***"
+	{
+		"chi"		"** **"
+	}
+	"For POSSESSION, Respect to Sakura"
+	{
+		"chi"		"** **"
+	}
+	"Based-map by Xquality"
+	{
+		"chi"		"** **"
+	}
+}

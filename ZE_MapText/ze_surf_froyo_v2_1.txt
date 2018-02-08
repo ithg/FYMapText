@@ -36,4 +36,40 @@
 	{
 		"chi"		"** **"
 	}
+	"***Well!If the count of travellers is less than half,all zombies will be teleported in 60s!***"
+	{
+		"chi"		"** **"
+	}
+	"***A traveller has picked lightwall crystal!***"
+	{
+		"chi"		"** **"
+	}
+	"***A traveller has picked roar crystal!***"
+	{
+		"chi"		"** **"
+	}
+	"***Hold for 60s!***"
+	{
+		"chi"		"** **"
+	}
+	"***A traveller has picked halo crystal!***"
+	{
+		"chi"		"** **"
+	}
+	"***30s left!***"
+	{
+		"chi"		"** **"
+	}
+	"***A traveller has picked snowstorm crystal!***"
+	{
+		"chi"		"** **"
+	}
+	"***5s left!***"
+	{
+		"chi"		"** **"
+	}
+	"***Zombies will come in 20s!***"
+	{
+		"chi"		"** **"
+	}
 }

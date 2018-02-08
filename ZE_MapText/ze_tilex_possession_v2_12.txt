@@ -1,0 +1,31 @@
+"Console_T"
+{
+	"Map Supported by SHUFEN"
+	{
+		"chi"		"** **"
+	}
+	"Map Arranged by Airvulpes"
+	{
+		"chi"		"** **"
+	}
+	"*** Difficulty : Easy ***"
+	{
+		"chi"		"** **"
+	}
+	"For POSSESSION, Respect to Sakura"
+	{
+		"chi"		"** **"
+	}
+	"Based-map by Xquality"
+	{
+		"chi"		"** **"
+	}
+	"Admin pressed rtv button"
+	{
+		"chi"		"** **"
+	}
+	"*** Difficulty : rtv ***"
+	{
+		"chi"		"** **"
+	}
+}

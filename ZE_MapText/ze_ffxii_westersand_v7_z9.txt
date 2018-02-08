@@ -84,4 +84,8 @@
 	{
 		"chi"		"** **"
 	}
+	"** A player has learned Wind magick. **"
+	{
+		"chi"		"** **"
+	}
 }

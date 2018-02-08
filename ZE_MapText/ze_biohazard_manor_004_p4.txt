@@ -12,4 +12,8 @@
 	{
 		"chi"		"** **"
 	}
+	"*immediate evacuation of the laboratory*"
+	{
+		"chi"		"** **"
+	}
 }

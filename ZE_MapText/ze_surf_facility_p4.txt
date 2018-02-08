@@ -96,4 +96,20 @@
 	{
 		"chi"		"** **"
 	}
+	"***Zombies reached the Hill***"
+	{
+		"chi"		"** **"
+	}
+	"***No place is safe!***"
+	{
+		"chi"		"** **"
+	}
+	"***No game score will be applied***"
+	{
+		"chi"		"** **"
+	}
+	"***Zombies reached final surf***"
+	{
+		"chi"		"** **"
+	}
 }

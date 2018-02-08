@@ -1,0 +1,31 @@
+"Console_T"
+{
+	"### WARMUP - 50 SECONDS LEFT ###"
+	{
+		"chi"		"** **"
+	}
+	"### WARMUP - 40 SECONDS LEFT ###"
+	{
+		"chi"		"** **"
+	}
+	"### WARMUP - 30 SECONDS LEFT ###"
+	{
+		"chi"		"** **"
+	}
+	"### WARMUP - 20 SECONDS LEFT ###"
+	{
+		"chi"		"** **"
+	}
+	"### WARMUP - 10 SECONDS LEFT ###"
+	{
+		"chi"		"** **"
+	}
+	"### WARMUP OVER - RESTARTING ROUND ###"
+	{
+		"chi"		"** **"
+	}
+	">> Map by TaskuVaras and Moltard <<"
+	{
+		"chi"		"** **"
+	}
+}

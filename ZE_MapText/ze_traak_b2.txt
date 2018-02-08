@@ -1,0 +1,7 @@
+"Console_T"
+{
+	"*** MAP BY P'A'SS ***"
+	{
+		"chi"		"** **"
+	}
+}

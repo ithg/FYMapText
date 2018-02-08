@@ -2,11 +2,11 @@
 {
 	"***WARMUP***"
 	{
-		"chi"		"** **"
+		"chi"		"**热身局**"
 	}
 	"*****ROUND END*****"
 	{
-		"chi"		"** **"
+		"chi"		"**本局结束**"
 	}
 	"***THE DIDDLERY WILL COMMENCE IN 60 SECONDS***"
 	{
@@ -54,19 +54,19 @@
 	}
 	"*Tiki 1 Broken - There are 2 more tikis to find*"
 	{
-		"chi"		"** **"
+		"chi"		"**第一个按钮成功打碎-还剩两个按钮**"
 	}
 	"*Defend here for 20 seconds*"
 	{
-		"chi"		"** **"
+		"chi"		"**在这里守住20秒**"
 	}
 	"*FALL BACK*"
 	{
-		"chi"		"** **"
+		"chi"		"**快，撤退！**"
 	}
 	"*Defend for 30 seconds*"
 	{
-		"chi"		"** **"
+		"chi"		"**守住30秒**"
 	}
 	"*Elevator Activating in 10 seconds*"
 	{
@@ -74,7 +74,7 @@
 	}
 	"*Elevator activated*"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯已启动**"
 	}
 	"*Push the little red cube :)*"
 	{
@@ -94,7 +94,7 @@
 	}
 	"*Tiki 2 Broken*"
 	{
-		"chi"		"** **"
+		"chi"		"**第二个按钮成功打碎**"
 	}
 	"*Last Stand - Defend for 40 seconds*"
 	{
@@ -173,6 +173,694 @@
 		"chi"		"** **"
 	}
 	"***ESCAPE YOUR LOVE***"
+	{
+		"chi"		"** **"
+	}
+	"defend"
+	{
+		"chi"		"**守住这里**"
+	}
+	"*boss fight imminent*"
+	{
+		"chi"		"** **"
+	}
+	"*get in the hole*"
+	{
+		"chi"		"**快进入这个洞里**"
+	}
+	"oooh... look at those cute digletts"
+	{
+		"chi"		"** **"
+	}
+	"defend here untill the wall breaks"
+	{
+		"chi"		"** **"
+	}
+	"hold 15sec"
+	{
+		"chi"		"** **"
+	}
+	"go..."
+	{
+		"chi"		"** **"
+	}
+	"shoot the floor"
+	{
+		"chi"		"** **"
+	}
+	"!!shoot the zombies to the side!!"
+	{
+		"chi"		"** **"
+	}
+	"***PICK UP THE TORCHES AND BURN ALL WEEBS***"
+	{
+		"chi"		"** **"
+	}
+	"***HURRY, BEFORE WEEBLAND INVADES US***"
+	{
+		"chi"		"** **"
+	}
+	"***THE TORCHES BURNS AND PUSHES ZOMBIES***"
+	{
+		"chi"		"** **"
+	}
+	"***ALSO USE THE TORCHES TO LIGHT HOUSES***"
+	{
+		"chi"		"** **"
+	}
+	"***ZOMBIES ARE TELEPORTING IN 15 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***YOU WILL TELEPORT OUT IF YOU TAKE TOO LONG (2:20 MINUTES)***"
+	{
+		"chi"		"** **"
+	}
+	"***BURN ALL 10 HOUSES AND SHOOT ALL 5 WEEBS TO TELEPORT OUT EARLIER***"
+	{
+		"chi"		"** **"
+	}
+	"***ZOMBIES ARE TELEPORTING IN 10 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***ZOMBIES ARE TELEPORTING IN 5 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***ZOMBIES ARE TELEPORTING***"
+	{
+		"chi"		"** **"
+	}
+	"***TP'ING IN 10 SECS***"
+	{
+		"chi"		"** **"
+	}
+	"***TP'ING IN 5 SECS***"
+	{
+		"chi"		"** **"
+	}
+	"***TP'ING IN 4 SECS***"
+	{
+		"chi"		"** **"
+	}
+	"***TP'ING IN 3 SECS***"
+	{
+		"chi"		"** **"
+	}
+	"***TP'ING IN 2 SECS***"
+	{
+		"chi"		"** **"
+	}
+	"***TP'ING IN 1 SEC***"
+	{
+		"chi"		"** **"
+	}
+	"***Poof*"
+	{
+		"chi"		"** **"
+	}
+	"***NOT ENOUGH HUMANS - SLAYING TO SAVE TIME***"
+	{
+		"chi"		"** **"
+	}
+	"hold here"
+	{
+		"chi"		"** **"
+	}
+	"*Pull attack*"
+	{
+		"chi"		"** **"
+	}
+	"*The digletts died*"
+	{
+		"chi"		"** **"
+	}
+	"now defend untill the door is fully opened"
+	{
+		"chi"		"** **"
+	}
+	"*Wall 1 breaks in 40 seconds*"
+	{
+		"chi"		"** **"
+	}
+	"i love you"
+	{
+		"chi"		"** **"
+	}
+	"*Defend here for 30 seconds*"
+	{
+		"chi"		"** **"
+	}
+	"***I will help***"
+	{
+		"chi"		"** **"
+	}
+	"***FUS RO...***"
+	{
+		"chi"		"** **"
+	}
+	"*Enter the Sand Castle*"
+	{
+		"chi"		"** **"
+	}
+	"*Last stand - Defend for 30 seconds*"
+	{
+		"chi"		"** **"
+	}
+	"*Jump Down*"
+	{
+		"chi"		"** **"
+	}
+	"*15 seconds before bridge breaks*"
+	{
+		"chi"		"** **"
+	}
+	"***Hey, doing well i see***"
+	{
+		"chi"		"** **"
+	}
+	"***Since you are doing so well, i figure that i should make it harder for you***"
+	{
+		"chi"		"** **"
+	}
+	"***I will heal the big turtle every now and then***"
+	{
+		"chi"		"** **"
+	}
+	"***Because i am a naughty little turtle.. rowr XD***"
+	{
+		"chi"		"** **"
+	}
+	"***Goooodluck***"
+	{
+		"chi"		"** **"
+	}
+	"***Demon Turtle Of Despair has appeared!***"
+	{
+		"chi"		"** **"
+	}
+	"***Turtle heals every 50 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"*Demon Turtle casts Spears*"
+	{
+		"chi"		"** **"
+	}
+	"*Demon Turtle casts Chill*"
+	{
+		"chi"		"** **"
+	}
+	"*Demon Turtle casts Water Blast*"
+	{
+		"chi"		"** **"
+	}
+	"*Demon Turtle casts Launch*"
+	{
+		"chi"		"** **"
+	}
+	"*Demon Turtle seems to be angrier*"
+	{
+		"chi"		"** **"
+	}
+	"*-9).$ casts -Turtle.jpg*"
+	{
+		"chi"		"** **"
+	}
+	"*Demon Turtle 7_) Launch2.0.exe*"
+	{
+		"chi"		"** **"
+	}
+	"*Demon Turtle casts 29--"
+	{
+		"chi"		"** **"
+	}
+	"*Something is happening..*"
+	{
+		"chi"		"** **"
+	}
+	"***Good Job! You have defeated the virus and now will leave the computer!***"
+	{
+		"chi"		"** **"
+	}
+	"***I hope you a have a lovely journey back home and...***"
+	{
+		"chi"		"** **"
+	}
+	"***W..wait***"
+	{
+		"chi"		"** **"
+	}
+	"***WAAAAAAAAAAAAAAAIIIIIIII----***"
+	{
+		"chi"		"** **"
+	}
+	"<== All soldiers get out the ship and forward!"
+	{
+		"chi"		"** **"
+	}
+	"<== You must find the bomb to open the way"
+	{
+		"chi"		"** **"
+	}
+	"<== Get 4 !  ==>"
+	{
+		"chi"		"** **"
+	}
+	"<== Get 2 !  ==>"
+	{
+		"chi"		"** **"
+	}
+	"<== Get 5 !  ==>"
+	{
+		"chi"		"** **"
+	}
+	"<== Get 3 !  ==>"
+	{
+		"chi"		"** **"
+	}
+	"<== Get 1 !  ==>"
+	{
+		"chi"		"** **"
+	}
+	"<== Get 6 !  ==>"
+	{
+		"chi"		"** **"
+	}
+	"<== Bomb explosion in 30second ==>"
+	{
+		"chi"		"** **"
+	}
+	"<== Bomb explosionin 15 second ==>"
+	{
+		"chi"		"** **"
+	}
+	"<== Bomb explosion in 10 second ==>"
+	{
+		"chi"		"** **"
+	}
+	"<== Wait 25 second to go to heilcopter==>"
+	{
+		"chi"		"** **"
+	}
+	"<==Get in the helicopter and out in 80s ==>"
+	{
+		"chi"		"** **"
+	}
+	"<==helicopter fly out in 30s ==>"
+	{
+		"chi"		"** **"
+	}
+	"<==helicopter fly out in 15s ==>"
+	{
+		"chi"		"** **"
+	}
+	"<==helicopter fly out in 5s ==>"
+	{
+		"chi"		"** **"
+	}
+	"<==heilcopter fly out now! ==>"
+	{
+		"chi"		"** **"
+	}
+	"***YOU TOOK TOO LONG - NUKING HUMANS***"
+	{
+		"chi"		"** **"
+	}
+	"*ground attack*"
+	{
+		"chi"		"** **"
+	}
+	"**kill the diglett**"
+	{
+		"chi"		"** **"
+	}
+	"**laser attack**"
+	{
+		"chi"		"** **"
+	}
+	"**the diglett is dead**"
+	{
+		"chi"		"** **"
+	}
+	"hold this room for 20 sec"
+	{
+		"chi"		"** **"
+	}
+	"the main door is stuck"
+	{
+		"chi"		"** **"
+	}
+	"wait until we find another way"
+	{
+		"chi"		"** **"
+	}
+	"we found a secret entrance"
+	{
+		"chi"		"** **"
+	}
+	"go in"
+	{
+		"chi"		"** **"
+	}
+	"wait for the doors to open"
+	{
+		"chi"		"** **"
+	}
+	"wait for the right door to open"
+	{
+		"chi"		"** **"
+	}
+	"defend for 30 sec"
+	{
+		"chi"		"** **"
+	}
+	"defend for 20 sec"
+	{
+		"chi"		"** **"
+	}
+	"defend for 10 sec"
+	{
+		"chi"		"** **"
+	}
+	"wait for the door to open"
+	{
+		"chi"		"** **"
+	}
+	"the wall.. quick"
+	{
+		"chi"		"** **"
+	}
+	"wait for the finall wall to break"
+	{
+		"chi"		"** **"
+	}
+	"alright let's fight that dicklett"
+	{
+		"chi"		"** **"
+	}
+	"**jizz attack left**"
+	{
+		"chi"		"** **"
+	}
+	"**fart attack**"
+	{
+		"chi"		"** **"
+	}
+	"**jizz attack right**"
+	{
+		"chi"		"** **"
+	}
+	"**stomp attack**"
+	{
+		"chi"		"** **"
+	}
+	"**the dicklett has been killed**"
+	{
+		"chi"		"** **"
+	}
+	"Run towards the back exit"
+	{
+		"chi"		"** **"
+	}
+	"defend 'till the door's been fully opened"
+	{
+		"chi"		"** **"
+	}
+	"***Kill the final boss***"
+	{
+		"chi"		"** **"
+	}
+	"***earthquake***"
+	{
+		"chi"		"** **"
+	}
+	"***laser attack***"
+	{
+		"chi"		"** **"
+	}
+	"***The digletts have been defeated*** gg"
+	{
+		"chi"		"** **"
+	}
+	"*Demon 7{{2 casts ERROR#*"
+	{
+		"chi"		"** **"
+	}
+	"***FAREWELL YOUR LOVE***"
+	{
+		"chi"		"** **"
+	}
+	"***ALL COINS BUTTON PRESSED***"
+	{
+		"chi"		"** **"
+	}
+	"|====<YOU HAVE GATHERED ALL THE DIDDLE COINS>====|"
+	{
+		"chi"		"** **"
+	}
+	"|====<YOU ARE RICH AND PROUD, AND SHALL THEREFORE REACH GREATER HEIGHTS>====|"
+	{
+		"chi"		"** **"
+	}
+	"|====<PREPARE FOR THE ULTIMATE DIDDLING>====|"
+	{
+		"chi"		"** **"
+	}
+	"***KILL BUTTON PRESSED***"
+	{
+		"chi"		"** **"
+	}
+	"***I'M RICK HARRISON, AND THIS IS MY PAWN SHOP***"
+	{
+		"chi"		"** **"
+	}
+	"***DUE TO HUGE ITEM DEMAND WE CAN ONLY LET ONE PERSON IN AT A TIME***"
+	{
+		"chi"		"** **"
+	}
+	"***LINE UP AND KEEP HUGGING THE DOOR FOR A CHANCE TO GET INSIDE***"
+	{
+		"chi"		"** **"
+	}
+	"***IFWHEN YOU GET INSIDE YOU'LL HAVE 10 SECONDS TO BUY SOMETHING***"
+	{
+		"chi"		"** **"
+	}
+	"***DEFEND FOR 20 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***5 SECONDS LEFT***"
+	{
+		"chi"		"** **"
+	}
+	"***PURCHASED - DIDDLE CANNON***"
+	{
+		"chi"		"** **"
+	}
+	"***FALL BACK***"
+	{
+		"chi"		"** **"
+	}
+	"***SHOOT AT THE BASE OF THE ARMS***"
+	{
+		"chi"		"** **"
+	}
+	"***PURCHASED - GUARDIAN***"
+	{
+		"chi"		"** **"
+	}
+	"***PURCHASED - LEGENDARY HEAL***"
+	{
+		"chi"		"** **"
+	}
+	"***PURCHASED - DISCO PUSH***"
+	{
+		"chi"		"** **"
+	}
+	"***SHOP IS SOLD OUT***"
+	{
+		"chi"		"** **"
+	}
+	"***COME IN TO PICK UP LEFTOVERS (IF ANY)***"
+	{
+		"chi"		"** **"
+	}
+	"***ZOMBIES TELEPORT IN 15 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***ZOMBIES TELEPORT IN 10 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***ZOMBIES TELEPORT IN 5 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***ZOMBIES TELEPORTING***"
+	{
+		"chi"		"** **"
+	}
+	"***THIS ELEVATOR WILL LEAVE ONCE THE OTHER PATH HAS BEEN FINISHED***"
+	{
+		"chi"		"** **"
+	}
+	"***STAND YOUR GROUND UNTIL THEN***"
+	{
+		"chi"		"** **"
+	}
+	"***BE STRONG FOR DADDY***"
+	{
+		"chi"		"** **"
+	}
+	"***ZOMBIES REACHED ELEVATOR - YOU'RE DEAD***"
+	{
+		"chi"		"** **"
+	}
+	"***DEFEND FOR 40 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***PURCHASED - BIG GUARDIAN***"
+	{
+		"chi"		"** **"
+	}
+	"***ELEVATOR LEAVES IN 10 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***ELEVATOR LEAVES IN 5 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***ELEVATOR IS LEAVING***"
+	{
+		"chi"		"** **"
+	}
+	"***DEFEND FOR 50 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***30 SECONDS LEFT***"
+	{
+		"chi"		"** **"
+	}
+	"***15 SECONDS LEFT***"
+	{
+		"chi"		"** **"
+	}
+	"***10 SECONDS LEFT***"
+	{
+		"chi"		"** **"
+	}
+	"***JUMP INSIDE THE DOODLE DOODY***"
+	{
+		"chi"		"** **"
+	}
+	"***THE BOOBLE JOOBLE***"
+	{
+		"chi"		"** **"
+	}
+	"***THE BABY MACHINE***"
+	{
+		"chi"		"** **"
+	}
+	"***WELCOME TO THE VAGINA***"
+	{
+		"chi"		"** **"
+	}
+	"***A VAGINA IS WELCOMED***"
+	{
+		"chi"		"** **"
+	}
+	"***A VAGINA IS BOOBLY***"
+	{
+		"chi"		"** **"
+	}
+	"***A VAGINA IS NEAT***"
+	{
+		"chi"		"** **"
+	}
+	"***A VAGINA IS GOOD***"
+	{
+		"chi"		"** **"
+	}
+	"===[ ZOMBIE JIHAD ABORTED - BADEXPLOIT SPOT ]==="
+	{
+		"chi"		"** **"
+	}
+	"***A VAGINA RUNS 78 MILES PER DAY ON AVERAGE***"
+	{
+		"chi"		"** **"
+	}
+	"***A VAGINA INCLUDES CHILD SUPPORT***"
+	{
+		"chi"		"** **"
+	}
+	"***A VAGINA IS AFRAID OF CLOWNS***"
+	{
+		"chi"		"** **"
+	}
+	"***A VAGINA DOES NOT WANT TO PLAY ANYMORE***"
+	{
+		"chi"		"** **"
+	}
+	"***A VAGINA IS ALLERGIC TO DICKERY***"
+	{
+		"chi"		"** **"
+	}
+	"***A VAGINA HELPS THE POOR***"
+	{
+		"chi"		"** **"
+	}
+	"***A VAGINA OPENS FOR YOU***"
+	{
+		"chi"		"** **"
+	}
+	"***A VAGINA IS WARM***"
+	{
+		"chi"		"** **"
+	}
+	"***A VAGINA IS MUSHY***"
+	{
+		"chi"		"** **"
+	}
+	"***A VAGINA IS DANGEROUS***"
+	{
+		"chi"		"** **"
+	}
+	"***A VAGINA IS FILLED WITH TEETH***"
+	{
+		"chi"		"** **"
+	}
+	"***A VAGINA IS IN ALL OF US***"
+	{
+		"chi"		"** **"
+	}
+	"***A VAGINA CALLS TO US***"
+	{
+		"chi"		"** **"
+	}
+	"***A VAGINA DIDDLES US***"
+	{
+		"chi"		"** **"
+	}
+	"***A VAGINA DOODLES US***"
+	{
+		"chi"		"** **"
+	}
+	"***A VAGINA FOR EVERY SANTA CLAUS***"
+	{
+		"chi"		"** **"
+	}
+	"***A VAGINA EATS PIZZA DAILY***"
+	{
+		"chi"		"** **"
+	}
+	"***A VAGINA CAN FART***"
 	{
 		"chi"		"** **"
 	}
