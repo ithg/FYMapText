@@ -348,4 +348,16 @@
 	{
 		"chi"		"**BOSS 3S后发动右推技能（准备按住A）**"
 	}
+	"***Zombies are in win-room,stage failed!***"
+	{
+		"chi"		"** **"
+	}
+	"***A human has picked up unlimited ammo!***"
+	{
+		"chi"		"** **"
+	}
+	">> Map by TaskuVaras and Moltard <<"
+	{
+		"chi"		"** **"
+	}
 }

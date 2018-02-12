@@ -340,4 +340,80 @@
 	{
 		"chi"		"** **"
 	}
+	"***WELL DONE***"
+	{
+		"chi"		"** **"
+	}
+	"***PLAYER PICKED UP CLAYMORE MINES***"
+	{
+		"chi"		"** **"
+	}
+	"***PLAYER PICKED UP GAUSS RIFLE***"
+	{
+		"chi"		"** **"
+	}
+	"***TELEPORTING EVERYONE TO SPACESHIP ENTRANCE***"
+	{
+		"chi"		"** **"
+	}
+	"***GET INSIDE THE TRANSPORTER***"
+	{
+		"chi"		"** **"
+	}
+	"***TELEPORTING EVERYONE TO SPACESHIP CORE***"
+	{
+		"chi"		"** **"
+	}
+	"***THE PREDATOR IS IN RAGEMODE***"
+	{
+		"chi"		"** **"
+	}
+	"***THE SPACESHIP IS STARTING TO COLLAPSE***"
+	{
+		"chi"		"** **"
+	}
+	"***PLAYER PICKED UP PUSH GUN***"
+	{
+		"chi"		"** **"
+	}
+	"*** Mapping Help Airvulpes,Kune,thas,Rukly,Shufen ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Model :Dakotec ***"
+	{
+		"chi"		"** **"
+	}
+	"***PLAYER PICKED UP ALIEN SAMPLE***"
+	{
+		"chi"		"** **"
+	}
+	"***SOMEONE MUST JUMP INTO THE CORE***"
+	{
+		"chi"		"** **"
+	}
+	"***ZOMBIE BRIDGE ACTIVATED***"
+	{
+		"chi"		"** **"
+	}
+	"***THE CORE IS GOING UNSTABLE***"
+	{
+		"chi"		"** **"
+	}
+	"***RUN TOWARDS THE FINAL ROOM***"
+	{
+		"chi"		"** **"
+	}
+	"***THIS IS YOUR FINAL STAND***"
+	{
+		"chi"		"** **"
+	}
+	"***HOLD YOUR GROUND***"
+	{
+		"chi"		"** **"
+	}
+	"***KEEP FIRING WITH UNLIMITED AMMO***"
+	{
+		"chi"		"** **"
+	}
 }

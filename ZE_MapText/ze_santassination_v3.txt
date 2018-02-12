@@ -1128,4 +1128,60 @@
 	{
 		"chi"		"** **"
 	}
+	"***KONY2012***"
+	{
+		"chi"		"** **"
+	}
+	"***SORRY...***"
+	{
+		"chi"		"** **"
+	}
+	"***TRAM 1 IS LEAVING IN 20 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***TRAM 1 IS LEAVING***"
+	{
+		"chi"		"** **"
+	}
+	"***TRAM 2 IS LEAVING IN 10 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***TRAM 2 IS LEAVING***"
+	{
+		"chi"		"** **"
+	}
+	"** ZE_SUPERSHITSHOW **"
+	{
+		"chi"		"** **"
+	}
+	"** A mode will be chosen shortly... **"
+	{
+		"chi"		"** **"
+	}
+	"***FIRST FIRST JEDI-SCROLL-DOOR IS OPENING***"
+	{
+		"chi"		"** **"
+	}
+	"***SECOND SECOND JEDI-SCROLL-DOOR IS OPENING IN 15 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***SECOND SECOND JEDI-SCROLL-DOOR IS OPENING***"
+	{
+		"chi"		"** **"
+	}
+	"***Modified by Reflelia***"
+	{
+		"chi"		"** **"
+	}
+	"***60 SECONDS LEFT***"
+	{
+		"chi"		"** **"
+	}
+	"***WARM UP ROUIND***"
+	{
+		"chi"		"** **"
+	}
 }

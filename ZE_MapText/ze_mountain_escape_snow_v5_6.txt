@@ -80,4 +80,60 @@
 	{
 		"chi"		"** **"
 	}
+	"***ADMIN CHANGED MODE [CUSTOM]***"
+	{
+		"chi"		"** **"
+	}
+	"***ADMIN CHANGED MODE [NORMAL]***"
+	{
+		"chi"		"** **"
+	}
+	"***Zombie picked up Gravity***"
+	{
+		"chi"		"** **"
+	}
+	"***Heal picked up***"
+	{
+		"chi"		"** **"
+	}
+	"***Player picked up Radio***"
+	{
+		"chi"		"** **"
+	}
+	"[MUSIC] Panda Eyes & Teminite - High Score"
+	{
+		"chi"		"** **"
+	}
+	"[MUSIC] Pendulum - Encoder"
+	{
+		"chi"		"** **"
+	}
+	"***Wind picked up***"
+	{
+		"chi"		"** **"
+	}
+	"***A PLAYER SLAIN BY A BARREL***"
+	{
+		"chi"		"** **"
+	}
+	"***Helicopter 1 explode in 3s***"
+	{
+		"chi"		"** **"
+	}
+	"***Snow picked up***"
+	{
+		"chi"		"** **"
+	}
+	"***ADMIN ENABLE ADDON MODE [FOG]***"
+	{
+		"chi"		"** **"
+	}
+	"***Protector picked up***"
+	{
+		"chi"		"** **"
+	}
+	"***Zombie picked up Freeze***"
+	{
+		"chi"		"** **"
+	}
 }

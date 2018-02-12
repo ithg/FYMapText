@@ -580,4 +580,20 @@
 	{
 		"chi"		"** **"
 	}
+	"*** WARMUP ROUND (60 sec) ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Map By Nostar ***"
+	{
+		"chi"		"** **"
+	}
+	"***WELCOME TO PIZZA LAND***"
+	{
+		"chi"		"** **"
+	}
+	"***MAMA KOWAMA 2017***"
+	{
+		"chi"		"** **"
+	}
 }

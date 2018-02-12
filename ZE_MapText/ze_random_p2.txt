@@ -2,19 +2,19 @@
 {
 	"***Map by SonicTheHitManHogRelaxingWalls***"
 	{
-		"chi"		"** **"
+		"chi"		"**地图作者：SonicTheHitManHogRelaxingWalls**"
 	}
 	"***LEVEL -- BOX WITH A LIGHT IN IT***"
 	{
-		"chi"		"** **"
+		"chi"		"**关卡:起点自救**"
 	}
 	"***Hold off as the zombies spawn until you're teleport to 1 of the 9 maps!***"
 	{
-		"chi"		"** **"
+		"chi"		"**准备防守僵尸保护自己 一会有传送把我们传送到9张地图中的任意一张**"
 	}
 	"***Teleporting in 20secs!***"
 	{
-		"chi"		"** **"
+		"chi"		"**传送还有20S**"
 	}
 	"** LEVEL: NOT TOO ROUGH **"
 	{
@@ -38,19 +38,19 @@
 	}
 	"***LEVEL -- CARPET ESCAPE***"
 	{
-		"chi"		"** **"
+		"chi"		"**关卡：印度飞毯**"
 	}
 	"***Take the Carpet and make your way to the escape door!***"
 	{
-		"chi"		"** **"
+		"chi"		"**坐上那个印度飞毯 别让僵尸冲上来**"
 	}
 	"***Carpet leaving in 3secs!***"
 	{
-		"chi"		"** **"
+		"chi"		"**印度飞毯还有3S后离开**"
 	}
 	"***Door breaking in 10secs!***"
 	{
-		"chi"		"** **"
+		"chi"		"**大门打开还有10S**"
 	}
 	"***Hurry through the warehouse while the carpet passes under!***"
 	{
@@ -421,6 +421,18 @@
 		"chi"		"** **"
 	}
 	"*** map created by thas ***"
+	{
+		"chi"		"** **"
+	}
+	"***Escape Boat engine failure!***"
+	{
+		"chi"		"** **"
+	}
+	"***...Take the Wash Bucket...?***"
+	{
+		"chi"		"** **"
+	}
+	"***CONGRATULATIONS -- ...Wait...F---!!***"
 	{
 		"chi"		"** **"
 	}

@@ -2,7 +2,7 @@
 {
 	"*** Map by Airvulpes ***"
 	{
-		"chi"		"** **"
+		"chi"		"**地图作者：Airvulpes**"
 	}
 	"*** Hold 30 seconds ***"
 	{
@@ -93,6 +93,10 @@
 		"chi"		"** **"
 	}
 	"***WARMUP***"
+	{
+		"chi"		"** **"
+	}
+	"***DIFFICULTY --- NORMAL***"
 	{
 		"chi"		"** **"
 	}

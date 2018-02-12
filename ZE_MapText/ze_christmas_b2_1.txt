@@ -172,4 +172,48 @@
 	{
 		"chi"		"** **"
 	}
+	"610 Cat Found"
+	{
+		"chi"		"** **"
+	}
+	"***Doors closing in 30 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***ZOMBIES IN SAFE ZONE!!!***"
+	{
+		"chi"		"** **"
+	}
+	"***KILL THEM TO COMPLETE LEVEL***"
+	{
+		"chi"		"** **"
+	}
+	">> LEVEL: 3 <<"
+	{
+		"chi"		"** **"
+	}
+	"***Defend for 20 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***DOOR IS OPEN! GET INSIDE!!***"
+	{
+		"chi"		"** **"
+	}
+	">> CROSS THE ACID POOL <<"
+	{
+		"chi"		"** **"
+	}
+	"***Elevator leaving in 5 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Hold for 20 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Hold for 5seconds***"
+	{
+		"chi"		"** **"
+	}
 }

@@ -1,0 +1,11 @@
+"Console_T"
+{
+	"**** MAP BY AERIS_004 ****"
+	{
+		"chi"		"** **"
+	}
+	"***WWW.SUPREME-ELITE.FR ***"
+	{
+		"chi"		"** **"
+	}
+}

@@ -2,7 +2,7 @@
 {
 	"Map by FW -=LightningZLaser=-"
 	{
-		"chi"		"** **"
+		"chi"		"**地图作者：FW -=LightningZLaser=- 翻译：牛肉粉**"
 	}
 	"www.FireWaLLCS.netforums"
 	{
@@ -10,67 +10,67 @@
 	}
 	"Door opening in 15 seconds..."
 	{
-		"chi"		"** **"
+		"chi"		"**大门还有15S后打开**"
 	}
 	"Door opening in 5 seconds..."
 	{
-		"chi"		"** **"
+		"chi"		"**大门还有5S后打开**"
 	}
 	"Heaven Teleporter generators initiating..."
 	{
-		"chi"		"** **"
+		"chi"		"**传送点已被启用**"
 	}
 	"Notice! <Insert Player Name Here> is going to heaven!"
 	{
-		"chi"		"** **"
+		"chi"		">>>通知：这个地方 谁进去了 谁就可以去天堂玩了<<<"
 	}
 	"Gate opening in 15 seconds..."
 	{
-		"chi"		"** **"
+		"chi"		"**大门还有15S后打开**"
 	}
 	"Gate opening in 5 seconds..."
 	{
-		"chi"		"** **"
+		"chi"		"**大门还有5S后打开**"
 	}
 	"Doors to Test Laboratory G opening in 15 seconds."
 	{
-		"chi"		"** **"
+		"chi"		"**实验室大门G将于15S后打开**"
 	}
 	"Doors to Test Laboratory G opening in 5 seconds."
 	{
-		"chi"		"** **"
+		"chi"		"**实验室大门G将于5S后打开**"
 	}
 	"Doors to Test Laboratory G has opened!"
 	{
-		"chi"		"** **"
+		"chi"		"**实验室大门G打开了**"
 	}
 	"Panel Walk has been activated. Doors will open in 20 seconds."
 	{
-		"chi"		"** **"
+		"chi"		"**步行面板已被激活 大门还有20S后打开**"
 	}
 	"Doors opening in 10 seconds."
 	{
-		"chi"		"** **"
+		"chi"		"**大门还有10S后打开**"
 	}
 	"Zombies are blocked for 10 seconds!"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸被封锁10S**"
 	}
 	"Panel Walk retracting..."
 	{
-		"chi"		"** **"
+		"chi"		"**行走面板回收**"
 	}
 	"[TIP] Use your head to go across the Headclimber!"
 	{
-		"chi"		"** **"
+		"chi"		"**提示 利用的身法穿越这些障碍物尽快到达目的地**"
 	}
 	"Zombies detected! Gate will re-open in 5 seconds."
 	{
-		"chi"		"** **"
+		"chi"		"**检测到僵尸 大门将于5S后打开**"
 	}
 	"Panels retracting in 7 seconds."
 	{
-		"chi"		"** **"
+		"chi"		"**捷径面板将于7S后关闭**"
 	}
 	"[Tip] Humans have special laboratory suits and will be able to pass these fans without slowing down!"
 	{
@@ -78,54 +78,62 @@
 	}
 	"WARNING! Facility emergency self-destruction sequence activated."
 	{
-		"chi"		"** **"
+		"chi"		"**警告：基地的自我毁灭装置已启动**"
 	}
 	"===100 seconds remaining to detonation==="
 	{
-		"chi"		"** **"
+		"chi"		"**100S后基地将发生爆炸**"
 	}
 	"===90 seconds remaining to detonation==="
 	{
-		"chi"		"** **"
+		"chi"		"**你还有90S的时间离开这里**"
 	}
 	"===80 seconds remaining to detonation==="
 	{
-		"chi"		"** **"
+		"chi"		"**80S 啧啧啧 时间不多了哟**"
 	}
 	"===70 seconds remaining to detonation==="
 	{
-		"chi"		"** **"
+		"chi"		"**70S 我觉得我还能抽完一根烟**"
 	}
 	"===60 seconds remaining to detonation==="
 	{
-		"chi"		"** **"
+		"chi"		"**60S 就爆炸了 你快点呀**"
 	}
 	"===50 seconds remaining to detonation==="
 	{
-		"chi"		"** **"
+		"chi"		"**还有50S**"
 	}
 	"===40 seconds remaining to detonation==="
 	{
-		"chi"		"** **"
+		"chi"		"**还有40S了 加油**"
 	}
 	"WARNING===30 seconds remaining to detonation==="
 	{
-		"chi"		"** **"
+		"chi"		"**警告：还有30S基地就没了(*^▽^*)**"
 	}
 	"WARNING===20 seconds remaining to detonation==="
 	{
-		"chi"		"** **"
+		"chi"		"**还有20S 没跟上的队友准备歇逼了**"
 	}
 	"WARNING===10 seconds remaining to detonation==="
 	{
-		"chi"		"** **"
+		"chi"		"**还有10S 基地爆炸 僵尸要GG了**"
 	}
 	"WARNING- BLAST DOORS CLOSING"
 	{
-		"chi"		"** **"
+		"chi"		"**警告:最后的大门已关闭**"
 	}
 	"EMERGENCY WARNING===5 seconds remaining to detonation==="
 	{
-		"chi"		"** **"
+		"chi"		"**最后的警告：5S核爆来袭 大门要关上了**"
+	}
+	"Cable Car leaving in 5 seconds!"
+	{
+		"chi"		"**缆车将于5S后出发**"
+	}
+	"Activate the self-destruction sequence in the emergency room!"
+	{
+		"chi"		"**去急诊室里激活这个基地的核爆按钮**"
 	}
 }

@@ -28,4 +28,8 @@
 	{
 		"chi"		"**地图作者：Lup4n 翻译：牛肉粉**"
 	}
+	"The server is about to close the update ,Please update your game"
+	{
+		"chi"		"** **"
+	}
 }

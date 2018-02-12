@@ -1,0 +1,311 @@
+"Console_T"
+{
+	"**ZE_FFVII_COSMO_CANYON**"
+	{
+		"chi"		"**翻译：牛肉粉**"
+	}
+	"**Map by Headshooter.SC & HaRyDe**"
+	{
+		"chi"		"**地图作者：Headshooter.SC 和 HaRyDe**"
+	}
+	"**WARMUP ROUND**"
+	{
+		"chi"		"**热身局**"
+	}
+	"**NORMAL MODE**"
+	{
+		"chi"		"**普通模式**"
+	}
+	"[Cloud] Hmm.. Seems like the engines are broken.. We are stuck in the middle of this desert!"
+	{
+		"chi"		"**克劳德：EMMMM 飞机的引擎损坏了 我们被困在这沙漠了**"
+	}
+	"[Red-XIII] Do not worry. I know this place.. I was born in here.."
+	{
+		"chi"		"**红犬13号：没关系 这个地方是我的故乡 我对这里熟悉**"
+	}
+	"[Cloud] Well.. That means.. That we can find some staff to make our ship working again.. Right?"
+	{
+		"chi"		"**克劳德：嗯…这意味着..我们可以找到一些维修人员让我们的船重新工作 对吗？**"
+	}
+	"[Red-XIII] Of course. But I need to do something first.. I will see you in the Gi Cave."
+	{
+		"chi"		"** **"
+	}
+	"[Red-XIII] There I will give you all the stuff you need."
+	{
+		"chi"		"**红犬13号：跟我来 我会给你所有你需要的东西**"
+	}
+	"[Cloud] No problem. I will wait for you in there.."
+	{
+		"chi"		"**克劳德：行吧 到时候我会在那里等你的**"
+	}
+	"**Cover here for 5 seconds before we clear this obstacle**"
+	{
+		"chi"		"**在我们清理障碍物之前 你得守个5S**"
+	}
+	"**A player has picked up FIRE materia**"
+	{
+		"chi"		"**有玩家习得了火焰魔法**"
+	}
+	"**We are almost at Cosmo Canyon**"
+	{
+		"chi"		"**我们将进入宇宙大峡谷**"
+	}
+	"**Defend here for 25 seconds until the gates open**"
+	{
+		"chi"		"**防守25S 直到后方的道路开放**"
+	}
+	"**Gates are open. Welcome to Cosmo Canyon**"
+	{
+		"chi"		"**大门已打开 欢迎来到宇宙大峡谷**"
+	}
+	"**A player has picked up BIO materia**"
+	{
+		"chi"		"** **"
+	}
+	"**The barman will open the door in 5 seconds**"
+	{
+		"chi"		"**酒吧大门将于5S后打开**"
+	}
+	"**Zombies are coming. Defend Cosmo Bar for 25 seconds before we open the back door**"
+	{
+		"chi"		"**僵尸过来了 守住大峡谷酒吧25S 大门还需要一会时间**"
+	}
+	"**5 SECONDS LEFT**"
+	{
+		"chi"		"**还有5S了**"
+	}
+	"**FALL BACK**"
+	{
+		"chi"		"**全体撤退**"
+	}
+	"**THE EXPLOSIVE WILL BLOW UP THE ROCK IN 25 SECONDS**"
+	{
+		"chi"		"**炸弹已安放 等待25S炸开岩石 清出道路**"
+	}
+	"**A player has picked up SLEEP materia**"
+	{
+		"chi"		"** **"
+	}
+	"**The gates will open in 25 seconds**"
+	{
+		"chi"		"**大门还有25S后打开**"
+	}
+	"**The gates of gi cave will open in 15 seconds**"
+	{
+		"chi"		"**大门还有15S后打开**"
+	}
+	"**Wait until something happens**"
+	{
+		"chi"		"**等待一下 似乎有什么要发生**"
+	}
+	"**A player has picked up HEAL materia**"
+	{
+		"chi"		"**有玩家习得治愈魔法**"
+	}
+	"**The gi gate will open in 35 seconds**"
+	{
+		"chi"		"**大门还有35后打开**"
+	}
+	"[Cloud] Ay.. There you are!"
+	{
+		"chi"		"**克劳德:.....找到你了**"
+	}
+	"[Red-XIII] Yes. They helped me a lot. Did you ask for that? This is for you.."
+	{
+		"chi"		"**红犬13号:恩 他们帮了我很多忙 这是给你的.**"
+	}
+	"[Cloud] Thanks. But one question.. What did we forget here?"
+	{
+		"chi"		"** **"
+	}
+	"[Red-XIII] This is the ancient cave of spirits.. Far ago my father was fighting with Gi Nattak.."
+	{
+		"chi"		"** **"
+	}
+	"[Red-XIII] And he sacrificed himself in order to save the Cosmo Canyon.."
+	{
+		"chi"		"** **"
+	}
+	"[Cloud] Oh what a pity.."
+	{
+		"chi"		"** **"
+	}
+	"[Red-XIII] Do not bring this close to your heart.. He died like a hero and I hope that you guys can defeat him.."
+	{
+		"chi"		"** **"
+	}
+	"[Cloud] Yea I wish you good luck. When you end with him I go repair our airship.."
+	{
+		"chi"		"** **"
+	}
+	"**GRENADES DO A LOT OF DAMAGE. USE THEM!**"
+	{
+		"chi"		"** **"
+	}
+	"**SOME OF YOUR ITEMS CAN DAMAGE THE BOSS**"
+	{
+		"chi"		"** **"
+	}
+	"**Gi Nattak is using Fire Nova!!! Get out of middle**"
+	{
+		"chi"		"** **"
+	}
+	"**Gi Nattak is using silence**"
+	{
+		"chi"		"** **"
+	}
+	"**Gi Nattak is using fire**"
+	{
+		"chi"		"** **"
+	}
+	"**Gi Nattak is using shield**"
+	{
+		"chi"		"** **"
+	}
+	"**Gi Nattak is spawning minions. Watch out for them**"
+	{
+		"chi"		"** **"
+	}
+	"**Gi Nattak is using wind**"
+	{
+		"chi"		"** **"
+	}
+	"**Gi Nattak is using poison**"
+	{
+		"chi"		"** **"
+	}
+	"**GI NATTAK IS USING ULTIMA. KILL HIM FASTER!!**"
+	{
+		"chi"		"** **"
+	}
+	"**Gi Nattack is escaped**"
+	{
+		"chi"		"** **"
+	}
+	"**Now you can get out of Cave of Gi**"
+	{
+		"chi"		"** **"
+	}
+	"**DOOR OPENS IN 40 SECONDS**"
+	{
+		"chi"		"** **"
+	}
+	"**10 SECONDS LEFT**"
+	{
+		"chi"		"** **"
+	}
+	"**This is your last hold point**"
+	{
+		"chi"		"** **"
+	}
+	"**Get on the rocks and hold 25 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"[Red-XIII] Congrats! You made it.. But seems like Gi Nattak ran away somehow.. We will defeat him next time.."
+	{
+		"chi"		"** **"
+	}
+	"**NORMAL mode was beaten. Unlocking HARD mode **"
+	{
+		"chi"		"** **"
+	}
+	"**HARD MODE**"
+	{
+		"chi"		"** **"
+	}
+	"**CHEST SIDEQUEST STARTED**"
+	{
+		"chi"		"** **"
+	}
+	"**FIND ALL THE GOLDEN CHESTS TO GET A SPECIAL  ITEM THAT WILL HELP YOU ON GI NATTAK**"
+	{
+		"chi"		"** **"
+	}
+	"**A player has picked up ELECTRO materia**"
+	{
+		"chi"		"** **"
+	}
+	"**The rock will explode in 25 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**A player has picked up WIND materia**"
+	{
+		"chi"		"** **"
+	}
+	"**The detonator seems to be broken**Go another way**"
+	{
+		"chi"		"** **"
+	}
+	"**A player has picked up ULTIMA materia**"
+	{
+		"chi"		"** **"
+	}
+	"**ADMIN HAS CHANGED MAP LEVEL VIA ADMIN ROOM**"
+	{
+		"chi"		"** **"
+	}
+	"**ADMIN PRESSED KILL ALL BUTTON**"
+	{
+		"chi"		"** **"
+	}
+	"**RAGE MODE**"
+	{
+		"chi"		"** **"
+	}
+	"**Cover here for 10 seconds before we clear this obstacle**"
+	{
+		"chi"		"** **"
+	}
+	"**The airship to Shinra will arrive in 30 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"[Cloud] Hold on! I will take you on the airship.. And then we will go to Shinra base."
+	{
+		"chi"		"** **"
+	}
+	"[Cloud] Red-XIII will stay here and will help to reestablish the Village."
+	{
+		"chi"		"** **"
+	}
+	"**The airship is right here...**"
+	{
+		"chi"		"** **"
+	}
+	"**The gates will open in 30 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"[Cloud] Guys be careful! If Genesis is really here then it might be Jenova.. Fighting them both will not be easy.."
+	{
+		"chi"		"** **"
+	}
+	"[Cloud] Especially if he got Gi Nattak soul.. Hard to imagine how mighty he will become.."
+	{
+		"chi"		"** **"
+	}
+	"[Cloud] If you succeed with that then we explode the base with Jenova."
+	{
+		"chi"		"** **"
+	}
+	"**Wait 5 more seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**Shinra gates will open in 25 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**The gates will open in 15 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**The elevator will leave in 15 seconds**"
+	{
+		"chi"		"** **"
+	}
+}

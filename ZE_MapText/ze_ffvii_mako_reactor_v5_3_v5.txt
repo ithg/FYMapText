@@ -220,4 +220,116 @@
 	{
 		"chi"		"** **"
 	}
+	"**CURRENT DIFFICULTY ** >> EXTREME << **"
+	{
+		"chi"		"** **"
+	}
+	"*** MATERIAS AT LVL 3 ***"
+	{
+		"chi"		"** **"
+	}
+	"** EXPLOSION IN 130 SECONDS **"
+	{
+		"chi"		"** **"
+	}
+	"**  120 SECONDS LEFT **"
+	{
+		"chi"		"** **"
+	}
+	"** 30 SECONDS LEFT **"
+	{
+		"chi"		"** **"
+	}
+	"** 20 SECONDS LEFT **"
+	{
+		"chi"		"** **"
+	}
+	"** 10 seconds left **"
+	{
+		"chi"		"** **"
+	}
+	"** YOU DID IT! YOU WON EXTREME ! YOU OWN! **"
+	{
+		"chi"		"** **"
+	}
+	"**CURRENT DIFFICULTY ** >> EXTREME II << **"
+	{
+		"chi"		"** **"
+	}
+	"** COLOR DUE TO EXTREME DIFFICULTY ** Type mat_colorcorrection 0 if you want to turn it off**"
+	{
+		"chi"		"** **"
+	}
+	"** BAHAMUT IS CASTING ** PREPARE YOURSELF **"
+	{
+		"chi"		"** **"
+	}
+	"** BAHAMUT HAS CAST WIND **"
+	{
+		"chi"		"** **"
+	}
+	"** BAHAMUT HAS CAST EARTH ** BREAK THE WALL! **"
+	{
+		"chi"		"** **"
+	}
+	"** BAHAMUT HAS CAST ICE **"
+	{
+		"chi"		"** **"
+	}
+	"** BAHAMUT IS DEAD ** KEEP RUNNING **"
+	{
+		"chi"		"** **"
+	}
+	"** YOU ARE THE MASTERS OF MAKO REACTOR! **"
+	{
+		"chi"		"** **"
+	}
+	"** MAP COMPLETED  ** ZM ROUNDS **"
+	{
+		"chi"		"** **"
+	}
+	"** THIS IS A ZM ROUND ** FIND A PLACE AND RESIST ** DONT FOLLOW THE ZE PATH **"
+	{
+		"chi"		"** **"
+	}
+	"** HUMAN VICTORY IN 4 MINUTES **"
+	{
+		"chi"		"** **"
+	}
+	"** HUMAN VICTORY IN 3 MINUTES **"
+	{
+		"chi"		"** **"
+	}
+	"** HUMAN VICTORY IN 2 MINUTES **"
+	{
+		"chi"		"** **"
+	}
+	"** HUMAN VICTORY IN 1 MINUTES **"
+	{
+		"chi"		"** **"
+	}
+	"** HUMAN VICTORY IN 20 SECONDS **"
+	{
+		"chi"		"** **"
+	}
+	"** WARNING! BAHAMUT IS CASTING ULTIMA ** GET READY TO USE HEAL ++ **"
+	{
+		"chi"		"** **"
+	}
+	"** ULTIMA CAST WILL SUCCED IN 10 SECONDS **"
+	{
+		"chi"		"** **"
+	}
+	"** BAHAMUT HAS CAST GRAVITY **"
+	{
+		"chi"		"** **"
+	}
+	"** BAHAMUT HAS CAST FIRE! **"
+	{
+		"chi"		"** **"
+	}
+	"** [HARD MODE] **"
+	{
+		"chi"		"** **"
+	}
 }

@@ -216,4 +216,24 @@
 	{
 		"chi"		"** **"
 	}
+	">> ZOMBIE ABOARD !! YOU FAILED !! <<"
+	{
+		"chi"		"** **"
+	}
+	">> ZOMBIE SHROOM HAS BEEN PICKED UP <<"
+	{
+		"chi"		"** **"
+	}
+	"*** ZE INDUSTRIAL DEJAVU - ORIGINALY MADE IN ONE DAY ***"
+	{
+		"chi"		"** **"
+	}
+	"***Map ported by ??????***"
+	{
+		"chi"		"** **"
+	}
+	"*** CURRENT MODE: EASY ***"
+	{
+		"chi"		"** **"
+	}
 }

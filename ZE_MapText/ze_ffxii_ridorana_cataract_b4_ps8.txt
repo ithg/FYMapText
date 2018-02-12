@@ -176,4 +176,36 @@
 	{
 		"chi"		"** **"
 	}
+	"**Is this over...or not?...**"
+	{
+		"chi"		"** **"
+	}
+	"** You have beaten HARD MODE! Congratulations! **"
+	{
+		"chi"		"** **"
+	}
+	"**EXTREME MODE**"
+	{
+		"chi"		"** **"
+	}
+	"**ZOMBIE WARP WAS PICKED UP**(DAMAGE LEVEL 2)**"
+	{
+		"chi"		"** **"
+	}
+	"**Both ways will open in 25 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**A PLAYER HAS ACQUIRED FIRAGA**(FIRE LEVEL 3)**"
+	{
+		"chi"		"** **"
+	}
+	"**A PLAYER HAS ACQUIRED DARKAGA**(DARK LEVEL 3)**"
+	{
+		"chi"		"** **"
+	}
+	"**YOU MUST TO KILL ALL THE ZOMBIES TO WIN**"
+	{
+		"chi"		"** **"
+	}
 }

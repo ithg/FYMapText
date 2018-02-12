@@ -66,53 +66,61 @@
 	}
 	">>>Door will Open in 3 sec. PREPARE TO RUN<<<"
 	{
-		"chi"		"** **"
+		"chi"		">>>大门将于3S后打开<<<"
 	}
 	">>>This song is Two step from hell Dragon Rider<<<"
 	{
-		"chi"		"** **"
+		"chi"		">>>这首歌来自:Two step from hell Dragon<<<"
 	}
 	">>>Teleport enable in 20 sec<<<"
 	{
-		"chi"		"** **"
+		"chi"		">>>传送还有20S后启用<<<"
 	}
 	">>>If you can pass final SURF level you receive 10 of frags<<<"
 	{
-		"chi"		"** **"
+		"chi"		">>>如果你完成了最后的滑翔 你将会获得10点积分<<<"
 	}
 	">>>Final Door open in 20 sec<<<"
 	{
-		"chi"		"** **"
+		"chi"		">>>最后的大门还有20S后打开<<<"
 	}
 	">>>OK Final door is open : 1 player must go to control room and launch nuke<<<"
 	{
-		"chi"		"** **"
+		"chi"		">>>漂亮 最后的大门：1个玩家进去按飞机开关 1个人注意卡大门 要不然队友出不来<<<"
 	}
 	">>>Self Destruction Actived<<<"
 	{
-		"chi"		"** **"
+		"chi"		">>>滑翔基地将发生爆炸<<<"
 	}
 	">>>Helidoor is opening<<<"
 	{
-		"chi"		"** **"
+		"chi"		">>>直升机的大门打开了<<<"
 	}
 	">>>TIP:Cargo is open : you can defend in the helicopter"
 	{
-		"chi"		"** **"
+		"chi"		">>>提示 飞机门开了 你可以选择到飞机里面去守<<<"
 	}
 	">>>Heli Leaving in 12 sec. Hurry!!!<<<"
 	{
-		"chi"		"** **"
+		"chi"		">>>飞机将于12S离开 快点上机<<<"
 	}
 	">>>Oh NO! Barrels with explosive is BURN! Its Will blow up it is Some seconds!<<<"
 	{
-		"chi"		"** **"
+		"chi"		">>>不好 油桶燃烧了整个基地 过不了多久滑翔基地将消逝<<<"
 	}
 	"***Map by RelaxingWalls***"
 	{
-		"chi"		"** **"
+		"chi"		"**地图作者：RelaxingWalls 翻译：牛肉粉**"
 	}
 	"***Map made for SteamGamers Mapping Competition***"
+	{
+		"chi"		"** **"
+	}
+	"For POSSESSION, Respect to Sakura"
+	{
+		"chi"		"** **"
+	}
+	"Based-map by Xquality"
 	{
 		"chi"		"** **"
 	}

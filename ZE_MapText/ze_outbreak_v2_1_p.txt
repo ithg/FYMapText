@@ -100,4 +100,12 @@
 	{
 		"chi"		"** **"
 	}
+	">> IDEA: Sienestaja <<"
+	{
+		"chi"		"** **"
+	}
+	">> Map by Taskuvaras <<"
+	{
+		"chi"		"** **"
+	}
 }

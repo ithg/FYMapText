@@ -104,4 +104,12 @@
 	{
 		"chi"		"** **"
 	}
+	"***Utility door will open in 15secs!***"
+	{
+		"chi"		"** **"
+	}
+	"***Bridge charges set for 15secs!***"
+	{
+		"chi"		"** **"
+	}
 }

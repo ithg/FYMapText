@@ -8,4 +8,200 @@
 	{
 		"chi"		"** **"
 	}
+	">>> GATE OPENS IN 20 SEC <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> GATE IS OPENING <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> GATE CLOSES IN 5 SEC <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> GATE IS CLOSING <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> DEFEND THE VILLAGE FOR 40 SEC! <<<"
+	{
+		"chi"		"** **"
+	}
+	"*** BUBBLES picked up ***"
+	{
+		"chi"		"** **"
+	}
+	"*** WALL picked up ***"
+	{
+		"chi"		"** **"
+	}
+	">>> 10 SECONDS REMAINING <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> RUN! <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> DOOR CLOSES IN 25 SEC <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> DOOR CLOSES IN 5 SEC <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> HORSES LEAVING IN 10 SEC <<<"
+	{
+		"chi"		"** **"
+	}
+	"***ACTIVATE ALL CANNONS***"
+	{
+		"chi"		"** **"
+	}
+	">>> GATE CLOSES IN 18 SEC <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> ALL CANNONS ACTIVATED <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> WAIT FOR THE SHOT FROM BLACK PEARL <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> GATE IS CLOSING! <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> RUN TO THE PRISON! <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> DEFEND THE PRISON!! <<< *** RESCUE CAPTAIN JACK SPARROW ***"
+	{
+		"chi"		"** **"
+	}
+	">>> RUN TO THE BLACK PEARL <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> DEFEND THE BLACK PEARL 45 SECONDS! <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> LAST 10 SECONDS REMAINING <<<"
+	{
+		"chi"		"** **"
+	}
+	"*** YOU HAVE BEATEN LEVEL 1. CHALLENGE CONTINUES ON LEVEL 2 ***"
+	{
+		"chi"		"** **"
+	}
+	">>> |LEVEL 2| <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> DOOR CLOSES IN 20 SEC <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> DOOR CLOSES IN 10 SEC <<<"
+	{
+		"chi"		"** **"
+	}
+	"*** BARREL picked up ***"
+	{
+		"chi"		"** **"
+	}
+	">>> GATE IS CLOSING IN 25 SEC <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> GATE IS CLOSING IN 5 SEC <<<"
+	{
+		"chi"		"** **"
+	}
+	"(CT) >>>--SHOOT CANNON--<<<"
+	{
+		"chi"		"** **"
+	}
+	"(ZOMBIES) >>>--STAND NEXT TO THE CANNON TO PUSH IT--<<<"
+	{
+		"chi"		"** **"
+	}
+	">>> CANNON HAS BEEN DESTROYED <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> RUN TO THE ISLAND <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> ENTRANCE TO THE SHELTER IS OPENING IN 30 SEC <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> SHELTER OPENING <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> THE ISLAND WILL BE DESTROYED AFTER 25 SEC <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> 5 SEC REMAINING <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> SHELTER CLOSING <<<"
+	{
+		"chi"		"** **"
+	}
+	"*** YOU HAVE BEATEN LEVEL 2. CHALLENGE CONTINUES ON LEVEL 3 ***"
+	{
+		"chi"		"** **"
+	}
+	">>> |LEVEL 3| <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> DOOR OPENS IN 25 sec <<<"
+	{
+		"chi"		"** **"
+	}
+	"*** SWORD picked up ***"
+	{
+		"chi"		"** **"
+	}
+	">>> DOOR OPENS IN 10 SEC <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> DOOR OPENS IN 5 SEC <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> HOLD FOR 15 SEC <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> STAND BY THE WHEEL TO BRING DOWN THE BRIDGE <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> BRIDGE IS DOWN. RUN! <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> GET ONTO THE SHIP <<<"
+	{
+		"chi"		"** **"
+	}
+	"### WELCOME TO CRAZY ESCAPE ###"
+	{
+		"chi"		"** **"
+	}
 }

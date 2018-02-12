@@ -80,4 +80,76 @@
 	{
 		"chi"		"** **"
 	}
+	"*** TRY TO ESCAPE THROUGH THE CARGO AREA ***"
+	{
+		"chi"		"** **"
+	}
+	"*** CARGO AREA DOOR SHOULD OPEN SOON! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** What is this? ***"
+	{
+		"chi"		"** **"
+	}
+	"*** What is happening? ***"
+	{
+		"chi"		"** **"
+	}
+	"*** We got a winner ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Losers shall die! ***"
+	{
+		"chi"		"** **"
+	}
+	"***DIFFICULTY --- NORMAL***"
+	{
+		"chi"		"** **"
+	}
+	"*** Door opens in 25 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ELEVATOR DOORS OPEN IN 40 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** DOORS ARE OPENING ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ELEVATOR LEAVES IN 5 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** THAT DIDNT SOUND GOOD ***"
+	{
+		"chi"		"** **"
+	}
+	"*** THE WHOLE UNDERGROUND COMPLEX SEEMS TO EXPLODE SOON ***"
+	{
+		"chi"		"** **"
+	}
+	"*** MAKE YOUR WAY TO THE AIRFIELD ***"
+	{
+		"chi"		"** **"
+	}
+	"*** THERE SHOULD BE A PLANE LEAVING SOON ***"
+	{
+		"chi"		"** **"
+	}
+	"*** IN 1 MINUTE THIS WHOLE PLACE BLOWS UP ***"
+	{
+		"chi"		"** **"
+	}
+	"*** PLANE IS READY TO LEAVE ***"
+	{
+		"chi"		"** **"
+	}
+	"*** GET ON NOW ***"
+	{
+		"chi"		"** **"
+	}
 }

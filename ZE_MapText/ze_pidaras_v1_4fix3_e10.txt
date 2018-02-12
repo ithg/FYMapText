@@ -224,4 +224,72 @@
 	{
 		"chi"		"** **"
 	}
+	"*** MESHLEM USE FLAMING FART ***"
+	{
+		"chi"		"** **"
+	}
+	"*** OMFG ! You're alive ! RUN TO THE DICK ! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** COVER WHILE WAITING FOR THE EJACULATION ! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** OMFG PENETRATION INCOMING ! GOGOGO ! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** OMFG YOU DID IT ! NICE JOB FUCKING RETARD ! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** EPIC SOLO YOLO PUTA MADRE EPICNESS WIN !!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** GO SCREEN FUCKING RETARD ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Thx for playing ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL 2 : FLYING COCK ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Pidaras Giant Dick move in 15 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** AFK TELEPORT IN 5 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 5 seconds left ***"
+	{
+		"chi"		"** **"
+	}
+	"*** COVER ON THE LEFT SIDE ! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** COVER ON THE RIGHT SIDE ! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Stupid zombie are teleport in 5 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Shoot this asshole ! ***"
+	{
+		"chi"		"** **"
+	}
+	"### WELCOME TO CRAZY ESCAPE ###"
+	{
+		"chi"		"** **"
+	}
 }

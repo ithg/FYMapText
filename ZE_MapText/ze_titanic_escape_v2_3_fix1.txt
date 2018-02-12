@@ -2,81 +2,89 @@
 {
 	"**The ship is sinking! You have 5 minutes to get to the surface!!!**"
 	{
-		"chi"		"** **"
+		"chi"		"**泰坦尼克号正在下沉 你有5分钟的时间想办法离开这里**"
 	}
 	"**Map created by DoomsKnight and Mousey. **"
 	{
-		"chi"		"** **"
+		"chi"		"**地图作者：DoomsKnight 和 Mousey 翻译：牛肉粉**"
 	}
 	"**Elevator 1 is leaving in 5 seconds**"
 	{
-		"chi"		"** **"
+		"chi"		"**1号电梯5S后离开**"
 	}
 	"**Elevator 2 is leaving in 5 seconds**"
 	{
-		"chi"		"** **"
+		"chi"		"**2号电梯5S后离开**"
 	}
 	"**Main elevator is leaving in 15 seconds!!**"
 	{
-		"chi"		"** **"
+		"chi"		"**主电梯还有15S离开**"
 	}
 	"**Main elevator is leaving in 5 seconds!!**"
 	{
-		"chi"		"** **"
+		"chi"		"**主电梯还有5S离开**"
 	}
 	"**Final Door will open in 60 seconds**"
 	{
-		"chi"		"** **"
+		"chi"		"**最终大门还有60S离开**"
 	}
 	"**Final Door will open in 30 seconds**"
 	{
-		"chi"		"** **"
+		"chi"		"**最终大门还有30S打开**"
 	}
 	"**Main elevator's second doors now unlocked**"
 	{
-		"chi"		"** **"
+		"chi"		"**现在主电梯的大门已经打开了**"
 	}
 	"**Final Door will open unlock in 5 seconds**"
 	{
-		"chi"		"** **"
+		"chi"		"**最终大门打开还有5S**"
 	}
 	"**The boats will leave in 2 minutes!**"
 	{
-		"chi"		"** **"
+		"chi"		"**救生艇将于2分钟后离开**"
 	}
 	"**Lasers will be de-activated in 20 seconds**"
 	{
-		"chi"		"** **"
+		"chi"		"**激光将在20S后被解除**"
 	}
 	"**Lasers will be de-activated in 5 seconds**"
 	{
-		"chi"		"** **"
+		"chi"		"**激光还有5S后解除**"
 	}
 	"**The boats will leave in 1 minute!**"
 	{
-		"chi"		"** **"
+		"chi"		"**救生艇还有1分钟就离开了**"
 	}
 	"**The boats will leave in 30 seconds!**"
 	{
-		"chi"		"** **"
+		"chi"		"**救生艇还有30S离开**"
 	}
 	"**The boats will leave in 10 seconds!**"
 	{
-		"chi"		"** **"
+		"chi"		"**救生艇还有10S后离开**"
 	}
 	"**The boats have left!!!**"
 	{
-		"chi"		"** **"
+		"chi"		"**救生艇离开了**"
 	}
 	"**Zombies have reached the glass doors!!!**"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸已经到达玻璃门位置 已被暂时隔离 大家快溜**"
 	}
 	"**Slay Zombies....**"
 	{
-		"chi"		"** **"
+		"chi"		"**干掉剩余的僵尸**"
 	}
 	">>LEVEL: EASY<<"
+	{
+		"chi"		">>>难度：简单<<<"
+	}
+	"***Map by Reflelia***"
+	{
+		"chi"		"** **"
+	}
+	">> Map by Taskuvaras <<"
 	{
 		"chi"		"** **"
 	}

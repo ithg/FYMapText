@@ -168,4 +168,12 @@
 	{
 		"chi"		"** **"
 	}
+	"**ZOMBIE DARKAGA WAS PICKED UP**(PULL LEVEL 2)**"
+	{
+		"chi"		"** **"
+	}
+	"**A PLAYER HAS ACQUIRED BLIZZAGA**(FREEZE LEVEL 2)**"
+	{
+		"chi"		"** **"
+	}
 }

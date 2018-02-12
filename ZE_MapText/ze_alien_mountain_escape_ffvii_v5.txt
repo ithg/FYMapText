@@ -36,4 +36,8 @@
 	{
 		"chi"		"** **"
 	}
+	"*** Ship starting in 35 sec ***"
+	{
+		"chi"		"** **"
+	}
 }

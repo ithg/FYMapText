@@ -1,0 +1,35 @@
+"Console_T"
+{
+	"***Door 1B opens in 10s***"
+	{
+		"chi"		"** **"
+	}
+	"*** Defend for 30s. ***"
+	{
+		"chi"		"** **"
+	}
+	"***You must reach the skiff to escape the planet!! stay near the flares to help avoid being picked off***"
+	{
+		"chi"		"** **"
+	}
+	"***Outpost Door opens in 20s***"
+	{
+		"chi"		"** **"
+	}
+	"*** Hold here for 30s ***"
+	{
+		"chi"		"** **"
+	}
+	"***Top Door opens in 10s***"
+	{
+		"chi"		"** **"
+	}
+	"***Door 1A opens in 10s***"
+	{
+		"chi"		"** **"
+	}
+	"***Door 2B opens in 5s***"
+	{
+		"chi"		"** **"
+	}
+}

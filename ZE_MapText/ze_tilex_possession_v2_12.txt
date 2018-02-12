@@ -28,4 +28,104 @@
 	{
 		"chi"		"** **"
 	}
+	"Elivator leaving in: 3"
+	{
+		"chi"		"** **"
+	}
+	"Remaining 5 seconds !"
+	{
+		"chi"		"** **"
+	}
+	"Door opening in 5 seconds!"
+	{
+		"chi"		"** **"
+	}
+	"Tram leaving in 10 seconds!"
+	{
+		"chi"		"** **"
+	}
+	"Security doors closing in 10."
+	{
+		"chi"		"** **"
+	}
+	"Train leaving in 30 seconds."
+	{
+		"chi"		"** **"
+	}
+	"Train leaving in 20 seconds."
+	{
+		"chi"		"** **"
+	}
+	"Train leaving in 10 seconds."
+	{
+		"chi"		"** **"
+	}
+	"Train is leaving."
+	{
+		"chi"		"** **"
+	}
+	"Incoming nuke!!!"
+	{
+		"chi"		"** **"
+	}
+	"*** Difficulty : Normal ***"
+	{
+		"chi"		"** **"
+	}
+	"Mini train leaving in 5 seconds."
+	{
+		"chi"		"** **"
+	}
+	"Tracks crashed ahead"
+	{
+		"chi"		"** **"
+	}
+	"*** Difficulty : Hard ***"
+	{
+		"chi"		"** **"
+	}
+	"** LEVEL: NOT TOO ROUGH **"
+	{
+		"chi"		"** **"
+	}
+	"Door opening in 15 seconds!"
+	{
+		"chi"		"** **"
+	}
+	"Hold 20 seconds !"
+	{
+		"chi"		"** **"
+	}
+	"Helicopter leaves 20 seconds!"
+	{
+		"chi"		"** **"
+	}
+	"remaining 5 seconds!"
+	{
+		"chi"		"** **"
+	}
+	"*** Difficulty : Extreme ***"
+	{
+		"chi"		"** **"
+	}
+	"Remaining 15 seconds !"
+	{
+		"chi"		"** **"
+	}
+	"Door opening in 80 seconds!"
+	{
+		"chi"		"** **"
+	}
+	"Remaining 40 seconds!"
+	{
+		"chi"		"** **"
+	}
+	"Remaining 10 seconds!"
+	{
+		"chi"		"** **"
+	}
+	"*** Difficulty : Insane ***"
+	{
+		"chi"		"** **"
+	}
 }

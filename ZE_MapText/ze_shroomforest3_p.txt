@@ -188,4 +188,124 @@
 	{
 		"chi"		"** **"
 	}
+	">> PLAYER HAS PICKED UP ICE <<"
+	{
+		"chi"		"** **"
+	}
+	">> PLAYER HAS PICKED UP WATER <<"
+	{
+		"chi"		"** **"
+	}
+	"*** PLAYER FOUND A KEY ***"
+	{
+		"chi"		"** **"
+	}
+	"*** THE WAY IS OPEN! RUUUN! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LIFT LEAVING IN 15 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LIFT LEAVING IN 5 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	">> LEVEL: POKEBALL <<"
+	{
+		"chi"		"** **"
+	}
+	"*** ELEVATOR LEAVING IN 20 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ELEVATOR LEAVING IN 5 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	">> PLAYER HAS PICKED UP SQUIRTLE POKEBALL <<"
+	{
+		"chi"		"** **"
+	}
+	"*** Tunnel opening in 20 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	">> PLAYER HAS PICKED UP CHARMANDER POKEBALL <<"
+	{
+		"chi"		"** **"
+	}
+	"*** Tunnel opening in 5 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Guard House opening in 30 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Guard House opening in 5 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Gym opening in 20 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Gym opening in 5 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** RUN INTO THE GYM !!!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** YOU WOKE UP SNORLAX ***"
+	{
+		"chi"		"** **"
+	}
+	"*** IT ATTACKED IN A GRUMPY RAGE !!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** SNORLAX IS MAKING US SLEEPY ***"
+	{
+		"chi"		"** **"
+	}
+	"*** DEFEAT HIM BEFORE IT'S TOO LATE ***"
+	{
+		"chi"		"** **"
+	}
+	"*** SNORLAX IS GOING TO USE HYPERBEAM ***"
+	{
+		"chi"		"** **"
+	}
+	"*** SHOOT BEFORE IT'S TOO LATE ***"
+	{
+		"chi"		"** **"
+	}
+	"*** SNORLAX USED HYPERBEAM ***"
+	{
+		"chi"		"** **"
+	}
+	"*** IT'S SUPER EFFECTIVE !!! ***"
+	{
+		"chi"		"** **"
+	}
+	">> PLAYER HAS PICKED UP BULBASAUR POKEBALL <<"
+	{
+		"chi"		"** **"
+	}
+	">> PLAYER HAS PICKED UP DITTO POKEBALL <<"
+	{
+		"chi"		"** **"
+	}
+	">> PLAYER HAS PICKED UP PIKACHU POKEBALL <<"
+	{
+		"chi"		"** **"
+	}
+	">> ZOMBIE GHASTLY POKEBALL HAS BEEN PICKED UP<<"
+	{
+		"chi"		"** **"
+	}
 }

@@ -22,83 +22,83 @@
 	}
 	"*** HINT: Activate Nymian Device ***"
 	{
-		"chi"		"** **"
+		"chi"		"**尼尔开关已被启动**"
 	}
 	"*** 15 seconds to activate Nymian device ***"
 	{
-		"chi"		"** **"
+		"chi"		"**还有15S大门就被打开了**"
 	}
 	"*** 5 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"**还有5S**"
 	}
 	"*** 30 seconds to Activate Nymian device ***"
 	{
-		"chi"		"** **"
+		"chi"		"**30S后尼尔装置启动 大门打开**"
 	}
 	"*** 15 seconds to Enkidu Battle and AFK Teleport ***"
 	{
-		"chi"		"** **"
+		"chi"		"**15S后 所有挂机以及在后面的玩家将被传送**"
 	}
 	"*** Enkidu appeared ***"
 	{
-		"chi"		"** **"
+		"chi"		"**恩都奇出现了 就是那只鸡**"
 	}
 	"*** Shoot to Enkidu ***"
 	{
-		"chi"		"** **"
+		"chi"		"**射杀掉那只恩都奇(鸡)**"
 	}
 	"*** Enkidu dead ***"
 	{
-		"chi"		"** **"
+		"chi"		"**恩都奇倒下了**"
 	}
 	"*** 25 seconds to Activate Nymian device ***"
 	{
-		"chi"		"** **"
+		"chi"		"**还有25S大门就打开了**"
 	}
 	"*** 10 seconds  ***"
 	{
-		"chi"		"** **"
+		"chi"		"**最后10S**"
 	}
 	"*** Look for all of Nymian device ***"
 	{
-		"chi"		"** **"
+		"chi"		"**各位分散起来 启动周围所有的尼尔开关**"
 	}
 	"*** Nymian device 1 activated ***"
 	{
-		"chi"		"** **"
+		"chi"		"**1号尼尔开关已被启动**"
 	}
 	"*** Nymian device 2 activated ***"
 	{
-		"chi"		"** **"
+		"chi"		"**2号尼尔开关已被启动**"
 	}
 	"*** Nymian device 3 activated ***"
 	{
-		"chi"		"** **"
+		"chi"		"**3号尼尔开关已被启动**"
 	}
 	"*** Nymian device 4 activated ***"
 	{
-		"chi"		"** **"
+		"chi"		"**4号尼尔开关已被启动**"
 	}
 	"*** ALL Nymian device Activated ***"
 	{
-		"chi"		"** **"
+		"chi"		"**所有尼尔开关已被启动**"
 	}
 	"*** 5 seconds to Activate Nymian device ***"
 	{
-		"chi"		"** **"
+		"chi"		"**大门将在5S后打开**"
 	}
 	"*** Normal Clear!! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**普通难度获胜**"
 	}
 	"*** Next Level Hard ***"
 	{
-		"chi"		"** **"
+		"chi"		"**进入困难难度**"
 	}
 	"*** Level:Hard ***"
 	{
-		"chi"		"** **"
+		"chi"		"**关卡:困难**"
 	}
 	"*** 15 seconds to leave Tonberrys ***"
 	{
@@ -106,151 +106,151 @@
 	}
 	"***A player picked up Summoner Shadow Flare***"
 	{
-		"chi"		"** **"
+		"chi"		"**有玩家捡起了暗影闪电法杖**"
 	}
 	"***Recast 60s***"
 	{
-		"chi"		"** **"
+		"chi"		"**冷却为60S**"
 	}
 	"***A player picked up Black Mage Flare***"
 	{
-		"chi"		"** **"
+		"chi"		"**有玩家捡起了黑耀烈焰法杖**"
 	}
 	"***Recast 55s***"
 	{
-		"chi"		"** **"
+		"chi"		"**冷却为55S**"
 	}
 	"*** 20 seconds to activate Nymian device ***"
 	{
-		"chi"		"** **"
+		"chi"		"**还有20S后面的大门就打开了**"
 	}
 	"*** 30 seconds to Open Road ***"
 	{
-		"chi"		"** **"
+		"chi"		"**道路开放还有30S**"
 	}
 	"***A player picked up Mount Night Mare***"
 	{
-		"chi"		"** **"
+		"chi"		"**有玩家捡起了骑士墙盾法杖**"
 	}
 	"***Recast 50s***"
 	{
-		"chi"		"** **"
+		"chi"		"**冷却为50S**"
 	}
 	"*** 30 seconds to Activate Nymian device  ***"
 	{
-		"chi"		"** **"
+		"chi"		"**大门还有30S后打开**"
 	}
 	"*** 10 seconds   ***"
 	{
-		"chi"		"** **"
+		"chi"		"**最后10s**"
 	}
 	"*** Location: The Navel ***"
 	{
-		"chi"		"** **"
+		"chi"		"**位置:深渊肚脐**"
 	}
 	"*** Behemoth King Appeared ***"
 	{
-		"chi"		"** **"
+		"chi"		"**万兽之王出现了**"
 	}
 	"*** Shoot Him ***"
 	{
-		"chi"		"** **"
+		"chi"		"**攻击他**"
 	}
 	"*** Heavens Fall ***"
 	{
-		"chi"		"** **"
+		"chi"		"**天坠深渊**"
 	}
 	"*** Land Slide ***"
 	{
-		"chi"		"** **"
+		"chi"		"**泥流风暴**"
 	}
 	"*** Behemoth King dead ***"
 	{
-		"chi"		"** **"
+		"chi"		"**万兽之王倒下了**"
 	}
 	"***45 seconds to HARD CLEAR***"
 	{
-		"chi"		"** **"
+		"chi"		"**在坚守45S后 你们就胜利了**"
 	}
 	"***5 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**最后5S**"
 	}
 	"***HARD CLEAR***"
 	{
-		"chi"		"** **"
+		"chi"		"**困难难度击破**"
 	}
 	"***Texture Support by fujione***"
 	{
-		"chi"		"** **"
+		"chi"		"**纹理帮助:fujione**"
 	}
 	"***Map made by Altima***"
 	{
-		"chi"		"** **"
+		"chi"		"**地图作者:Altima**"
 	}
 	"***Next Level Extreme***"
 	{
-		"chi"		"** **"
+		"chi"		"**接下来是极限难度**"
 	}
 	"*** Level:Extreme ***"
 	{
-		"chi"		"** **"
+		"chi"		"**关卡：极限**"
 	}
 	"***A player picked up Paladin Shield Oath"
 	{
-		"chi"		"** **"
+		"chi"		"**有玩家捡到了神骑守护法杖**"
 	}
 	"***Recast 80s***"
 	{
-		"chi"		"** **"
+		"chi"		"**冷却为80S**"
 	}
 	"*** 35 seconds to activate Nymian device ***"
 	{
-		"chi"		"** **"
+		"chi"		"**大门将于35S后打开**"
 	}
 	"*** 10 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"**最后10S**"
 	}
 	"*** Chase the ADS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**是ADS 跟上他**"
 	}
 	"*** 30 seconds to Open Door ***"
 	{
-		"chi"		"** **"
+		"chi"		"**大门还有30S后打开**"
 	}
 	"***A player picked up Limit Break***"
 	{
-		"chi"		"** **"
+		"chi"		"**有玩家捡到了界限毁灭法杖**"
 	}
 	"*** once only ***"
 	{
-		"chi"		"** **"
+		"chi"		"**记住这个神器只能用一次**"
 	}
 	"***A player picked up White Mage Benediction***"
 	{
-		"chi"		"** **"
+		"chi"		"**有玩家捡到了万象祝福法杖**"
 	}
 	"*** 45 seconds to Break Rocks ***"
 	{
-		"chi"		"** **"
+		"chi"		"**墙壁破碎还有45S**"
 	}
 	"*** Recast 150s ***"
 	{
-		"chi"		"** **"
+		"chi"		"**冷却为150S**"
 	}
 	"***Bahamut Prime appeared***"
 	{
-		"chi"		"** **"
+		"chi"		"**巴哈姆特出现了**"
 	}
 	"***Bahamut Prime is Casting now***"
 	{
-		"chi"		"** **"
+		"chi"		"**巴哈姆特复活了**"
 	}
 	"***Akh Morn***"
 	{
-		"chi"		"** **"
+		"chi"		"**他释放了终极毁灭 准备用万象祝福接下他的攻击**"
 	}
 	"*** 3 ***"
 	{
@@ -266,79 +266,79 @@
 	}
 	"***Flare***"
 	{
-		"chi"		"** **"
+		"chi"		"**漆黑烈焰**"
 	}
 	"***Heavens Fall***"
 	{
-		"chi"		"** **"
+		"chi"		"**天坠深渊**"
 	}
 	"***Earth Shaker***"
 	{
-		"chi"		"** **"
+		"chi"		"**卷土重来**"
 	}
 	"***ADS Attack***"
 	{
-		"chi"		"** **"
+		"chi"		"**ADS进攻**"
 	}
 	"***shoot ADS and Zombies***"
 	{
-		"chi"		"** **"
+		"chi"		"**攻击ADS 注意一下僵尸**"
 	}
 	"***Tempest Wing***"
 	{
-		"chi"		"** **"
+		"chi"		"**吸附羽翼**"
 	}
 	"***Bahamut Prime dead***"
 	{
-		"chi"		"** **"
+		"chi"		"**巴哈姆特倒下了**"
 	}
 	"*** 15 seconds to activate Elevator ***"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯还有15S后离开**"
 	}
 	"*** 30 seconds to Open Wall ***"
 	{
-		"chi"		"** **"
+		"chi"		"**大门还有30S后打开**"
 	}
 	"*** Dont Touch Water ***"
 	{
-		"chi"		"** **"
+		"chi"		"**不要下水**"
 	}
 	"*** Water is Death Zone ***"
 	{
-		"chi"		"** **"
+		"chi"		"**水被污染了 下去会致命的**"
 	}
 	"*** Nael Van Dahrnus Appeared ***"
 	{
-		"chi"		"** **"
+		"chi"		"**宫殿守卫出现了**"
 	}
 	"*** Kill HER ***"
 	{
-		"chi"		"** **"
+		"chi"		"**杀了他**"
 	}
 	"*** Dead ***"
 	{
-		"chi"		"** **"
+		"chi"		"**守卫倒下了**"
 	}
 	"***A player picked up Bird Armys Paeon***"
 	{
-		"chi"		"** **"
+		"chi"		"**有玩家捡到了军神之歌法杖**"
 	}
 	"***Recast 90s***"
 	{
-		"chi"		"** **"
+		"chi"		"**冷却为90S**"
 	}
 	"*** Extreme CLEAR ***"
 	{
-		"chi"		"** **"
+		"chi"		"**极限模式击破**"
 	}
 	"*** Next Level Savage ***"
 	{
-		"chi"		"** **"
+		"chi"		"**下一关：凶残野蛮**"
 	}
 	"*** Level:Savage ***"
 	{
-		"chi"		"** **"
+		"chi"		"**关卡：凶残野蛮**"
 	}
 	"***Holm gang zombie incoming...***"
 	{

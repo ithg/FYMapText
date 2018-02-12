@@ -88,4 +88,228 @@
 	{
 		"chi"		"** **"
 	}
+	"***GOOD BOYS WILL SURVIVE***"
+	{
+		"chi"		"** **"
+	}
+	"***WELCOME TO PIZZA PALACE***"
+	{
+		"chi"		"** **"
+	}
+	"***DOORS WILL OPEN ONCE THE PIZZA ROLLER ARRIVES***"
+	{
+		"chi"		"** **"
+	}
+	"***OPENING UPPER DOOR***"
+	{
+		"chi"		"** **"
+	}
+	"***OPENING BACK DOOR (sexy mama)***"
+	{
+		"chi"		"** **"
+	}
+	"***PALACE ELEVATOR IS LEAVING IN A FEW SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***PALACE ELEVATOR IS LEAVING***"
+	{
+		"chi"		"** **"
+	}
+	"***PIZZA ROLLER NEEDS TO TAKE A REST FOR 20 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***PIZZA ROLLER IS ROLLING ONCE AGAIN***"
+	{
+		"chi"		"** **"
+	}
+	"***SAY ADIOS TO PISS PALACE SOON***"
+	{
+		"chi"		"** **"
+	}
+	"***ADIOS EL GRANDE PIZZA PALACE***"
+	{
+		"chi"		"** **"
+	}
+	"***OH NO IT'S AN EVIL PIZZA BABY***"
+	{
+		"chi"		"** **"
+	}
+	"***DODGE THE PIZZA SPINNERS***"
+	{
+		"chi"		"** **"
+	}
+	"***IF YOU DIE NOW YOU WILL BE DEAD***"
+	{
+		"chi"		"** **"
+	}
+	"***YOU ARE HERO GOOD JOB***"
+	{
+		"chi"		"** **"
+	}
+	"***BABY IS DEAD PEACE IS HERE***"
+	{
+		"chi"		"** **"
+	}
+	"***DEFEND FOR SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***GATE TO VOLCANIC PIZZA ISLAND IS OPENING***"
+	{
+		"chi"		"** **"
+	}
+	"***WE ARE ALMOST THERE, I CAN SMELL THE BURNT PIZZA CRUST***"
+	{
+		"chi"		"** **"
+	}
+	"***ARE YOU 18 YEARS OLD?  MMHHHHMM YUMMY***"
+	{
+		"chi"		"** **"
+	}
+	"***FRENCH MAN ELEVATOR UPPENING UP SOON OR SOMETHING***"
+	{
+		"chi"		"** **"
+	}
+	"***PIZZA SPACE LIFTOFF IN 30 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***PIZZA SPACE LIFTOFF IN 20 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***PIZZA SPACE LIFTOFF IN 10 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***PIZZA SPACE LIFTOFF IN 5 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***PIZZA SPACE LIFTOFF BABY***"
+	{
+		"chi"		"** **"
+	}
+	"***WELCOME TO THE PALACE ELEVATOR***"
+	{
+		"chi"		"** **"
+	}
+	"***I AM FRANCE AND WILL AWAIT YOUR COMMAND***"
+	{
+		"chi"		"** **"
+	}
+	"***WE SHALL LEAVE MOMENTARILY***"
+	{
+		"chi"		"** **"
+	}
+	"***ABORT MISSION***"
+	{
+		"chi"		"** **"
+	}
+	"***EXPLOSION IMMINENT***"
+	{
+		"chi"		"** **"
+	}
+	"father"
+	{
+		"chi"		"** **"
+	}
+	"dick me"
+	{
+		"chi"		"** **"
+	}
+	"***IT IS OGRE NOW BITCHES***"
+	{
+		"chi"		"** **"
+	}
+	"***ITEM USED - ROCK PIZZA***"
+	{
+		"chi"		"** **"
+	}
+	"***PICKED UP - DEATH PIZZA STAFF***"
+	{
+		"chi"		"** **"
+	}
+	"***ITEM FAILED - DEATH PIZZA***"
+	{
+		"chi"		"** **"
+	}
+	"***THE FATES OF THE FACE PATHS SHALL OPEN THEMSELVES***"
+	{
+		"chi"		"** **"
+	}
+	"***THE FATE OF THE FOUR CHILDREN IS DEATH***"
+	{
+		"chi"		"** **"
+	}
+	"***YOUR RIGHT HAND IS SLOWER***"
+	{
+		"chi"		"** **"
+	}
+	"***YOUR LEFT HAND IS LONGER***"
+	{
+		"chi"		"** **"
+	}
+	"***TAKE YOUR FATE IN YOUR FACE***"
+	{
+		"chi"		"** **"
+	}
+	"***MAKE SURE THAT YOUR DECISION PAYS OFF***"
+	{
+		"chi"		"** **"
+	}
+	"***GOOD LUCK, I LOVE YOU***"
+	{
+		"chi"		"** **"
+	}
+	"***THE FIRST FATE HAS BEEN FACED***"
+	{
+		"chi"		"** **"
+	}
+	"***THE SECOND FATE HAS BEEN SHOWN TO THE WORLD***"
+	{
+		"chi"		"** **"
+	}
+	"***YOUR THIRD REICH FATE IS OFFENSIVE***"
+	{
+		"chi"		"** **"
+	}
+	"***THE FATED FIFTH CHILD WILL ENJOY HERSELF***"
+	{
+		"chi"		"** **"
+	}
+	"***ALL CHILDREN HAVE BEEN RELEASED***"
+	{
+		"chi"		"** **"
+	}
+	"***YOU CAN BECOME AN ADULT BY DOING NOTHING***"
+	{
+		"chi"		"** **"
+	}
+	"***CLIMB YOUR WAY TO CHAOS, FIND YOUR TRUE SELF***"
+	{
+		"chi"		"** **"
+	}
+	"***FRENCH SNAKEMAN WILL SURRENDER IN A WHILE***"
+	{
+		"chi"		"** **"
+	}
+	"***OH BABY THE DYNAMITE IS GOING TO BLOW***"
+	{
+		"chi"		"** **"
+	}
+	"***WATCH OUT FOR TOWERS IN YOUR VICINITY***"
+	{
+		"chi"		"** **"
+	}
+	"***ITEM USED - DEATH PIZZA***"
+	{
+		"chi"		"** **"
+	}
+	"***DIFFICULTY --- NORMAL***"
+	{
+		"chi"		"** **"
+	}
 }

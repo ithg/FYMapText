@@ -76,4 +76,12 @@
 	{
 		"chi"		"** **"
 	}
+	"++ SECRET BOAT LEAVING IN 5 SECONDS ++"
+	{
+		"chi"		"** **"
+	}
+	"++ SECRET BOAT IS LEAVING!! ++"
+	{
+		"chi"		"** **"
+	}
 }

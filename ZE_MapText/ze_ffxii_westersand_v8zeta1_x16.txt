@@ -1,0 +1,187 @@
+"Console_T"
+{
+	"** MAP BY SLAYERDRAGON & NOCTALI **"
+	{
+		"chi"		"** **"
+	}
+	"** Be aware of fake donations - groups and profiles ! **"
+	{
+		"chi"		"** **"
+	}
+	"** [HARD MODE] **"
+	{
+		"chi"		"** **"
+	}
+	"** Defend until the guards open the airport. **"
+	{
+		"chi"		"** **"
+	}
+	"** Airport opened. **"
+	{
+		"chi"		"** **"
+	}
+	"** A player has learned Electro magick. **"
+	{
+		"chi"		"** **"
+	}
+	"** A player has learned Wind magick. **"
+	{
+		"chi"		"** **"
+	}
+	"** Defend 30 seconds until the guards open the hallway. **"
+	{
+		"chi"		"** **"
+	}
+	"** A player has learned Fire magick. **"
+	{
+		"chi"		"** **"
+	}
+	"** 5 Seconds left **"
+	{
+		"chi"		"** **"
+	}
+	"** Defend here so the guards will open the gates to the city ! **"
+	{
+		"chi"		"** **"
+	}
+	"** A player has learned Earth magick. **"
+	{
+		"chi"		"** **"
+	}
+	"** Cover here till the boxes explode **"
+	{
+		"chi"		"** **"
+	}
+	"** A player has learned Water magick. **"
+	{
+		"chi"		"** **"
+	}
+	"** The first door will open in 10 seconds **"
+	{
+		"chi"		"** **"
+	}
+	"** The second door will open in 15 seconds **"
+	{
+		"chi"		"** **"
+	}
+	"** Keep defending!! **"
+	{
+		"chi"		"** **"
+	}
+	"** METEOR INBOUND **"
+	{
+		"chi"		"** **"
+	}
+	"** USE ELECTRO TO BREAK IT **"
+	{
+		"chi"		"** **"
+	}
+	"** A player has learned Heal magick. **"
+	{
+		"chi"		"** **"
+	}
+	"** The dragon has been defeated **"
+	{
+		"chi"		"** **"
+	}
+	"** Bomb planted - hold 30 seconds **"
+	{
+		"chi"		"** **"
+	}
+	"** 10 more seconds until explosion **"
+	{
+		"chi"		"** **"
+	}
+	"** Go to the end of the road ! **"
+	{
+		"chi"		"** **"
+	}
+	"** 60 SECS REMAINING **"
+	{
+		"chi"		"** **"
+	}
+	"** 50 SECS REMAINING **"
+	{
+		"chi"		"** **"
+	}
+	"** FIRE NOVA INBOUND **"
+	{
+		"chi"		"** **"
+	}
+	"** USE WATER TO DODGE IT  **"
+	{
+		"chi"		"** **"
+	}
+	"**Stage 1**"
+	{
+		"chi"		"** **"
+	}
+	"** 40 SECS REMAINING **"
+	{
+		"chi"		"** **"
+	}
+	"** 30 SECS REMAINING **"
+	{
+		"chi"		"** **"
+	}
+	"** 20 SECS REMAINING **"
+	{
+		"chi"		"** **"
+	}
+	"** 10 SECS REMAINING **"
+	{
+		"chi"		"** **"
+	}
+	"** 5 SECS REMAINING **"
+	{
+		"chi"		"** **"
+	}
+	"** Congratulations - You won [HARD] **"
+	{
+		"chi"		"** **"
+	}
+	"** [EXTREME MODE] **"
+	{
+		"chi"		"** **"
+	}
+	"** Hold 20 seconds until the door opens **"
+	{
+		"chi"		"** **"
+	}
+	"** 5 seconds remaining **"
+	{
+		"chi"		"** **"
+	}
+	"** You may enter the tomb in 15 seconds **"
+	{
+		"chi"		"** **"
+	}
+	"** The doors will open in 25 seconds **"
+	{
+		"chi"		"** **"
+	}
+	"** The doors will open in 5 seconds **"
+	{
+		"chi"		"** **"
+	}
+	"** The next door opens in 15 seconds **"
+	{
+		"chi"		"** **"
+	}
+	"** A random way will open in 10 seconds **"
+	{
+		"chi"		"** **"
+	}
+	"** Boss Fight in 10s **"
+	{
+		"chi"		"** **"
+	}
+	"** Boss Fight in 5s **"
+	{
+		"chi"		"** **"
+	}
+	"** Belias is immune for fire and nades **"
+	{
+		"chi"		"** **"
+	}
+}

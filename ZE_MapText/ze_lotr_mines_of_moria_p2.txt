@@ -84,4 +84,36 @@
 	{
 		"chi"		"** **"
 	}
+	"**Balin's door closing in 10 s**"
+	{
+		"chi"		"** **"
+	}
+	"**(Zombies) The door to Khazad-Dum bridge is now open**"
+	{
+		"chi"		"** **"
+	}
+	"**Balrog coming to SUPERIOR STAIRS ZONE in 15s**"
+	{
+		"chi"		"** **"
+	}
+	"**Gandalf in the middle**"
+	{
+		"chi"		"** **"
+	}
+	"**Zombies have been alerted!**"
+	{
+		"chi"		"** **"
+	}
+	"**Protect Gandalf during 35s! He must break the bridge! **"
+	{
+		"chi"		"** **"
+	}
+	"**Gandalf is dead!**"
+	{
+		"chi"		"** **"
+	}
+	"**Congratulations! The ring has reached Khazad-Dum! The wooden bridge has been destroyed**"
+	{
+		"chi"		"** **"
+	}
 }

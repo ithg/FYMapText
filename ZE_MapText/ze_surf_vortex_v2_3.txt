@@ -20,7 +20,7 @@
 	{
 		"chi"		"** **"
 	}
-	"***10 seconds left***"
+	"***10 SECONDS LEFT***"
 	{
 		"chi"		"** **"
 	}
@@ -69,6 +69,22 @@
 		"chi"		"** **"
 	}
 	"***READY TO RUN***"
+	{
+		"chi"		"** **"
+	}
+	"***Low Health Used***"
+	{
+		"chi"		"** **"
+	}
+	"***Resist for 30 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***5 SECONDS LEFT***"
+	{
+		"chi"		"** **"
+	}
+	"***Ready for final surf***"
 	{
 		"chi"		"** **"
 	}

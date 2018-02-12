@@ -140,4 +140,12 @@
 	{
 		"chi"		"** **"
 	}
+	"** A player has adquired HEAL MATERIA **"
+	{
+		"chi"		"** **"
+	}
+	"** A player has adquired GRAVITY MATERIA **"
+	{
+		"chi"		"** **"
+	}
 }

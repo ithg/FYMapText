@@ -148,4 +148,8 @@
 	{
 		"chi"		"** **"
 	}
+	"**Horn activated ** Charge with unlimited ammo **"
+	{
+		"chi"		"** **"
+	}
 }

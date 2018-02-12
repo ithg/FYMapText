@@ -1,0 +1,111 @@
+"Console_T"
+{
+	"Map By: HooKaSmoKa"
+	{
+		"chi"		"** **"
+	}
+	": ***Survive for 40 seconds until teleport is active***"
+	{
+		"chi"		"** **"
+	}
+	":***Zombies teleporting in 10 seconds***"
+	{
+		"chi"		"** **"
+	}
+	": *** Door Opens in 40 Seconds ***"
+	{
+		"chi"		"** **"
+	}
+	": *** teleporting all players in 20 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	": *** Door closes in 15 seconds! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Hold for 30 Seconds ***"
+	{
+		"chi"		"** **"
+	}
+	": *** Get in ! ***"
+	{
+		"chi"		"** **"
+	}
+	": *** Find and press 2 buttons to proceed ***"
+	{
+		"chi"		"** **"
+	}
+	": -Both buttons pressed-"
+	{
+		"chi"		"** **"
+	}
+	": ***slide doors breaking in 20 seconds***"
+	{
+		"chi"		"** **"
+	}
+	": ***Slide down***"
+	{
+		"chi"		"** **"
+	}
+	": ***Glass slides open in 15 seconds***"
+	{
+		"chi"		"** **"
+	}
+	": ***Exit door breaking in 25 seconds***"
+	{
+		"chi"		"** **"
+	}
+	": ***Maze door breaking in 20 seconds!***"
+	{
+		"chi"		"** **"
+	}
+	": ***Don't get lost! stick together!***"
+	{
+		"chi"		"** **"
+	}
+	": Run! find a way out! zombies are right behind you!"
+	{
+		"chi"		"** **"
+	}
+	": ***Find and press the exit door button to get out***"
+	{
+		"chi"		"** **"
+	}
+	":***Exit door breaking in 20 seconds***"
+	{
+		"chi"		"** **"
+	}
+	": Get out of the maze! run !"
+	{
+		"chi"		"** **"
+	}
+	": Teleporting everyone soon! Climb!"
+	{
+		"chi"		"** **"
+	}
+	": Hold for 40 seconds!"
+	{
+		"chi"		"** **"
+	}
+	": PROTECT THE HOOKAH! DON'T LET ZOMBIES IN!"
+	{
+		"chi"		"** **"
+	}
+	": ***Sarin toxic gas will be released in 40 seconds***"
+	{
+		"chi"		"** **"
+	}
+	": ***Map finished! Thanks for playing***"
+	{
+		"chi"		"** **"
+	}
+	"For POSSESSION, Respect to Sakura"
+	{
+		"chi"		"** **"
+	}
+	"Based-map by Xquality"
+	{
+		"chi"		"** **"
+	}
+}

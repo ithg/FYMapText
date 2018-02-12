@@ -1,0 +1,167 @@
+"Console_T"
+{
+	"Map made by Cuniczek"
+	{
+		"chi"		"** **"
+	}
+	"Thanks to Enviolinador & Kaesar"
+	{
+		"chi"		"** **"
+	}
+	"*** CURRENT STAGE IS 1: Overworld ***"
+	{
+		"chi"		"** **"
+	}
+	"*** DEFEND 25 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 5 SECONDS REMAINING ***"
+	{
+		"chi"		"** **"
+	}
+	"*** FALL BACK ***"
+	{
+		"chi"		"** **"
+	}
+	"*** MINECARTS LEAVING IN 25 SEC ***"
+	{
+		"chi"		"** **"
+	}
+	"*** MINECARTS LEAVING IN 10 SEC ***"
+	{
+		"chi"		"** **"
+	}
+	"*** GET INTO MINECARTS ***"
+	{
+		"chi"		"** **"
+	}
+	"***HOLD CASTLE 35 SEC***"
+	{
+		"chi"		"** **"
+	}
+	"*** 5 SEC REMAINING ***"
+	{
+		"chi"		"** **"
+	}
+	"*** BOATS LEAVING IN 15 SEC ***"
+	{
+		"chi"		"** **"
+	}
+	"*** FALL BACK INTO BOATS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** TNT EXPLODING IN 20 SEC ***"
+	{
+		"chi"		"** **"
+	}
+	"*** TAKE PICKAXE AND BREAK OBSIDIAN TO BUILD PORTAL ***"
+	{
+		"chi"		"** **"
+	}
+	"*** FALL BACK! PORTAL IS ACTIVATING IN 5 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** BUNKER IS CLOSING IN 15 SEC ***"
+	{
+		"chi"		"** **"
+	}
+	"*** BUNKER IS CLOSING ***"
+	{
+		"chi"		"** **"
+	}
+	"*** HUMANS WON! MOVING ON TO STAGE 2 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** CURRENT STAGE IS 2: The Nether ***"
+	{
+		"chi"		"** **"
+	}
+	"*** WALLS BREAK IN 15 SEC ***"
+	{
+		"chi"		"** **"
+	}
+	"*** RESIST 15 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** RESIST 10 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"***RESIST 20 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***5 SECONDS REMAINING***"
+	{
+		"chi"		"** **"
+	}
+	"*** RESIST 20 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** RESIST 25 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** RESIST 30 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** HOLD NETHERFORTRESS 30 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** EVERYONE GET INSIDE! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** GHAST HAS BEEN DEFEATED ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ESCAPE FROM THE NETHER!!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ACTIVATE THE PORTAL USING FLINT AND STEEL ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 40 SECONDS REMAINING ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 30 SECONDS REMAINING ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 20 SECONDS REMAINING ***"
+	{
+		"chi"		"** **"
+	}
+	"*** FLINT HAS BEEN PICKED UP ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 10 SECONDS REMAINING ***"
+	{
+		"chi"		"** **"
+	}
+	"*** STEEL HAS BEEN PICKED UP ***"
+	{
+		"chi"		"** **"
+	}
+	"*** KILL ZOMBIES INSIDE!  ***"
+	{
+		"chi"		"** **"
+	}
+	"*** HUMANS WON! MOVING ON TO STAGE 3 ***"
+	{
+		"chi"		"** **"
+	}
+}
