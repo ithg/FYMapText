@@ -2,59 +2,59 @@
 {
 	"***PRESS ALL 3 LEVERS TO OPEN THE GATES UP AHEAD***"
 	{
-		"chi"		"** **"
+		"chi"		"**打开所有的三个开关来让我们继续前进**"
 	}
 	"***THE FIRST LEVER HAS BEEN PRESSED***"
 	{
-		"chi"		"** **"
+		"chi"		"**第一个开关被摁下**"
 	}
 	"***THE SECOND LEVER HAS BEEN PRESSED***"
 	{
-		"chi"		"** **"
+		"chi"		"**第二个开关被摁下**"
 	}
 	"***ONE MORE TO GO...***"
 	{
-		"chi"		"** **"
+		"chi"		"**还有一个**"
 	}
 	"***ALL LEVERS HAVE BEEN PRESSED***"
 	{
-		"chi"		"** **"
+		"chi"		"**所有开关被摁下**"
 	}
 	"***THE GATES ARE OPENING IN 30 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**30s后门开**"
 	}
 	"***THE GATES ARE OPENING***"
 	{
-		"chi"		"** **"
+		"chi"		"**门开了**"
 	}
 	"***FALL BACK TOWARDS THE TOWER***"
 	{
-		"chi"		"** **"
+		"chi"		"**撤退..向塔中进发**"
 	}
 	"***ONE LEVER HAS BEEN PRESSED***"
 	{
-		"chi"		"** **"
+		"chi"		"**一个开关被摁下**"
 	}
 	"***NOW FIND THE FINAL LEVER***"
 	{
-		"chi"		"** **"
+		"chi"		"**现在找到最后的开关**"
 	}
 	"***BOTH LEVERS HAVE BEEN PRESSED***"
 	{
-		"chi"		"** **"
+		"chi"		"**所有的开关被摁下**"
 	}
 	"***THE GATE WILL OPEN IN 30 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**门会在30s后打开**"
 	}
 	"***THE GATE IS OPENING***"
 	{
-		"chi"		"** **"
+		"chi"		"**门开了**"
 	}
 	"***FALL BACK***"
 	{
-		"chi"		"** **"
+		"chi"		"**溜了溜了**"
 	}
 	"***THE ELEVATOR IS LEAVING IN 15 SECONDS***"
 	{
@@ -62,43 +62,43 @@
 	}
 	"***THE ELEVATOR IS LEAVING***"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯离开**"
 	}
 	"***THE GATE WILL OPEN IN 60 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**门在60s后打开**"
 	}
 	"***FIND A HIDING SPOT AND HOLD OUT UNTIL THEN***"
 	{
-		"chi"		"** **"
+		"chi"		"**找到一个地方活下去**"
 	}
 	"***10 SECONDS LEFT***"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩10s**"
 	}
 	"***THE GATE IS OPEN***"
 	{
-		"chi"		"** **"
+		"chi"		"**门已经打开**"
 	}
 	"***HOLD HERE UNTIL THE DOORS OPEN***"
 	{
-		"chi"		"** **"
+		"chi"		"**守住直到门开**"
 	}
 	"***THE GATE WILL OPEN IN 10 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**10s后门开**"
 	}
 	"***THE OUTER GATE WILL OPEN IN 10 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**外部大门10s后打开**"
 	}
 	"***THE OUTER GATE IS OPENING***"
 	{
-		"chi"		"** **"
+		"chi"		"**外部大门打开**"
 	}
 	"***HOLD FOR 20 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**在这里守住20s**"
 	}
 	"***ELEVATOR IS LEAVING IN 10 SECONDS***"
 	{
@@ -110,99 +110,99 @@
 	}
 	"***ELEVATOR IS LEAVING***"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯离开**"
 	}
 	"***THE GATES WILL OPEN IN 10 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**门会在10s后打开**"
 	}
 	"***THE TOWER GATE WILL OPEN IN 15 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**塔顶大门会在15s后打开**"
 	}
 	"***THE TOWER GATE IS OPEN***"
 	{
-		"chi"		"** **"
+		"chi"		"**塔顶大门打开**"
 	}
 	"***THE UPPER TOWER GATE WILL OPEN IN 20 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**最高的大门20s打开**"
 	}
 	"***THE UPPER TOWER GATE IS OPEN***"
 	{
-		"chi"		"** **"
+		"chi"		"**最高的大门打开**"
 	}
 	"***THE GATE WILL OPEN IN 15 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**门会在15s后打开**"
 	}
 	"***FIND A HIDING SPOT AND HOLD OUT FOR 60 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**找到一个地方守住60s**"
 	}
 	"***CLIMB THE TOWER***"
 	{
-		"chi"		"** **"
+		"chi"		"**往塔楼上爬...**"
 	}
 	"***HOLD FOR 15 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**坚持15s**"
 	}
 	"***FALL BACK TOWARDS THE TOP***"
 	{
-		"chi"		"** **"
+		"chi"		"**退到塔顶**"
 	}
 	"***IT'S COMING***"
 	{
-		"chi"		"** **"
+		"chi"		"**它来了...**"
 	}
 	"***PREPARE YOURSELF***"
 	{
-		"chi"		"** **"
+		"chi"		"**保护自己**"
 	}
 	"***THE ZOMBIE CAGE IS OPEN***"
 	{
-		"chi"		"** **"
+		"chi"		"**尸笼开放**"
 	}
 	"***MAKE SURE TO HOLD THEM OFF DURING THE BATTLE***"
 	{
-		"chi"		"** **"
+		"chi"		"**在战斗中阻止僵尸过来**"
 	}
 	"***YOU DID IT***"
 	{
-		"chi"		"** **"
+		"chi"		"**你做到了！**"
 	}
 	"*** YOU HAVE SLAYED ANCHELION***"
 	{
-		"chi"		"** **"
+		"chi"		"**你推倒了康纳酱！（大雾）**"
 	}
 	"*** THE CURSE IS BROKEN***"
 	{
-		"chi"		"** **"
+		"chi"		"**"喔，马基雅挖苦内"（诅咒被打破）**"
 	}
 	"***ESCAPE TOWARDS THE END***"
 	{
-		"chi"		"** **"
+		"chi"		"**最后离开这里**"
 	}
 	"***JUMP***"
 	{
-		"chi"		"** **"
+		"chi"		"**跳**"
 	}
 	"***YOU WON***"
 	{
-		"chi"		"** **"
+		"chi"		"**你已经赢了**"
 	}
 	"***MAP MADE BY LUFFAREN***"
 	{
-		"chi"		"** **"
+		"chi"		"**地图作者：LUFFAREN 地图翻译：蓬莱山辉夜**"
 	}
 	"***THANK YOU FOR PLAYING***"
 	{
-		"chi"		"** **"
+		"chi"		"**感谢您的游玩**"
 	}
 	"*** WARMUP ROUND (60 sec) ***"
 	{
-		"chi"		"** **"
+		"chi"		"**热身时间（60s）**"
 	}
 	"*** Map by Nostar ***"
 	{
