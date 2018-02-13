@@ -2,7 +2,7 @@
 {
 	"***WARMUP***"
 	{
-		"chi"		"**热身局**"
+		"chi"		"**热身局 **"
 	}
 	"*****ROUND END*****"
 	{
@@ -46,7 +46,7 @@
 	}
 	"***HAPPY DIDDLING***"
 	{
-		"chi"		"**享受这场欺骗之旅吧**"
+		"chi"		"**享受这场欺骗之旅吧 地图翻译：蓬莱山辉夜**"
 	}
 	"*You are stuck inside Turtle Reaction's Computer - Try to escape this place*"
 	{
