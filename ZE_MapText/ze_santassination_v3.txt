@@ -10,7 +10,11 @@
 	}
 	"***FALL BACK***"
 	{
+<<<<<<< HEAD
 		"chi"		"**撤退**"
+=======
+		"chi"		"**溜了溜了**"
+>>>>>>> a114277631e05449a4daf149089e0787dfb0efb7
 	}
 	"***PLAYER PICKED UP ITEM - SPEEDER***"
 	{
@@ -74,7 +78,11 @@
 	}
 	"***PROLOGUE COMPLETE***"
 	{
+<<<<<<< HEAD
 		"chi"		"***序章结束，我们的旅途才刚刚开始..***"
+=======
+		"chi"		"**序章结束，我们的旅途才刚刚开始..**"
+>>>>>>> a114277631e05449a4daf149089e0787dfb0efb7
 	}
 	"***SNOW WALL WILL BREAK IN 10 SECONDS***"
 	{
@@ -166,7 +174,11 @@
 	}
 	"***SUB-PRIMARY PROTOCOL DOOR WILL OPEN IN 40 SECONDS***"
 	{
+<<<<<<< HEAD
 		"chi"		"**工厂大门在40秒后打开**"
+=======
+		"chi"		"***工厂大门在40秒后打开**"
+>>>>>>> a114277631e05449a4daf149089e0787dfb0efb7
 	}
 	"***SELF-DESTRUCT SEQUENCE HAS BEEN INITIATED***"
 	{
@@ -266,7 +278,11 @@
 	}
 	"***RIGHT RIGHT SECOND FACE WALL OPENS IN 20 SECONDS***"
 	{
+<<<<<<< HEAD
 		"chi"		"**右边的“赤酱”20s后消失**"
+=======
+		"chi"		"**右边的“赤酱”30s后消失**"
+>>>>>>> a114277631e05449a4daf149089e0787dfb0efb7
 	}
 	"***RIGHT RIGHT SECOND FACE WALL HAS EXPLODED***"
 	{
@@ -278,7 +294,11 @@
 	}
 	"***SECONDARY PROTOCOL ELEVATOR IS LEAVING IN 5 SECONDS***"
 	{
+<<<<<<< HEAD
 		"chi"		"**右边的电梯5s后离开**"
+=======
+		"chi"		"**右边的电梯5秒后离开**"
+>>>>>>> a114277631e05449a4daf149089e0787dfb0efb7
 	}
 	"***SECONDARY PROTOCOL ELEVATOR IS LEAVING***"
 	{
@@ -294,7 +314,11 @@
 	}
 	"***SATISFY THE LIPS WITH SEWER CHOCOLATE IN ORDER TO ENTER***"
 	{
+<<<<<<< HEAD
 		"chi"		"**用排水管道的巧克力....**"
+=======
+		"chi"		"**使用排水管道的巧克力....**"
+>>>>>>> a114277631e05449a4daf149089e0787dfb0efb7
 	}
 	"***7 SMEARED HUMANS SHOULD BE ABLE TO SATISFY THOSE SORE LIPS***"
 	{
@@ -310,7 +334,11 @@
 	}
 	"***YOU MAY NOW ENTER***"
 	{
+<<<<<<< HEAD
 		"chi"		"**你可以前进了...**"
+=======
+		"chi"		"**你可以前进了....**"
+>>>>>>> a114277631e05449a4daf149089e0787dfb0efb7
 	}
 	"***HEAD TOWARDS SANTA'S FACTORY***"
 	{
@@ -326,7 +354,11 @@
 	}
 	"***SANTA FACTORY DOOR IS OPENING IN 5 SECONDS***"
 	{
+<<<<<<< HEAD
 		"chi"		"**工厂大门在5秒后打开**"
+=======
+		"chi"		"**工厂大门还有5秒打开**"
+>>>>>>> a114277631e05449a4daf149089e0787dfb0efb7
 	}
 	"***SANTA FACTORY DOOR IS OPENING***"
 	{
@@ -370,7 +402,11 @@
 	}
 	"***THE PIZZA IS AGGRESSIVE***"
 	{
+<<<<<<< HEAD
 		"chi"		"**你以为这是披萨？不！这是通往哲♂学的大道！**"
+=======
+		"chi"		"**你以为这是披萨？不！这是通往哲♂学的路！**"
+>>>>>>> a114277631e05449a4daf149089e0787dfb0efb7
 	}
 	"Where da nudes for Luffaren b at?"
 	{
@@ -482,6 +518,7 @@
 	}
 	"***FACTORY DOOR OPENS IN 4 SECONDS***"
 	{
+<<<<<<< HEAD
 		"chi"		"**4**"
 	}
 	"***FACTORY DOOR OPENS IN 3 SECONDS***"
@@ -495,6 +532,21 @@
 	"***FACTORY DOOR OPENS IN 1 SECOND***"
 	{
 		"chi"		"**1**"
+=======
+		"chi"		"**工厂大门在4秒后打开**"
+	}
+	"***FACTORY DOOR OPENS IN 3 SECONDS***"
+	{
+		"chi"		"**工厂大门在3秒后打开**"
+	}
+	"***FACTORY DOOR OPENS IN 2 SECONDS***"
+	{
+		"chi"		"**工厂大门在2秒后打开**"
+	}
+	"***FACTORY DOOR OPENS IN 1 SECOND***"
+	{
+		"chi"		"**工厂大门在1秒后打开**"
+>>>>>>> a114277631e05449a4daf149089e0787dfb0efb7
 	}
 	"***OPENING DOORS IN 10 SECONDS***"
 	{
@@ -506,7 +558,11 @@
 	}
 	"***OPENING DOORS***"
 	{
+<<<<<<< HEAD
 		"chi"		"**门开了**"
+=======
+		"chi"		"**大门开启 **"
+>>>>>>> a114277631e05449a4daf149089e0787dfb0efb7
 	}
 	"***THE BABYLON BABY BUTTON HAS BEEN TOUCHED***"
 	{
@@ -526,7 +582,11 @@
 	}
 	"***SEXY VENT GATE IS OPENING***"
 	{
+<<<<<<< HEAD
 		"chi"		"**通道开启**"
+=======
+		"chi"		"**可以撤退了！！！！**"
+>>>>>>> a114277631e05449a4daf149089e0787dfb0efb7
 	}
 	"***OPENING BASE SOCRATES ELEVATOR GATE***"
 	{
@@ -574,7 +634,11 @@
 	}
 	"***SEXY REINDEER IS OPENING IN 5 SECONDS***"
 	{
+<<<<<<< HEAD
 		"chi"		"**这只性感的驯鹿在5秒后升起**"
+=======
+		"chi"		"**这只性感的驯鹿5秒后升起**"
+>>>>>>> a114277631e05449a4daf149089e0787dfb0efb7
 	}
 	"***SEXY REINDEER IS SPREADING***"
 	{
@@ -582,11 +646,19 @@
 	}
 	"***BRIDGE EXIT GATE IS OPENING IN 15 SECONDS***"
 	{
+<<<<<<< HEAD
 		"chi"		"**通往最后的桥在15秒后打开***"
 	}
 	"***BRIDGE EXIT GATE IS OPENING IN 5 SECONDS***"
 	{
 		"chi"		"**还剩下5秒***"
+=======
+		"chi"		"**通往最后的桥在15秒后打开**"
+	}
+	"***BRIDGE EXIT GATE IS OPENING IN 5 SECONDS***"
+	{
+		"chi"		"**还剩下5秒**"
+>>>>>>> a114277631e05449a4daf149089e0787dfb0efb7
 	}
 	"***BRIDGE EXIT GATE IS OPENING***"
 	{
@@ -674,7 +746,11 @@
 	}
 	"***INNER UPPER GATE IS OPENING***"
 	{
+<<<<<<< HEAD
 		"chi"		"**上面的门打开了**"
+=======
+		"chi"		"**上面的门打开**"
+>>>>>>> a114277631e05449a4daf149089e0787dfb0efb7
 	}
 	"***OUTER WALL ENTRANCE IS OPENING IN 30 SECONDS***"
 	{
@@ -686,7 +762,11 @@
 	}
 	"***OUTER WALL ENTRANCE IS OPENING***"
 	{
+<<<<<<< HEAD
 		"chi"		"**外墙开启**"
+=======
+		"chi"		"**外墙打开了**"
+>>>>>>> a114277631e05449a4daf149089e0787dfb0efb7
 	}
 	"***UPPER GATE IS OPENING IN 30 SECONDS***"
 	{
@@ -698,7 +778,11 @@
 	}
 	"***UPPER GATE IS OPENING***"
 	{
+<<<<<<< HEAD
 		"chi"		"**下面的门打开了**"
+=======
+		"chi"		"**上面的门打开**"
+>>>>>>> a114277631e05449a4daf149089e0787dfb0efb7
 	}
 	"***OUTER GATE WILL OPEN IN 20 SECONDS***"
 	{
@@ -706,7 +790,11 @@
 	}
 	"***OUTER GATE WILL OPEN IN 5 SECONDS***"
 	{
+<<<<<<< HEAD
 		"chi"		"**外门5秒后开**"
+=======
+		"chi"		"**外门秒后开 **"
+>>>>>>> a114277631e05449a4daf149089e0787dfb0efb7
 	}
 	"***MOVE IT***"
 	{
@@ -746,7 +834,11 @@
 	}
 	"*** - SANTA - ***"
 	{
+<<<<<<< HEAD
 		"chi"		"**- 圣诞老人 -**"
+=======
+		"chi"		"** - 圣诞老人 - **"
+>>>>>>> a114277631e05449a4daf149089e0787dfb0efb7
 	}
 	"***YOU HAVE DEFEATED SANTA***"
 	{
@@ -774,7 +866,11 @@
 	}
 	"***THE FINAL ELEVATOR IS LEAVING IN 20 SECONDS***"
 	{
+<<<<<<< HEAD
 		"chi"		"**最后的电梯20秒后离开**"
+=======
+		"chi"		"**最后的电梯0秒后离开**"
+>>>>>>> a114277631e05449a4daf149089e0787dfb0efb7
 	}
 	"***THE FINAL ELEVATOR IS LEAVING IN 10 SECONDS***"
 	{
@@ -782,11 +878,19 @@
 	}
 	"***THE FINAL ELEVATOR IS LEAVING IN 5 SECONDS***"
 	{
+<<<<<<< HEAD
 		"chi"		"**最后的电梯5秒后离开**"
 	}
 	"***THE FINAL ELEVATOR IS LEAVING***"
 	{
 		"chi"		"**最后的电梯离开了**"
+=======
+		"chi"		"** 最后的电梯5秒后离开**"
+	}
+	"***THE FINAL ELEVATOR IS LEAVING***"
+	{
+		"chi"		"**最后的电梯已经离开**"
+>>>>>>> a114277631e05449a4daf149089e0787dfb0efb7
 	}
 	"***FINAL GATE IS CLOSING IN 15 SECONDS***"
 	{
@@ -798,11 +902,19 @@
 	}
 	"***FINAL GATE IS CLOSING***"
 	{
+<<<<<<< HEAD
 		"chi"		"**最后的大门已经关闭**"
 	}
 	"*** - BIG SANTA - ***"
 	{
 		"chi"		"**- 巨大的圣诞老人（看！是胖大志，朝他射击！） -**"
+=======
+		"chi"		"**最后的门已经关闭**"
+	}
+	"*** - BIG SANTA - ***"
+	{
+		"chi"		"** - 巨大的圣诞老人（看！是胖大志，朝他射击！） - **"
+>>>>>>> a114277631e05449a4daf149089e0787dfb0efb7
 	}
 	"***YOU HAVE DEFEATED SANTA CLAUS***"
 	{
@@ -826,7 +938,11 @@
 	}
 	"***MAP RESET - GOING BACK TO PROLOUGE***"
 	{
+<<<<<<< HEAD
 		"chi"		"**地图重置，返回到序章**"
+=======
+		"chi"		"**地图重置，返回到PROLOUGE**"
+>>>>>>> a114277631e05449a4daf149089e0787dfb0efb7
 	}
 	"***IT FEELS LIKE YOU MISSED SOMETHING***"
 	{
@@ -834,7 +950,11 @@
 	}
 	"***IS THIS THE REAL ENDING?***"
 	{
+<<<<<<< HEAD
 		"chi"		"**就这样结束了....吗？**"
+=======
+		"chi"		"**这真的就是结局吗？**"
+>>>>>>> a114277631e05449a4daf149089e0787dfb0efb7
 	}
 	"***STAGE SET - ACT III***"
 	{
@@ -846,11 +966,19 @@
 	}
 	"***MERRY XMAS***"
 	{
+<<<<<<< HEAD
 		"chi"		"**圣诞节快乐**"
 	}
 	"***...AND HAPPY SIMBA DAY***"
 	{
 		"chi"		"***...祝你在辛巴节里玩的愉快！**"
+=======
+		"chi"		"**快乐的圣诞节**"
+	}
+	"***...AND HAPPY SIMBA DAY***"
+	{
+		"chi"		"**...祝你在辛巴节里玩的愉快！**"
+>>>>>>> a114277631e05449a4daf149089e0787dfb0efb7
 	}
 	"***ZAZU IS PRAYING FOR THE TRUTH***"
 	{
@@ -870,7 +998,11 @@
 	}
 	"***ELEVATOR SHAFT GATE IS OPENING IN 30 SECONDS***"
 	{
+<<<<<<< HEAD
 		"chi"		"**卷帘门30秒后打开**"
+=======
+		"chi"		"**卷帘门30秒后打开*"
+>>>>>>> a114277631e05449a4daf149089e0787dfb0efb7
 	}
 	"***SIMBA IS PRAYING FOR THE TRUTH***"
 	{
@@ -882,7 +1014,11 @@
 	}
 	"***ELEVATOR SHAFT GATE IS OPENING***"
 	{
+<<<<<<< HEAD
 		"chi"		"**卷帘门开启**"
+=======
+		"chi"		"**卷帘门打开**"
+>>>>>>> a114277631e05449a4daf149089e0787dfb0efb7
 	}
 	"***PLAYER PICKED UP ITEM - ROCKET CANNON***"
 	{
@@ -922,7 +1058,11 @@
 	}
 	"***SOCRATES HAS TO CLEANSE YOU***"
 	{
+<<<<<<< HEAD
 		"chi"		"***苏格拉底已经把你净化**"
+=======
+		"chi"		"**苏格拉底已经把你净化**"
+>>>>>>> a114277631e05449a4daf149089e0787dfb0efb7
 	}
 	"***SOCRATES IMAGINES***"
 	{
@@ -963,6 +1103,7 @@
 	"***THE TRUE TRAM IS LEAVING***"
 	{
 		"chi"		"**走你！( ???)o彡?**"
+<<<<<<< HEAD
 		"走你！("		"???)o彡?**'**"
 		"
 	}
@@ -1485,21 +1626,230 @@
 		"
 		"chi"		"		"
 		"**"		"**"
+=======
+	}
+	"***THE TRUE ELEVATOR IS LEAVING IN 30 SECONDS***"
+	{
+		"chi"		"**真理电梯30秒后离开**"
+	}
+	"***THE TRUE ELEVATOR IS LEAVING IN 5 SECONDS***"
+	{
+		"chi"		"**真理电梯5秒后离开 **"
+	}
+	"***THE TRUE ELEVATOR IS LEAVING***"
+	{
+		"chi"		"**真理电梯已经离开**"
+	}
+	"***SPECIAL SOCRATES ZOMBIE TELEPORT IN 5***"
+	{
+		"chi"		"**特殊的苏格拉底僵尸在5秒后传送**"
+	}
+	"***4***"
+	{
+		"chi"		"**4**"
+	}
+	"***3***"
+	{
+		"chi"		"**3**"
+	}
+	"***2***"
+	{
+		"chi"		"**2**"
+	}
+	"***UNO***"
+	{
+		"chi"		"**UNO**"
+	}
+	"***THE MAPPER FELT THE NEED TO COMPENSATE FOR SOMETHING THAT HE LACKED***"
+	{
+		"chi"		"**LUFFAREN感觉自己缺少了某样东西，他需要得到补偿**"
+	}
+	"***DON'T TELL HIM I SAID THAT***"
+	{
+		"chi"		"**嘘...别告诉他是我说的**"
+	}
+	"***SOCRATES WISHES SILENTLY***"
+	{
+		"chi"		"**苏格拉底在默默祈祷**"
+	}
+	"***SOCRATES FEELS YOU***"
+	{
+		"chi"		"**苏格拉底察觉到你了**"
+	}
+	"***SOCRATES CRAVES***"
+	{
+		"chi"		"**苏格拉底渴望**"
+	}
+	"***SOCRATES CARES FOR NO MAN***"
+	{
+		"chi"		"**苏格拉底对男人没有兴趣**"
+	}
+	"***SOCRATES PLAYS NINTENDO 64***"
+	{
+		"chi"		"**苏格拉底在玩任天堂**"
+	}
+	"***SOCRATES IS***"
+	{
+		"chi"		"**苏格拉底是...**"
+	}
+	"***SOCRATES REGRETS YOUR DEEDS***"
+	{
+		"chi"		"**苏格拉底对你的行为感到懊悔**"
+	}
+	"***SOCRATES FEEDS***"
+	{
+		"chi"		"**苏格拉底满♂足了**"
+	}
+	"***SOCRATES NEEDS BENDER***"
+	{
+		"chi"		"**苏格拉底选择愉♂悦**"
+	}
+	"***SOCRATES IS ALL***"
+	{
+		"chi"		"**苏格拉底就是这一切**"
+	}
+	"***SOCRATES IS NOTHING***"
+	{
+		"chi"		"**苏格拉底什么都不是**"
+	}
+	"***SOCRATES IS NOTHING AT ALL***"
+	{
+		"chi"		"**苏格拉底什么都没有**"
+	}
+	"***SOCRATES DOES NOT EXIST***"
+	{
+		"chi"		"**苏格拉底并不存在**"
+	}
+	"***SOCRATES IS AWAKENED***"
+	{
+		"chi"		"**苏格拉底醒来了**"
+	}
+	"***SOCRATES CANNOT KEEP***"
+	{
+		"chi"		"**苏格拉底无法保持**"
+	}
+	"***SOCRATES RUMBLES YOUR WILL***"
+	{
+		"chi"		"**苏格拉底好像看穿了你**"
+	}
+	"***SOCRATES WILL ARRIVE***"
+	{
+		"chi"		"**苏格拉底到了**"
+	}
+	"***SOCRATES SELLS GASOLINE***"
+	{
+		"chi"		"**苏格拉底卖汽油**"
+	}
+	"***SOCRATES WILL CLEANSE***"
+	{
+		"chi"		"**苏格拉底要净化**"
+	}
+	"***SOCRATES WILL DESTROY***"
+	{
+		"chi"		"**苏格拉底要破坏**"
+	}
+	"***SOCRATES IS NEAR***"
+	{
+		"chi"		"**苏格拉底近了**"
+	}
+	"***SOCRATES WELCOMES YOU***"
+	{
+		"chi"		"**苏格拉底欢迎你**"
+	}
+	"***SOCRATES IS SANTA***"
+	{
+		"chi"		"**苏格拉底就是圣诞老人**"
+	}
+	"*** - TRUE SANTA - ***"
+	{
+		"chi"		"** - 真正的圣诞老人 - **"
+	}
+	"***PLAYER PICKED UP ITEM - HERDER***"
+	{
+		"chi"		"**玩家捡起了- 推力**"
+	}
+	"***SPEEDER ITEMS ACTIVATED***"
+	{
+		"chi"		"**现在可以使用加速了**"
+	}
+	"***YOU HAVE DONE IT!***"
+	{
+		"chi"		"**你做到了!**"
+	}
+	"***YOU HAVE DEFEATED SOCRATES - THE TRUE SANTA!***"
+	{
+		"chi"		"**你打败了苏格拉底 - 真正的圣诞老人!**"
+	}
+	"***YOU WILL BE REMEMBERED AS CHAMPIONS***"
+	{
+		"chi"		"**作为英雄，你们都将被铭记！**"
+	}
+	"***THE END***"
+	{
+		"chi"		"**THE END**"
+	}
+	"***STAGE SET - PROLOGUE***"
+	{
+		"chi"		"** **"
+	}
+	"***KONY2012***"
+	{
+		"chi"		"** **"
+	}
+	"***SORRY...***"
+	{
+		"chi"		"** **"
+>>>>>>> a114277631e05449a4daf149089e0787dfb0efb7
 	}
 	"***TRAM 1 IS LEAVING IN 20 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**1号电车20秒后离开**"
 	}
 	"***TRAM 1 IS LEAVING***"
 	{
-		"chi"		"** **"
+		"chi"		"**1号电车后离开**"
 	}
 	"***TRAM 2 IS LEAVING IN 10 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**2号电车10秒后离开**"
 	}
 	"***TRAM 2 IS LEAVING***"
 	{
+		"chi"		"**2号电车离开**"
+	}
+<<<<<<< HEAD
+=======
+	"** ZE_SUPERSHITSHOW **"
+	{
 		"chi"		"** **"
 	}
+	"** A mode will be chosen shortly... **"
+	{
+		"chi"		"** **"
+	}
+	"***FIRST FIRST JEDI-SCROLL-DOOR IS OPENING***"
+	{
+		"chi"		"** **"
+	}
+	"***SECOND SECOND JEDI-SCROLL-DOOR IS OPENING IN 15 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***SECOND SECOND JEDI-SCROLL-DOOR IS OPENING***"
+	{
+		"chi"		"** **"
+	}
+	"***Modified by Reflelia***"
+	{
+		"chi"		"**修正：Reflelia**"
+	}
+	"***60 SECONDS LEFT***"
+	{
+		"chi"		"**60s剩余**"
+	}
+	"***WARM UP ROUIND***"
+	{
+		"chi"		"**热身局**"
+	}
+>>>>>>> a114277631e05449a4daf149089e0787dfb0efb7
 }
