@@ -2,115 +2,115 @@
 {
 	"***Prepare defences! 45 seconds!***"
 	{
-		"chi"		"** **"
+		"chi"		"**准备防御，45秒倒计时！**"
 	}
 	"***Intro song is Spanish Flea***"
 	{
-		"chi"		"** **"
+		"chi"		"**开头歌曲是Spanish Flea**"
 	}
 	"***Middle song is Red Canyon by F-Zero***"
 	{
-		"chi"		"** **"
+		"chi"		"**中间的歌曲是F-Zero的Red Canyon**"
 	}
 	"***Finale song is Jump by Two Steps From Hell***"
 	{
-		"chi"		"** **"
+		"chi"		"**最后的歌曲是Jump by Two Steps From Hell**"
 	}
 	"****Map by Eugenio *Motanum* Roman****"
 	{
-		"chi"		"** **"
+		"chi"		"**地图作者：Eugenio 翻译：蓬莱山辉夜**"
 	}
 	"****Contact me at eugenio.motanum91@gmail.com****"
 	{
-		"chi"		"** **"
+		"chi"		"**你可以在eugenio上联系我：motanum91@gmail.com**"
 	}
 	"***5 seconds left!**"
 	{
-		"chi"		"** **"
+		"chi"		"**剩余5s！**"
 	}
 	"***Humans Run to next exit***"
 	{
-		"chi"		"** **"
+		"chi"		"**人类快去下一个出口！**"
 	}
 	"***Afk Killer is enabled for 5 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**AFK玩家在5S后会被处置**"
 	}
 	"***Zombies are out of jail***"
 	{
-		"chi"		"** **"
+		"chi"		"**丧尸出笼**"
 	}
 	"***Protect yourself from Jumpy Zomby!**"
 	{
-		"chi"		"** **"
+		"chi"		"**在尸潮中保护你自己！**"
 	}
 	"***60 seconds left!**"
 	{
-		"chi"		"** **"
+		"chi"		"**剩余60s！**"
 	}
 	"***Humans Run to next exit**"
 	{
-		"chi"		"** **"
+		"chi"		"**人类快去下一个出口！**"
 	}
 	"***Zombies have broken out of Jail!**"
 	{
-		"chi"		"** **"
+		"chi"		"**丧尸出笼！**"
 	}
 	"***Prepare defences! 45 seconds!**"
 	{
-		"chi"		"** **"
+		"chi"		"**准备防御，45秒倒计时！**"
 	}
 	"***Zombies out of Jail**"
 	{
-		"chi"		"** **"
+		"chi"		"**丧尸出笼！**"
 	}
 	"***Humans reach final point***"
 	{
-		"chi"		"** **"
+		"chi"		"**有人类到达了最终地点**"
 	}
 	"***Hold 75 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**坚持75s**"
 	}
 	"***Hold 50 seconds!***"
 	{
-		"chi"		"** **"
+		"chi"		"**坚持0s**"
 	}
 	"***Humans have been teleported!***"
 	{
-		"chi"		"** **"
+		"chi"		"**人类已被传送！**"
 	}
 	"***Hold 30 seconds!***"
 	{
-		"chi"		"** **"
+		"chi"		"**再坚持30s！**"
 	}
 	"***Final Zombie Wave is Inbound!***"
 	{
-		"chi"		"** **"
+		"chi"		"**最后一次的丧尸出笼！**"
 	}
 	"***Hold 10 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**坚持10s！**"
 	}
 	"***Final Escape is in progres***"
 	{
-		"chi"		"** **"
+		"chi"		"**最后的逃亡已经开始**"
 	}
 	"***Zombies reached the Hill***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸到达了山顶！**"
 	}
 	"***No place is safe!***"
 	{
-		"chi"		"** **"
+		"chi"		"**无处藏身！**"
 	}
 	"***No game score will be applied***"
 	{
-		"chi"		"** **"
+		"chi"		"**游戏分数无效**"
 	}
 	"***Zombies reached final surf***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸抵达了最后的滑翔**"
 	}
 	"*** ZE INDUSTRIAL DEJAVU - ORIGINALY MADE IN ONE DAY ***"
 	{
