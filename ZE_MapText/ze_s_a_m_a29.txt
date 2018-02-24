@@ -108,4 +108,8 @@
 	{
 		"chi"		"** **"
 	}
+	"Please wait 20 seconds before the door opening"
+	{
+		"chi"		"** **"
+	}
 }

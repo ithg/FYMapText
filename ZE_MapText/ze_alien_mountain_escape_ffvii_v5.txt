@@ -40,4 +40,12 @@
 	{
 		"chi"		"** **"
 	}
+	">>> ZE PORTAL STORY - NORMAL DIFFICULTY <<<"
+	{
+		"chi"		"** **"
+	}
+	"ESCAPE FROM ZOMBIELAND"
+	{
+		"chi"		"** **"
+	}
 }

@@ -1,0 +1,55 @@
+"Console_T"
+{
+	"*** USE CONTROL PANEL TO STOP FANS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** WARNING - FANS STOP AND START AUTOMATICALLY ***"
+	{
+		"chi"		"** **"
+	}
+	"*** WAIT FOR DOOR TO OPEN ***"
+	{
+		"chi"		"** **"
+	}
+	"*** SMALL DOORS CLOSING ***"
+	{
+		"chi"		"** **"
+	}
+	"*** USE THE FAN TO PUSH YOU UP ***"
+	{
+		"chi"		"** **"
+	}
+	"*** WARNING - RAIL AND WATER HIGH VOLTAGE ***"
+	{
+		"chi"		"** **"
+	}
+	"*** TRUCKS GETTING FUEL - 1 MINUTE UNTILL READY ***"
+	{
+		"chi"		"** **"
+	}
+	"*** DOORS CLOSING ***"
+	{
+		"chi"		"** **"
+	}
+	"*** DOOR MALFUNCTION ***"
+	{
+		"chi"		"** **"
+	}
+	"*** TRUCKS FUEL DONE - GET IN TRUCKS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** USE RADIO TO LAUNCH NUKE ***"
+	{
+		"chi"		"** **"
+	}
+	"*** NUKE IN 5 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** MAP BY JB_GAMBLE ***"
+	{
+		"chi"		"** **"
+	}
+}

@@ -4,4 +4,12 @@
 	{
 		"chi"		"** **"
 	}
+	"***WARMUP***"
+	{
+		"chi"		"** **"
+	}
+	"### WELCOME TO CRAZY ESCAPE ###"
+	{
+		"chi"		"** **"
+	}
 }

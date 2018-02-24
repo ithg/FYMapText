@@ -48,4 +48,8 @@
 	{
 		"chi"		"** **"
 	}
+	"* * * MAP BY AobaSuzukaze(sweetS), Special Thanks reflelia * * *"
+	{
+		"chi"		"** **"
+	}
 }

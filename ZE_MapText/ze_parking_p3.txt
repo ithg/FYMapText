@@ -176,4 +176,24 @@
 	{
 		"chi"		"** **"
 	}
+	"***WARMUP***"
+	{
+		"chi"		"** **"
+	}
+	">>>>Only 15 Proxi Mines<<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>>Proxi Mine has been picked<<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>NO ACCESS TO SPECIAL WEAPONS !! ZOMBIES IN THE EVACUATION AREA !!<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>RESTART AT NORMAL LEVEL 1<<<"
+	{
+		"chi"		"** **"
+	}
 }

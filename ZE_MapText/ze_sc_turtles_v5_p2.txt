@@ -92,4 +92,16 @@
 	{
 		"chi"		"** **"
 	}
+	"*** Raft 2 Is Departing In 45 Seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"Please wait 20 seconds before the door opening"
+	{
+		"chi"		"** **"
+	}
+	"<!!!> MAP BY JB_GAMBLE <!!!>"
+	{
+		"chi"		"** **"
+	}
 }

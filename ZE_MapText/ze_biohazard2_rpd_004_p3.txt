@@ -8,4 +8,8 @@
 	{
 		"chi"		"** **"
 	}
+	">> Map by Taskuvaras <<"
+	{
+		"chi"		"** **"
+	}
 }

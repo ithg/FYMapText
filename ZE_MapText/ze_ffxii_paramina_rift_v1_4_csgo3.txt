@@ -372,4 +372,8 @@
 	{
 		"chi"		"** **"
 	}
+	"** Player has learned FIRA (fire lvl3) **"
+	{
+		"chi"		"** **"
+	}
 }

@@ -28,4 +28,28 @@
 	{
 		"chi"		"** **"
 	}
+	"Some items have spawned on top of safehouses."
+	{
+		"chi"		"** **"
+	}
+	"CT flags can now teleport humans back to spawn."
+	{
+		"chi"		"** **"
+	}
+	"Platforms are now breakable!"
+	{
+		"chi"		"** **"
+	}
+	"Meteors are raining from the sky!"
+	{
+		"chi"		"** **"
+	}
+	"***Map by RelaxingWalls***"
+	{
+		"chi"		"** **"
+	}
+	"***Map made for SteamGamers Mapping Competition***"
+	{
+		"chi"		"** **"
+	}
 }

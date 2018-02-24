@@ -116,7 +116,7 @@
 	{
 		"chi"		"** **"
 	}
-	"***5 seconds left***"
+	"***5 SECONDS LEFT***"
 	{
 		"chi"		"** **"
 	}
@@ -192,7 +192,7 @@
 	{
 		"chi"		"** **"
 	}
-	"***Defend for 20 seconds***"
+	"***DEFEND FOR 20 SECONDS***"
 	{
 		"chi"		"** **"
 	}
@@ -208,11 +208,19 @@
 	{
 		"chi"		"** **"
 	}
-	"***Hold for 20 seconds***"
+	"***HOLD FOR 20 SECONDS***"
 	{
 		"chi"		"** **"
 	}
 	"***Hold for 5seconds***"
+	{
+		"chi"		"** **"
+	}
+	"Thanks test play POSSESSION server!!"
+	{
+		"chi"		"** **"
+	}
+	"Map made by Ocelot"
 	{
 		"chi"		"** **"
 	}

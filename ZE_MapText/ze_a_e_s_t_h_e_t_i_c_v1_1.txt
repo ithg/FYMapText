@@ -140,4 +140,184 @@
 	{
 		"chi"		"** **"
 	}
+	"** Oh! What could you not have done with some more time? **"
+	{
+		"chi"		"** **"
+	}
+	"** Sadly, we shall never know -- for time is the only resource truly long gone! **"
+	{
+		"chi"		"** **"
+	}
+	"** No longer shall we cross our eyes to see! Reality at last! Rejoice! **"
+	{
+		"chi"		"** **"
+	}
+	"** Ahead: The giants of Don Quixote - a cautionary tale on dreams not begotten **"
+	{
+		"chi"		"** **"
+	}
+	"** Blue: faces behind shards of glass lost in the thick mist... Where are you? **"
+	{
+		"chi"		"** **"
+	}
+	"** The king dreams he is king, and he lives in the deceit of a king... **"
+	{
+		"chi"		"** **"
+	}
+	"** What good is a king without kingdom? What good a man lost of objectives? **"
+	{
+		"chi"		"** **"
+	}
+	"** Tomorrow and tomorrow and tomorrow... And then days evertold -- but nothing lest we act! **"
+	{
+		"chi"		"** **"
+	}
+	"** What do those forged smiles mean to the free men? **"
+	{
+		"chi"		"** **"
+	}
+	"** The walk from here and onwards might deceivingly look cheerful. **"
+	{
+		"chi"		"** **"
+	}
+	"** Oh Camillo Golgi... Why did you turn by brain into a Rosetta stone with the blue-tinted saddest tales? **"
+	{
+		"chi"		"** **"
+	}
+	"** Down, down and sliding -- If sad, don't forget smiling... **"
+	{
+		"chi"		"** **"
+	}
+	"** If I were you, I'd look up some 70's Canterbury bands to go with the Bucholics of this land... **"
+	{
+		"chi"		"** **"
+	}
+	"** But as finding keys and levers that open mouths and brains is more important, I'd diversify as well. **"
+	{
+		"chi"		"** **"
+	}
+	"** And so rejoice! We may clear the path for other pointless ways to cross! **"
+	{
+		"chi"		"** **"
+	}
+	"** Nobody would have expected less from such a formidable team... **"
+	{
+		"chi"		"** **"
+	}
+	"** Memories untold of Critilus would agree if they had been... **"
+	{
+		"chi"		"** **"
+	}
+	"** Up or down -- does it matter? It all ends up being the same... **"
+	{
+		"chi"		"** **"
+	}
+	"** Do beware of the beep-boop-boop-bah that might come to mess with you. **"
+	{
+		"chi"		"** **"
+	}
+	"** Lasciate ogne speranza, o voi ch'intrate. **"
+	{
+		"chi"		"** **"
+	}
+	"** The tide shall turn as we see a little man crashing through a window... **"
+	{
+		"chi"		"** **"
+	}
+	"** In the endless halls of time rests the shade of Ahuramazda, erased by a crescent moon... **"
+	{
+		"chi"		"** **"
+	}
+	"** Shall we equally erase the horizon onto which the burning hot sun sets? **"
+	{
+		"chi"		"** **"
+	}
+	"** Ponder at times and remember how the journey began looking at a screen... **"
+	{
+		"chi"		"** **"
+	}
+	"** Too meta it is for me to say if it was yours or instead this map's TV... **"
+	{
+		"chi"		"** **"
+	}
+	"** Again we meet! Another battle! **"
+	{
+		"chi"		"** **"
+	}
+	"** Fight this time not with bullets but just transparent fists! **"
+	{
+		"chi"		"** **"
+	}
+	"** MOVE IT! The rumble is nigh! **"
+	{
+		"chi"		"** **"
+	}
+	"** Tough luck, lads! Come back when you learn to read computer minds! **"
+	{
+		"chi"		"** **"
+	}
+	"** Bardiblub Blidablibloop! The magician turned to goop! **"
+	{
+		"chi"		"** **"
+	}
+	"** Look! Lucy is up there in the sky -- She has dynamite! **"
+	{
+		"chi"		"** **"
+	}
+	"** Oh! And all those efforts so vain, wasted, just to reach further and then be slain!  **"
+	{
+		"chi"		"** **"
+	}
+	"** Behold! It is time for the brundabogbog! **"
+	{
+		"chi"		"** **"
+	}
+	"** Poor King Cool! Dreams and dreams of hamboighas he can't eat! **"
+	{
+		"chi"		"** **"
+	}
+	"** FEED HIM! **"
+	{
+		"chi"		"** **"
+	}
+	"** Forget anything Keats said about urns! In the end we will all face the Jabberwock! **"
+	{
+		"chi"		"** **"
+	}
+	"** Prepare the vorpal swords! What is ahead? A jub-jub bird? No! Just the shadow of beyond. **"
+	{
+		"chi"		"** **"
+	}
+	"** Will we ever meet those who slept before us? **"
+	{
+		"chi"		"** **"
+	}
+	"** I really don't know -- My name is Billy and I'm just the janitor... **"
+	{
+		"chi"		"** **"
+	}
+	"** Who are these 'moguls from the top' these Cressida fellows so insistently chant about? **"
+	{
+		"chi"		"** **"
+	}
+	"** And so it awakes, hamboighed! Will only a piece of stardust, a clump of meat save us? **"
+	{
+		"chi"		"** **"
+	}
+	"** ...and so the brave Ulysses rests his eyes on the stars... **"
+	{
+		"chi"		"** **"
+	}
+	"** ...after battle held with passing hours for no one to understand... **"
+	{
+		"chi"		"** **"
+	}
+	"** ...these words that lie forever, never turned to strokes by hand... **"
+	{
+		"chi"		"** **"
+	}
+	"** ...and so the brave Ulysses rests: long forgotten in the past... **"
+	{
+		"chi"		"** **"
+	}
 }

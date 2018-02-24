@@ -148,4 +148,72 @@
 	{
 		"chi"		"** **"
 	}
+	"-=Defense System Activated.=-"
+	{
+		"chi"		"** **"
+	}
+	"**Lightning: Oooo Yeah!!! Did that hurt?**"
+	{
+		"chi"		"** **"
+	}
+	"**Dr. Valencia: HOW DARE YOU BREAK MY CAN!**"
+	{
+		"chi"		"** **"
+	}
+	"**Dr Valencia:  Ok... I'll open the door.**"
+	{
+		"chi"		"** **"
+	}
+	"**Dr Valencia: Give me 15 seconds.**"
+	{
+		"chi"		"** **"
+	}
+	"**Dr. Valencia: I might need to expell some gas soon.**"
+	{
+		"chi"		"** **"
+	}
+	"-=Dr. Valencia:  Door opening in 5.=-"
+	{
+		"chi"		"** **"
+	}
+	"-=Dr. Valencia:  DOOR OPENED!  MAKE WAY!!!=-"
+	{
+		"chi"		"** **"
+	}
+	"**Dr. Valencia: TAKE THIS!!!**"
+	{
+		"chi"		"** **"
+	}
+	"**Dr. Valencia:  Hold the door!  I'll use the remaining gas to conjure up a nuke!**"
+	{
+		"chi"		"** **"
+	}
+	"**Dr. Valencia:  Nuke in 3...**"
+	{
+		"chi"		"** **"
+	}
+	"**Dr. Valencia:  2...**"
+	{
+		"chi"		"** **"
+	}
+	"**Dr. Valencia:  1...**"
+	{
+		"chi"		"** **"
+	}
+	"-=Thanks for playing Evil Mansion!=-"
+	{
+		"chi"		"** **"
+	}
+	"-= For comments, find me on the SCA clan forums!=-"
+	{
+		"chi"		"** **"
+	}
+	"***Map by RelaxingWalls***"
+	{
+		"chi"		"** **"
+	}
+	"***Map made for SteamGamers Mapping Competition***"
+	{
+		"chi"		"** **"
+	}
 }

@@ -864,4 +864,28 @@
 	{
 		"chi"		"** **"
 	}
+	"***SKIP STAGE - TURTLE***"
+	{
+		"chi"		"** **"
+	}
+	"*** CURRENT STAGE IS 1: Overworld ***"
+	{
+		"chi"		"** **"
+	}
+	"**earthquake**"
+	{
+		"chi"		"** **"
+	}
+	"DADDY OOOOH YEAH DADDY LICK MY NIPPLES"
+	{
+		"chi"		"** **"
+	}
+	"**jizz attack mid**"
+	{
+		"chi"		"** **"
+	}
+	"***STAGE 1 -- THE SHIP***"
+	{
+		"chi"		"** **"
+	}
 }

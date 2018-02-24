@@ -136,4 +136,24 @@
 	{
 		"chi"		"**你完成了这张地图 恭喜你**"
 	}
+	"Special Thanks: Airvulpes"
+	{
+		"chi"		"** **"
+	}
+	"Test Server: Possession"
+	{
+		"chi"		"** **"
+	}
+	"***WARMUP***"
+	{
+		"chi"		"** **"
+	}
+	"***WELCOME TO PIZZA LAND***"
+	{
+		"chi"		"** **"
+	}
+	"***MAMA KOWAMA 2017***"
+	{
+		"chi"		"** **"
+	}
 }

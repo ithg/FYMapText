@@ -164,4 +164,12 @@
 	{
 		"chi"		"** **"
 	}
+	"** ZE_SUPERSHITSHOW **"
+	{
+		"chi"		"** **"
+	}
+	"** A mode will be chosen shortly... **"
+	{
+		"chi"		"** **"
+	}
 }

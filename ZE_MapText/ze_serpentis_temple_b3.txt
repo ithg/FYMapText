@@ -268,4 +268,8 @@
 	{
 		"chi"		"** **"
 	}
+	"*** KILL REMAINING ZOMBIES ***"
+	{
+		"chi"		"** **"
+	}
 }

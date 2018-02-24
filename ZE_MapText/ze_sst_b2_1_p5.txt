@@ -36,4 +36,8 @@
 	{
 		"chi"		"**运输机将在10秒后离开！**"
 	}
+	"*** Armored Vehicle Departing in 5 Seconds ***"
+	{
+		"chi"		"** **"
+	}
 }

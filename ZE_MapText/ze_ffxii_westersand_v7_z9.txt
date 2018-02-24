@@ -88,4 +88,168 @@
 	{
 		"chi"		"** **"
 	}
+	"** Nades do more damage **"
+	{
+		"chi"		"** **"
+	}
+	"** FIRE NOVA INBOUND **"
+	{
+		"chi"		"** **"
+	}
+	"** USE WATER TO DODGE IT  **"
+	{
+		"chi"		"** **"
+	}
+	"** The dragon has been defeated **"
+	{
+		"chi"		"** **"
+	}
+	"** Cover 10 seconds till the rock explodes **"
+	{
+		"chi"		"** **"
+	}
+	"** Go to the end of the road! **"
+	{
+		"chi"		"** **"
+	}
+	"** 50 SECS REMAINING **"
+	{
+		"chi"		"** **"
+	}
+	"** 40 SECS REMAINING **"
+	{
+		"chi"		"** **"
+	}
+	"** 30 SECS REMAINING **"
+	{
+		"chi"		"** **"
+	}
+	"** 20 SECS REMAINING **"
+	{
+		"chi"		"** **"
+	}
+	"** 10 SECS REMAINING **"
+	{
+		"chi"		"** **"
+	}
+	"** 5 SECS REMAINING **"
+	{
+		"chi"		"** **"
+	}
+	"** Congratulations - You won [NORMAL] **"
+	{
+		"chi"		"** **"
+	}
+	"[HARD MODE]"
+	{
+		"chi"		"** **"
+	}
+	"** A player has learned Holy magick. **"
+	{
+		"chi"		"** **"
+	}
+	"** Cover 20 seconds till the rock explodes **"
+	{
+		"chi"		"** **"
+	}
+	"** 60 SECS REMAINING **"
+	{
+		"chi"		"** **"
+	}
+	"** Congratulations - You won [HARD] **"
+	{
+		"chi"		"** **"
+	}
+	"[EXTREME MODE]"
+	{
+		"chi"		"** **"
+	}
+	"** Cover 30 seconds till the rock explodes **"
+	{
+		"chi"		"** **"
+	}
+	"** You have failed... **"
+	{
+		"chi"		"** **"
+	}
+	"** 70 SECS REMAINING **"
+	{
+		"chi"		"** **"
+	}
+	"** Congratulations - You won [EXTREME] **"
+	{
+		"chi"		"** **"
+	}
+	"[EPIC MODE]"
+	{
+		"chi"		"** **"
+	}
+	"** Teleporter will be ready in 20 seconds! **"
+	{
+		"chi"		"** **"
+	}
+	"** Teleporter will be ready in 5 seconds! **"
+	{
+		"chi"		"** **"
+	}
+	"** Door will open in 5 seconds **"
+	{
+		"chi"		"** **"
+	}
+	"** Second door will open in 10 seconds **"
+	{
+		"chi"		"** **"
+	}
+	"** Hold 10 more seconds!! **"
+	{
+		"chi"		"** **"
+	}
+	"** The battlemage is down!! **"
+	{
+		"chi"		"** **"
+	}
+	"** The healer is down!! **"
+	{
+		"chi"		"** **"
+	}
+	"** ZM JAIL OPEN **"
+	{
+		"chi"		"** **"
+	}
+	"** The guardians are dead!! Run back to the entrance!! **"
+	{
+		"chi"		"** **"
+	}
+	"** Defend here for 30 seconds **"
+	{
+		"chi"		"** **"
+	}
+	"** 5 more seconds **"
+	{
+		"chi"		"** **"
+	}
+	"** The airship reactors are going to explode!! **"
+	{
+		"chi"		"** **"
+	}
+	"** CHAOS is using a deathwall - RUN FASTER!! **"
+	{
+		"chi"		"** **"
+	}
+	"** Chaos has been defeated - RUN !!!!! **"
+	{
+		"chi"		"** **"
+	}
+	"** Congratulations - You won [EPIC] **"
+	{
+		"chi"		"** **"
+	}
+	"[GOD MODE]"
+	{
+		"chi"		"** **"
+	}
+	"** The dragon has been defeated! GOGOGO **"
+	{
+		"chi"		"** **"
+	}
 }

@@ -20,4 +20,24 @@
 	{
 		"chi"		"** **"
 	}
+	"***BHOP***"
+	{
+		"chi"		"** **"
+	}
+	"***INVERTED CONTROLS***"
+	{
+		"chi"		"** **"
+	}
+	"***Defend for 10 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Door is open***"
+	{
+		"chi"		"** **"
+	}
+	"***DEFEND FOR 20 SECONDS***"
+	{
+		"chi"		"** **"
+	}
 }

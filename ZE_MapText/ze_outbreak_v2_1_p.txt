@@ -2,19 +2,19 @@
 {
 	"Elevator 3 leaving in 5 sec."
 	{
-		"chi"		"** **"
+		"chi"		"**3号电梯5s后离开！**"
 	}
 	"Second floor elevator 2 leaving in 5 sec."
 	{
-		"chi"		"** **"
+		"chi"		"**2楼2号电梯5s后离开！**"
 	}
 	"Elevator 2 leaving in 5 sec."
 	{
-		"chi"		"** **"
+		"chi"		"**2号电梯5s后离开！**"
 	}
 	"Second floor elevator 1 leaving in 5 sec."
 	{
-		"chi"		"** **"
+		"chi"		"**2楼1号电梯5s后离开！**"
 	}
 	"Mine shaft 2 door will open in 15 sec."
 	{

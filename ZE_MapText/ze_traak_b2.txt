@@ -4,4 +4,20 @@
 	{
 		"chi"		"** **"
 	}
+	"*** Door opens in 30 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** KEEP HOLDING***"
+	{
+		"chi"		"** **"
+	}
+	"*** DOOR IS OPENING***"
+	{
+		"chi"		"** **"
+	}
+	"***Map by Reflelia***"
+	{
+		"chi"		"** **"
+	}
 }

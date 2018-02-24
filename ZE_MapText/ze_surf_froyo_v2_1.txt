@@ -72,4 +72,20 @@
 	{
 		"chi"		"** **"
 	}
+	"***A zombie has picked health crystal!***"
+	{
+		"chi"		"** **"
+	}
+	"***Hold star for 60s!***"
+	{
+		"chi"		"** **"
+	}
+	"***A zombie has picked fear crystal!***"
+	{
+		"chi"		"** **"
+	}
+	">>>Respawn wall break in 20 sec<<<"
+	{
+		"chi"		"** **"
+	}
 }

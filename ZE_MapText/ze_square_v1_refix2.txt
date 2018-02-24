@@ -48,4 +48,8 @@
 	{
 		"chi"		"** **"
 	}
+	"***Secret melon startforward in 5sec***"
+	{
+		"chi"		"** **"
+	}
 }

@@ -112,4 +112,36 @@
 	{
 		"chi"		"** **"
 	}
+	"*** Hold the house for 24 seconds! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Windows that don't have a wooden plank are breakable! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** GO BACK! IT'S GONNA BLOW! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Pushgun has been taken. Press +USE (E) to activate. 60 seconds cooldown. ***"
+	{
+		"chi"		"** **"
+	}
+	"* Zombie rage has been picked up. Press +USE (E) to activate.*"
+	{
+		"chi"		"** **"
+	}
+	"* Zombie heal has been picked up. Press +USE (E) to activate.*"
+	{
+		"chi"		"** **"
+	}
+	"*** Bunker door opens in 15 seconds. ***"
+	{
+		"chi"		"** **"
+	}
+	"*** HOLD! The bunker will seal in 15 seconds! ***"
+	{
+		"chi"		"** **"
+	}
 }

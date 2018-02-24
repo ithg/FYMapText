@@ -16,4 +16,16 @@
 	{
 		"chi"		"** **"
 	}
+	"***Modified by Reflelia***"
+	{
+		"chi"		"** **"
+	}
+	"***60 SECONDS LEFT***"
+	{
+		"chi"		"** **"
+	}
+	"***WARM UP ROUIND***"
+	{
+		"chi"		"** **"
+	}
 }

@@ -172,4 +172,36 @@
 	{
 		"chi"		"** **"
 	}
+	"<!!!> PART 3 - TRAM RIDE PASSED <!!!>"
+	{
+		"chi"		"** **"
+	}
+	"<!!!> EASY COMPLETED <!!!>"
+	{
+		"chi"		"** **"
+	}
+	"# VENT OPEN IN 15 SECONDS #"
+	{
+		"chi"		"** **"
+	}
+	"# VENT OPEN #"
+	{
+		"chi"		"** **"
+	}
+	"# FINAL DOOR CLOSING IN 40 SECONDS #"
+	{
+		"chi"		"** **"
+	}
+	"# 30 SECONDS #"
+	{
+		"chi"		"** **"
+	}
+	"# 20 SECONDS #"
+	{
+		"chi"		"** **"
+	}
+	"<!!!> MED COMPLETED <!!!>"
+	{
+		"chi"		"** **"
+	}
 }

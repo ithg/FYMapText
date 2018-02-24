@@ -1,0 +1,35 @@
+"Console_T"
+{
+	"> Map by SubDelt@"
+	{
+		"chi"		"** **"
+	}
+	"> Thanks to"
+	{
+		"chi"		"** **"
+	}
+	"> Enviolinador - multiple things help"
+	{
+		"chi"		"** **"
+	}
+	"> (RMG) Synopsis [pF] - special items help"
+	{
+		"chi"		"** **"
+	}
+	"> JorisCeoen - models help"
+	{
+		"chi"		"** **"
+	}
+	"> Luffaren - particles help"
+	{
+		"chi"		"** **"
+	}
+	">>> ZE PORTAL STORY - NORMAL DIFFICULTY <<<"
+	{
+		"chi"		"** **"
+	}
+	"<<< Level 1 >>>"
+	{
+		"chi"		"** **"
+	}
+}

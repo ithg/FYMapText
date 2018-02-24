@@ -140,4 +140,12 @@
 	{
 		"chi"		"** **"
 	}
+	"***Map by RelaxingWalls***"
+	{
+		"chi"		"** **"
+	}
+	"***Map made for SteamGamers Mapping Competition***"
+	{
+		"chi"		"** **"
+	}
 }

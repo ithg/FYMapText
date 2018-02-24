@@ -32,4 +32,16 @@
 	{
 		"chi"		"** **"
 	}
+	"** Tram leaving in 15 seconds **"
+	{
+		"chi"		"** **"
+	}
+	"** Jungle bus out of fuel! **"
+	{
+		"chi"		"** **"
+	}
+	"** Boat leaving in 10 seconds! **"
+	{
+		"chi"		"** **"
+	}
 }

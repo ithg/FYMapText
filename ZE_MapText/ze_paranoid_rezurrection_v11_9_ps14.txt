@@ -276,4 +276,168 @@
 	{
 		"chi"		"** **"
 	}
+	"** MASSACRE AT AT BUYZONE! Be careful with the zombies! **"
+	{
+		"chi"		"** **"
+	}
+	"**Rocket launcher has been picked**"
+	{
+		"chi"		"** **"
+	}
+	"**Flamethrower has been picked**"
+	{
+		"chi"		"** **"
+	}
+	"**Slower weapon has been picked**"
+	{
+		"chi"		"** **"
+	}
+	"** 2 SPAWNS! More humans per square meter... and more zombies!  **"
+	{
+		"chi"		"** **"
+	}
+	"**Team trigger activated: fast T in 5 s**"
+	{
+		"chi"		"** **"
+	}
+	"** Teleport weapon has been picked up **"
+	{
+		"chi"		"** **"
+	}
+	"**Gravity gun has been picked**"
+	{
+		"chi"		"** **"
+	}
+	"** Bed item has been picked up **"
+	{
+		"chi"		"** **"
+	}
+	"**Global trigger activated: invert controls**"
+	{
+		"chi"		"** **"
+	}
+	"**Team trigger activated: untouchable ct in 5s (15s)**"
+	{
+		"chi"		"** **"
+	}
+	"** Thunder gun has been picked up**"
+	{
+		"chi"		"** **"
+	}
+	"**Singularity cannon has been picked up**"
+	{
+		"chi"		"** **"
+	}
+	"*** Finish mode ** Easy killing! You are untouchable!**"
+	{
+		"chi"		"** **"
+	}
+	"** YOU BREAK THE LASTS BRICKS AT SAME TIME ! ** SELECTING RANDOMLY **"
+	{
+		"chi"		"** **"
+	}
+	"**Gandalf staff has been picked!**"
+	{
+		"chi"		"** **"
+	}
+	"**Global trigger activated: low gravity for humans**"
+	{
+		"chi"		"** **"
+	}
+	"** Gandalf in the middle! **"
+	{
+		"chi"		"** **"
+	}
+	"** ZM! Remember! This is not escape anymore! Just defend and save your ass! **"
+	{
+		"chi"		"** **"
+	}
+	"** Grenade maker has been picked up **"
+	{
+		"chi"		"** **"
+	}
+	"** Jukebox has been picked up **"
+	{
+		"chi"		"** **"
+	}
+	"** MUSIC IN CHARGE OF THE DJ NOW **"
+	{
+		"chi"		"** **"
+	}
+	"**Giant chainsaw has been picked**"
+	{
+		"chi"		"** **"
+	}
+	"** Heal item has been picked up **"
+	{
+		"chi"		"** **"
+	}
+	"[PLAYING] Gangam Style"
+	{
+		"chi"		"** **"
+	}
+	"[PLAYING] Gorillaz : Soulchild Remix"
+	{
+		"chi"		"** **"
+	}
+	"** NUKE IN 60 SECONDS **"
+	{
+		"chi"		"** **"
+	}
+	"[PLAYING] Benny Hill theme"
+	{
+		"chi"		"** **"
+	}
+	"** NUKE IN 40 SECONDS **"
+	{
+		"chi"		"** **"
+	}
+	"**Annihilator has been picked**"
+	{
+		"chi"		"** **"
+	}
+	"** NUKE IN 20 SECONDS **"
+	{
+		"chi"		"** **"
+	}
+	"**10 SECONDS LEFT**"
+	{
+		"chi"		"** **"
+	}
+	"**5 SECONDS LEFT**"
+	{
+		"chi"		"** **"
+	}
+	"***Earendil light has been picked***"
+	{
+		"chi"		"** **"
+	}
+	"**Team trigger activated: slow T in 5 s**"
+	{
+		"chi"		"** **"
+	}
+	"*** Finish mode ** Normal nuke!**"
+	{
+		"chi"		"** **"
+	}
+	"** TRIGGER MADNESS! Random triggers every 10 seconds! **"
+	{
+		"chi"		"** **"
+	}
+	"**Global trigger activated: everyone will be teleported to a room int 8s**"
+	{
+		"chi"		"** **"
+	}
+	"**A boring round... cmon CT** Everyone will be teleported to the white room in 20s**"
+	{
+		"chi"		"** **"
+	}
+	"**HUMAN OWNAGE IN 20S** HUMANS MUST REACH THE CORE NOW!!!**"
+	{
+		"chi"		"** **"
+	}
+	"** VIP! Protect the VIP! If the dies you all die! **"
+	{
+		"chi"		"** **"
+	}
 }

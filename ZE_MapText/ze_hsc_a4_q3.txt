@@ -76,4 +76,24 @@
 	{
 		"chi"		"** **"
 	}
+	"** [HARD MODE] **"
+	{
+		"chi"		"** **"
+	}
+	"THE WAY WILL OPEN IN 20 SECONDS!"
+	{
+		"chi"		"** **"
+	}
+	"THE ELEVATOR WILL RISE IN 30 SECONDS"
+	{
+		"chi"		"** **"
+	}
+	"THE DOORS WILL OPEN IN 25 SECONDS"
+	{
+		"chi"		"** **"
+	}
+	"RESIST FOR 30 MORE SECONDS!"
+	{
+		"chi"		"** **"
+	}
 }

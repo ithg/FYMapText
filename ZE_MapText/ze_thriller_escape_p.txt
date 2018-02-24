@@ -1,0 +1,27 @@
+"Console_T"
+{
+	"***Door 2 opening in 25secs.***"
+	{
+		"chi"		"** **"
+	}
+	"***Door 2 open.***"
+	{
+		"chi"		"** **"
+	}
+	"***Truck leaving in 30secs.***"
+	{
+		"chi"		"** **"
+	}
+	"***Truck leaving in 5secs. Shoot the blockade.***"
+	{
+		"chi"		"** **"
+	}
+	"***Door opening in 25secs.***"
+	{
+		"chi"		"** **"
+	}
+	"***Door open.***"
+	{
+		"chi"		"** **"
+	}
+}

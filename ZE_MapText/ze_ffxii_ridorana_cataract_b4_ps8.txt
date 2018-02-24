@@ -208,4 +208,68 @@
 	{
 		"chi"		"** **"
 	}
+	"**A PLAYER HAS ACQUIRED CURAGA**(HEAL LEVEL 3)**"
+	{
+		"chi"		"** **"
+	}
+	"** You have beaten EXTREME MODE! Congratulations! **"
+	{
+		"chi"		"** **"
+	}
+	"**CHAOS MODE**"
+	{
+		"chi"		"** **"
+	}
+	"**The Pharos is under attack!**"
+	{
+		"chi"		"** **"
+	}
+	"**A PLAYER HAS ACQUIRED AEROGA**(WIND LEVEL 3)**"
+	{
+		"chi"		"** **"
+	}
+	"**Someone is trying to interfere us**"
+	{
+		"chi"		"** **"
+	}
+	"**A PLAYER HAS ACQUIRED THUNDAGA**(ELECTRO LEVEL 3)**"
+	{
+		"chi"		"** **"
+	}
+	"**A PLAYER HAS ACQUIRED BLIZZAGA**(FREEZE LEVEL 3)**"
+	{
+		"chi"		"** **"
+	}
+	"**A PLAYER HAS PICKED UP THE ULTIMA SWORD**"
+	{
+		"chi"		"** **"
+	}
+	"**Gabranth has stolen the crystal. We need to stop him**"
+	{
+		"chi"		"** **"
+	}
+	"**The Zargabaath is down**"
+	{
+		"chi"		"** **"
+	}
+	"**You are too slow..**"
+	{
+		"chi"		"** **"
+	}
+	"**The Bergan is down**"
+	{
+		"chi"		"** **"
+	}
+	"**The guard is dead! Run to to the platform!**"
+	{
+		"chi"		"** **"
+	}
+	"**You have failed**"
+	{
+		"chi"		"** **"
+	}
+	"**ZOMBIE DARKAGA WAS PICKED UP**(PULL LEVEL 3)**"
+	{
+		"chi"		"** **"
+	}
 }

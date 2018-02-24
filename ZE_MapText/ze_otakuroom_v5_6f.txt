@@ -188,4 +188,16 @@
 	{
 		"chi"		"** **"
 	}
+	"Thanks test play POSSESSION server!!"
+	{
+		"chi"		"** **"
+	}
+	"Map made by Ocelot"
+	{
+		"chi"		"** **"
+	}
+	"**[Admin]Stage 3**"
+	{
+		"chi"		"** **"
+	}
 }

@@ -52,4 +52,12 @@
 	{
 		"chi"		"** **"
 	}
+	"***60 SECONDS LEFT***"
+	{
+		"chi"		"** **"
+	}
+	"***WARM UP ROUIND***"
+	{
+		"chi"		"** **"
+	}
 }

@@ -88,4 +88,8 @@
 	{
 		"chi"		"** **"
 	}
+	"*** CURRENT STAGE IS 1: Overworld ***"
+	{
+		"chi"		"** **"
+	}
 }

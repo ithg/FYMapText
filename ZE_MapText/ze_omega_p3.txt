@@ -40,4 +40,8 @@
 	{
 		"chi"		"** **"
 	}
+	"***Cart Control Door closes in 5 Seconds***"
+	{
+		"chi"		"** **"
+	}
 }

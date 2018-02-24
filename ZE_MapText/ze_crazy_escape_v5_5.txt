@@ -500,4 +500,12 @@
 	{
 		"chi"		"** **"
 	}
+	"### YOU LET ZOMBIES WATCH TV SO U LOSE NOOB ###"
+	{
+		"chi"		"** **"
+	}
+	"### DONT LET ZOMBIES ON THE PLATFORM !!! ###"
+	{
+		"chi"		"** **"
+	}
 }

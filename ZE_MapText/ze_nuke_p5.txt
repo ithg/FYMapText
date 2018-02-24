@@ -80,4 +80,8 @@
 	{
 		"chi"		"** **"
 	}
+	"Second way open !"
+	{
+		"chi"		"** **"
+	}
 }

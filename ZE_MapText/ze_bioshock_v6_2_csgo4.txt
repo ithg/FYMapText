@@ -1,0 +1,203 @@
+"Console_T"
+{
+	">>ze_bioshock<<"
+	{
+		"chi"		"** **"
+	}
+	">>Map by DormantLemon<<"
+	{
+		"chi"		"** **"
+	}
+	">>Introduction<<"
+	{
+		"chi"		"** **"
+	}
+	">>>Warmup ends in 60 seconds<<<"
+	{
+		"chi"		"** **"
+	}
+	">>Current Difficulty: Hard<<"
+	{
+		"chi"		"** **"
+	}
+	">>TIP #1: Big Daddy is immensely strong. Don't let him get close<<"
+	{
+		"chi"		"** **"
+	}
+	">>TIP #2: Repeated losses will make the map easier. Don't give up!<<"
+	{
+		"chi"		"** **"
+	}
+	">>TIP #3: Plasmids are limited use. Keep count!<<"
+	{
+		"chi"		"** **"
+	}
+	">>TIP #4: Upgrade your Plasmids at Power to the People stations. Upgrades are PERMANENT. Choose carefully!<<"
+	{
+		"chi"		"** **"
+	}
+	">>TIP #5: Little Sister can harvest corpses to buff her teammates. Search them out!<<"
+	{
+		"chi"		"** **"
+	}
+	">>TIP #6: Gene Tonics take effect on death. Don't die in vain!<<"
+	{
+		"chi"		"** **"
+	}
+	">>TIP #7: Lost health? Visit a health station to recover it!<<"
+	{
+		"chi"		"** **"
+	}
+	">>>Introduction Complete<<<"
+	{
+		"chi"		"** **"
+	}
+	">>Chapter 1 - Welcome to Rapture<<"
+	{
+		"chi"		"** **"
+	}
+	"The server is about to close the update ,Please update your game"
+	{
+		"chi"		"** **"
+	}
+	">>Wait for Bathysphere arrival - 25s<<"
+	{
+		"chi"		"** **"
+	}
+	">>Bathysphere is docking...<<"
+	{
+		"chi"		"** **"
+	}
+	">>Get in the Bathysphere - 12s<<"
+	{
+		"chi"		"** **"
+	}
+	"***Plasmid obtained: Winter Blast***"
+	{
+		"chi"		"** **"
+	}
+	">>Hold the Atrium - 22s<<"
+	{
+		"chi"		"** **"
+	}
+	"***Plasmid obtained: Incinerate***"
+	{
+		"chi"		"** **"
+	}
+	">>Door is open<<"
+	{
+		"chi"		"** **"
+	}
+	">>Hold until secuity door releases - 15s<<"
+	{
+		"chi"		"** **"
+	}
+	"***Plasmid obtained: Electro Bolt***"
+	{
+		"chi"		"** **"
+	}
+	">>Wait for the elevators arrival<<"
+	{
+		"chi"		"** **"
+	}
+	"*AFK teleport in 5s*"
+	{
+		"chi"		"** **"
+	}
+	">>Elevator 2 leaving - 5s<<"
+	{
+		"chi"		"** **"
+	}
+	">>Elevator 1 leaving - 5s<<"
+	{
+		"chi"		"** **"
+	}
+	">>Hold until the security door releases<<"
+	{
+		"chi"		"** **"
+	}
+	"That's a Little Sister. Looks like she's alone..."
+	{
+		"chi"		"** **"
+	}
+	">>Wait for the arrival of Rapture Metro<<"
+	{
+		"chi"		"** **"
+	}
+	"***Plasmid obtained: Insect Swarm***"
+	{
+		"chi"		"** **"
+	}
+	">>Board and defend the Rapture Metro<<"
+	{
+		"chi"		"** **"
+	}
+	">>>Chapter complete<<<"
+	{
+		"chi"		"** **"
+	}
+	">>Chapter 2 - Fort Frolic<<"
+	{
+		"chi"		"** **"
+	}
+	">>Wait for Siren Alley doors to open - 15s<<"
+	{
+		"chi"		"** **"
+	}
+	"*Splicers have been blocked for 8 seconds*"
+	{
+		"chi"		"** **"
+	}
+	"*Splicers have been blocked for 6 seconds*"
+	{
+		"chi"		"** **"
+	}
+	"*Splicers have been blocked for 4 seconds*"
+	{
+		"chi"		"** **"
+	}
+	"*Splicers have been blocked for 2 seconds*"
+	{
+		"chi"		"** **"
+	}
+	">>Hide or hold until the exit has drained - 84s<<"
+	{
+		"chi"		"** **"
+	}
+	"*Splicers have been freed!*"
+	{
+		"chi"		"** **"
+	}
+	">>Hold the Decompression Chamber<<"
+	{
+		"chi"		"** **"
+	}
+	">>Defend until Cohen opens the doors - 20s<<"
+	{
+		"chi"		"** **"
+	}
+	">>Hold the doorway - 5s<<"
+	{
+		"chi"		"** **"
+	}
+	">>Go up the stairs<<"
+	{
+		"chi"		"** **"
+	}
+	">>Wait for Poseidon Plaza to unfreeze<<"
+	{
+		"chi"		"** **"
+	}
+	">>Defend while the door unfreezes - 20s<<"
+	{
+		"chi"		"** **"
+	}
+	">>Defend Jasmine Jolie's room - 60s<<"
+	{
+		"chi"		"** **"
+	}
+	"***WARMUP***"
+	{
+		"chi"		"** **"
+	}
+}

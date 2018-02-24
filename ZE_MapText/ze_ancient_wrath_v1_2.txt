@@ -256,4 +256,12 @@
 	{
 		"chi"		"** **"
 	}
+	"***Map by Reflelia***"
+	{
+		"chi"		"** **"
+	}
+	"||| ZOMBIE TRAIN - WIN DISABLE |||"
+	{
+		"chi"		"** **"
+	}
 }

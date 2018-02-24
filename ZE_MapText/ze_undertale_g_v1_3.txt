@@ -1,0 +1,611 @@
+"Console_T"
+{
+	"*** Map by Airvulpes ***"
+	{
+		"chi"		"**地图作者：Airvulpes 地图翻译：蓬莱山辉夜**"
+	}
+	"Yo !"
+	{
+		"chi"		"**呦!**"
+	}
+	"Are you sneaking out to see her ,  too ?"
+	{
+		"chi"		"**你也是悄悄出来看她的吗?**"
+	}
+	"Awesome..."
+	{
+		"chi"		"**真好**"
+	}
+	"She's the coolest, right !?"
+	{
+		"chi"		"**她是最酷的!不是吗?**"
+	}
+	"I wanna be just like her when I grow up..."
+	{
+		"chi"		"**我长大以后想要成为她那样的人**"
+	}
+	"Hey, don't tell my parents I'm here."
+	{
+		"chi"		"**嘿,不要告诉我的父母我在这里**"
+	}
+	"Ha ha."
+	{
+		"chi"		"**啊哈**"
+	}
+	"*** Hold 20 seconds ***"
+	{
+		"chi"		"**防守20秒**"
+	}
+	"*** 5 seconds left ***"
+	{
+		"chi"		"**剩余5秒**"
+	}
+	"Yo...  did you see the way she was staring at you... ?"
+	{
+		"chi"		"**哟,你看到她对待你的方式了吗?**"
+	}
+	"That..."
+	{
+		"chi"		"**那个,**"
+	}
+	"... was AWESOME !"
+	{
+		"chi"		"**很棒对吧!**"
+	}
+	"I'm SOOOO jealous !"
+	{
+		"chi"		"**我很嫉妒!**"
+	}
+	"She was just standing there waiting FOREVER , and then you just ... !!!"
+	{
+		"chi"		"**她只是永远站在那里等待,但是你缺..**"
+	}
+	"C'mon !"
+	{
+		"chi"		"**来吧**"
+	}
+	"Let's go watch her beat up some bad guys !"
+	{
+		"chi"		"**让我们去看看她并教训一下那些坏家伙**"
+	}
+	"*** 10 SECONDS LEFT ***"
+	{
+		"chi"		"**剩余10秒**"
+	}
+	"Yo..."
+	{
+		"chi"		"**呦**"
+	}
+	"did you see that !?"
+	{
+		"chi"		"**你看到了吗?**"
+	}
+	"Undyne just ..."
+	{
+		"chi"		"**Undyne 仅仅**"
+	}
+	"... TOUCHED ME !"
+	{
+		"chi"		"**感动了我!**"
+	}
+	"I'm never washing my face ever again ... !"
+	{
+		"chi"		"**我再也不会洗我自己的脸了**"
+	}
+	"Man , are you unlucky ."
+	{
+		"chi"		"**老兄,你是不幸的**"
+	}
+	"If you were standing just a LITTLE bit to the left ... !"
+	{
+		"chi"		"**如果你再往左边站一点点.**"
+	}
+	"Yo , don't worry !"
+	{
+		"chi"		"**不要担心!**"
+	}
+	"I'm sure we'll see her again !"
+	{
+		"chi"		"**我很确信我们能够再次见到她**"
+	}
+	"*** Hold 10 seconds ***"
+	{
+		"chi"		"**坚持10秒**"
+	}
+	"*** Hold 40 seconds ***"
+	{
+		"chi"		"**守住40秒**"
+	}
+	"Yo , you got an umbrella ?"
+	{
+		"chi"		"**欸?你拿到了雨伞吗?**"
+	}
+	"Awesome !"
+	{
+		"chi"		"**真棒!**"
+	}
+	"Let's go !"
+	{
+		"chi"		"**我们走!**"
+	}
+	"Man , Undyne is sooooooo cool ."
+	{
+		"chi"		"**老兄,Undyne太酷了！**"
+	}
+	"She beats up bad guys and NEVER loses ."
+	{
+		"chi"		"**她打败了那些坏蛋并且从来没输过**"
+	}
+	"If I was a human , I would wet the bed every night ..."
+	{
+		"chi"		"**如果我是人类,那我每天晚上可是会尿床的**"
+	}
+	"... knowing she was gonna beat me up !"
+	{
+		"chi"		"**我知道她会揍我的**"
+	}
+	"Ha ha ."
+	{
+		"chi"		"**哈哈^_^**"
+	}
+	"So, one time ."
+	{
+		"chi"		"**所以,有一次**"
+	}
+	"We had a school project where we had to take care of flower ."
+	{
+		"chi"		"**我们有一个校园课题是我们要照顾好花**"
+	}
+	"The king - we had to call him Mr. Dreemurr - volunteered to donato his own flwoers ."
+	{
+		"chi"		"**那个人,被我们称为DREEMURR先生的,自愿提供了他的花**"
+	}
+	"He ended up coming to school and teaching the class about responsibility and stuff ."
+	{
+		"chi"		"**他最后来到学校,教导我们班有关责任的等等等等..**"
+	}
+	"That got me thinking ..."
+	{
+		"chi"		"**那让我陷入思考**"
+	}
+	"YO ! How COOL would it be if UNDYNE came to school !?"
+	{
+		"chi"		"**啊!如果UNDYNE来到了学校会多酷!**"
+	}
+	"She could beat up ALL the teachers !!"
+	{
+		"chi"		"**她一定能打败所有老师的!**"
+	}
+	"Ummm, maybe she wouldn't beat up the teachers ..."
+	{
+		"chi"		"**Emmmmmmmm,也许她不能打败老师们。**"
+	}
+	"She's too cool to ever hurt an innocent person !"
+	{
+		"chi"		"**她非常酷，所以她不会伤害无辜的人**"
+	}
+	"Yo , this ledge is way too steep ..."
+	{
+		"chi"		"**嘿,这个暗礁太陡峭了,**"
+	}
+	"Yo , you wanna see Undyne , right ... ?"
+	{
+		"chi"		"**嘿,你是想要见到Undyne，对吧？**"
+	}
+	"Climb on my shoulders ."
+	{
+		"chi"		"**爬上我的肩膀**"
+	}
+	"Owww ..."
+	{
+		"chi"		"**哦哦哦哦哦**"
+	}
+	"Yo , try being a little less rough , haha."
+	{
+		"chi"		"**嘿,尝试一下不粗鲁的方式吧.**"
+	}
+	"Anyway ,I'll look for another way through ."
+	{
+		"chi"		"**不管怎样,我要寻找另一条路.**"
+	}
+	"Later !"
+	{
+		"chi"		"**等会儿见!**"
+	}
+	"FOOL !"
+	{
+		"chi"		"**傻瓜!**"
+	}
+	"You think you can hurt me ???"
+	{
+		"chi"		"**你觉得你能伤到我?**"
+	}
+	"I am a ghost that lives inside a DUMMY ."
+	{
+		"chi"		"**我是一个住在傀儡里的幽灵!**"
+	}
+	"My cousin used to live inside a DUMMY , too . Until..."
+	{
+		"chi"		"**我的弟弟也曾住在傀儡里,直到..**"
+	}
+	"YOU CAME ALONG !"
+	{
+		"chi"		"**你来到了这!**"
+	}
+	"Not only did YOUR actions cause them to leave thier home ..."
+	{
+		"chi"		"**你的行为不仅让他们无家可归**"
+	}
+	"But now all of thier neighbors are gone , too !"
+	{
+		"chi"		"**但是他们所有的邻居也离开了!**"
+	}
+	"Despicable ."
+	{
+		"chi"		"**卑鄙的家伙.**"
+	}
+	"Despicable !"
+	{
+		"chi"		"**卑鄙的家伙!**"
+	}
+	"DESPICABLE !!!"
+	{
+		"chi"		"**你这卑鄙的家伙!!!**"
+	}
+	"You're the worst person I've ever met !"
+	{
+		"chi"		"**你是我见过最坏的人!**"
+	}
+	"I've NEVER been more mad !!!"
+	{
+		"chi"		"**我从来没有这么生气过**"
+	}
+	"Guooooohhhh !!!!"
+	{
+		"chi"		"**唔唔啊啊啊啊 !!!**"
+	}
+	"My mannequin levels are going off the CHARTS !!!"
+	{
+		"chi"		"**我的模型水平正在下降**"
+	}
+	"... ?"
+	{
+		"chi"		"**??**"
+	}
+	"This ... This feeling ... ?"
+	{
+		"chi"		"**这,,这种感觉??**"
+	}
+	"Eureka ."
+	{
+		"chi"		"**EUREKA!**"
+	}
+	"Eureka !"
+	{
+		"chi"		"** **"
+	}
+	"EUREKA !!!"
+	{
+		"chi"		"** **"
+	}
+	"Human . That moment of unbridled emotion ."
+	{
+		"chi"		"**人类,那一刻放纵的情绪**"
+	}
+	"It allowed me to finally fuse with my body !"
+	{
+		"chi"		"**那让我终于与身体融合**"
+	}
+	"I'm finally corporeal now ! My lifelong dream , realized !"
+	{
+		"chi"		"**我现在终于有肉体了!我毕生的梦想实现了!**"
+	}
+	"In return , I guess I won't stomp you ."
+	{
+		"chi"		"**作为回报,我不会再践踏你了**"
+	}
+	"How's that sound ?"
+	{
+		"chi"		"**这是什么声音?**"
+	}
+	"Behind you ."
+	{
+		"chi"		"**在你后面!**"
+	}
+	"..."
+	{
+		"chi"		"** **"
+	}
+	"Seven ."
+	{
+		"chi"		"**有七个..**"
+	}
+	"Seven human souls ."
+	{
+		"chi"		"**七个人类的灵魂..**"
+	}
+	"With the power of seven human souls ,"
+	{
+		"chi"		"**有了这七个人类灵魂的力量.**"
+	}
+	"King ASGORE Dreemurr ..."
+	{
+		"chi"		"** **"
+	}
+	"... will become a god ."
+	{
+		"chi"		"**它会变成神的,,**"
+	}
+	"With that power . ASGORE can finally shatter the barrier ."
+	{
+		"chi"		"**有了这份力量,他终于可以打破障碍了**"
+	}
+	"He will finally take the surface back from humanity ..."
+	{
+		"chi"		"**他终于可以从人性中恢复他本来的面目了**"
+	}
+	"And give them back the suffering and pain that we have endured ."
+	{
+		"chi"		"**把我们忍受的痛苦和痛楚还给他们**"
+	}
+	"Understand , human ?"
+	{
+		"chi"		"**懂了吗?人类?**"
+	}
+	"This is your only chance at redemption ."
+	{
+		"chi"		"**这是你救赎的唯一机会**"
+	}
+	"Give up your soul ..."
+	{
+		"chi"		"**献出你的灵魂**"
+	}
+	"Or I'll tear it from your body ."
+	{
+		"chi"		"**或我从你的身体中将它撕裂**"
+	}
+	"Undyne !!! I'll help you fight !!!"
+	{
+		"chi"		"**Undyne！我会帮你战斗！**"
+	}
+	"YO !!!!"
+	{
+		"chi"		"** **"
+	}
+	"You did it !!! Undyne is RIGHT in front of you !!!"
+	{
+		"chi"		"**你做到了!Undyne就在你面前!**"
+	}
+	"You've got front row seats to her fight !!!"
+	{
+		"chi"		"**你得到了在前排围观她战斗的机会!**"
+	}
+	"... wait ."
+	{
+		"chi"		"**等等..**"
+	}
+	"Who's she fighting ???"
+	{
+		"chi"		"**她在和谁打架?**"
+	}
+	"H-hey !"
+	{
+		"chi"		"**嘿,嘿!**"
+	}
+	"You aren't gonna tell my parents about this , are you ?"
+	{
+		"chi"		"**你不会告诉我父母这件事的对吧?**"
+	}
+	"Yo ."
+	{
+		"chi"		"** **"
+	}
+	"Undyne told me to stay away from you ."
+	{
+		"chi"		"**她告诉我要离你远点**"
+	}
+	"She said you ..."
+	{
+		"chi"		"**她说你,**"
+	}
+	"You hurt a lot of people ."
+	{
+		"chi"		"**伤害过很多人**"
+	}
+	"But , yo , that's not true , right !?"
+	{
+		"chi"		"**但是,嘿,这不是真的,对吧?**"
+	}
+	"... yo ..."
+	{
+		"chi"		"** **"
+	}
+	"Why won't you answer me ?"
+	{
+		"chi"		"**你为什么不回答我?**"
+	}
+	"A ... a ... and what's with that weird expression ... ?"
+	{
+		"chi"		"**那,那是什么奇怪的表情?**"
+	}
+	"Oh ... Oh man ..."
+	{
+		"chi"		"** **"
+	}
+	"( Man , my h-heart's pounding right out of my chest ... )"
+	{
+		"chi"		"**老兄,我的心要跳出来了**"
+	}
+	"( ... what would Undyne do ? )"
+	{
+		"chi"		"**她会怎么做?**"
+	}
+	"( ... )"
+	{
+		"chi"		"** **"
+	}
+	"Yo ..."
+	{
+		"chi"		"** **"
+	}
+	"Y-you'd b-better st-stop r-right where you are ..."
+	{
+		"chi"		"**你,最好,呆在原地..**"
+	}
+	"Cause if you w-wanna hurt anyone else ... you're ..."
+	{
+		"chi"		"**因为如果你要伤害别人,,,**"
+	}
+	"You're gonna have to get through me , first ."
+	{
+		"chi"		"**第一个一定会是我吧..**"
+	}
+	"A ... and ... and ..."
+	{
+		"chi"		"**以及,,以及,,,**"
+	}
+	"Undyne ... You're ... You're hurt ..."
+	{
+		"chi"		"**Undyne，你受伤了。**"
+	}
+	"Hurt ? It's nothing ."
+	{
+		"chi"		"**受伤？没有的事。**"
+	}
+	"Next time , listen when I tell you to leave , okay ?"
+	{
+		"chi"		"**下次，在我让你离开的时候听话，好吧？**"
+	}
+	"Undyne ... I ..."
+	{
+		"chi"		"**Undyne，我。。**"
+	}
+	"I'll take care of this !"
+	{
+		"chi"		"**我会弄好的**"
+	}
+	"Get out of here !"
+	{
+		"chi"		"**离开这里！！**"
+	}
+	"... heh ... It's nothing ..."
+	{
+		"chi"		"**没,没事的,...**"
+	}
+	"No ... s-somehow , with just one hit ..."
+	{
+		"chi"		"**不知为何,,只有一击..**"
+	}
+	"I'm already ..."
+	{
+		"chi"		"**我要...**"
+	}
+	"Already ..."
+	{
+		"chi"		"**我要。。**"
+	}
+	"D ... damn it ..."
+	{
+		"chi"		"**该死....**"
+	}
+	"Papyrus ... Alphys ... ASGORE ..."
+	{
+		"chi"		"** **"
+	}
+	"Just like that , I ..."
+	{
+		"chi"		"**就像那样，，，**"
+	}
+	"I've failed you ."
+	{
+		"chi"		"**我辜负了你们...**"
+	}
+	"No ..."
+	{
+		"chi"		"**不,,,,**"
+	}
+	"My body ... It feels like it's splitting apart ."
+	{
+		"chi"		"**我的身体，感觉要裂开了。。**"
+	}
+	"Like any instant ... I'll scatter into a million pieces ."
+	{
+		"chi"		"**就像任何瞬间,我会被分成碎片.**"
+	}
+	"But ..."
+	{
+		"chi"		"**但是,,,,,,**"
+	}
+	"Deep , deep in my soul ."
+	{
+		"chi"		"**我的灵魂深处**"
+	}
+	"There's a burning feeling I can't describe ."
+	{
+		"chi"		"**有一种像燃烧的感觉,我无法形容**"
+	}
+	"A burning feeling that WON'T let me die ."
+	{
+		"chi"		"**一个让我燃到不会让我死的感觉!**"
+	}
+	"This isn't just about monsters anymore , is it ?"
+	{
+		"chi"		"**这不再是怪物了，是吗？**"
+	}
+	"If you get past me , you'll ..."
+	{
+		"chi"		"**如果你从我身边走过，你会,,,**"
+	}
+	"You'll destroy them all , won't you ?"
+	{
+		"chi"		"**你会把他们全部摧毁的,不是吗?**"
+	}
+	"Monster ... Zombie ... Everyone ..."
+	{
+		"chi"		"**怪物，僵尸，所有人。。**"
+	}
+	"Everyone's hopes . Everyone's dreams . Vanquished in an instant ."
+	{
+		"chi"		"**所有人的希望，梦想，顷刻被击败**"
+	}
+	"But I WON'T let you do that ."
+	{
+		"chi"		"**但我不会让你那么做!**"
+	}
+	"Right now ,everyone in the world ..."
+	{
+		"chi"		"**现在，世上的每个人**"
+	}
+	"I can feel their hearts beating as one ."
+	{
+		"chi"		"**我能感受到他们每个人的心跳**"
+	}
+	"And we all have ONE goal ."
+	{
+		"chi"		"**而且,我们有着共同的目标**"
+	}
+	"To defeat YOU ."
+	{
+		"chi"		"**那就是打败你!!**"
+	}
+	"Human , No WHATEVER you are ."
+	{
+		"chi"		"**人类,无论你在哪**"
+	}
+	"For the sake of the whole world ..."
+	{
+		"chi"		"**为了全世界的利益**"
+	}
+	"I , UNDYNE , will strike you down !"
+	{
+		"chi"		"**我，UNDYNE，会将你打的满地找牙！**"
+	}
+	"You're gonna have to try a little harder than THAT ."
+	{
+		"chi"		"**你要试着用出你的全力！**"
+	}
+	"[Map] ze_Suchirifu"
+	{
+		"chi"		"** **"
+	}
+}

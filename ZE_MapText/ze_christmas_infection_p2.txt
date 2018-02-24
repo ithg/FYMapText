@@ -204,4 +204,112 @@
 	{
 		"chi"		"** **"
 	}
+	"** Tree placer has been picked up. Press +USE (E) to place a tree. **"
+	{
+		"chi"		"** **"
+	}
+	"** Zombie present placer has been picked up. Press +USE (E) to place a present. **"
+	{
+		"chi"		"** **"
+	}
+	"** An evil christmas ogre has appeared... **"
+	{
+		"chi"		"** **"
+	}
+	"** The core has been found! Take it to the boat! **"
+	{
+		"chi"		"** **"
+	}
+	"** The boat has energy again! We will be able to leave now!!! **"
+	{
+		"chi"		"** **"
+	}
+	"** Resist for 15 seconds! **"
+	{
+		"chi"		"** **"
+	}
+	"** LAST 5 SECONDS! KEEP HOLDING!!! **"
+	{
+		"chi"		"** **"
+	}
+	"** Well done! The things are now getting interesting at TOUGH mode!!! **"
+	{
+		"chi"		"** **"
+	}
+	"** CURRENT LEVEL: TOUGH **"
+	{
+		"chi"		"** **"
+	}
+	"** RESIST! There are two ways they can come from! **"
+	{
+		"chi"		"** **"
+	}
+	"** HOLD! The door is opening in 10 seconds! **"
+	{
+		"chi"		"** **"
+	}
+	"** Resist! The doors will open in 10 seconds!!! **"
+	{
+		"chi"		"** **"
+	}
+	"** RESIST FOR 20 SECONDS! Help is on the way! **"
+	{
+		"chi"		"** **"
+	}
+	"** Fall back! The hot air balloon is here!!! **"
+	{
+		"chi"		"** **"
+	}
+	"** SHOOT! Zombies can jump into the balloon!!! **"
+	{
+		"chi"		"** **"
+	}
+	"** You werent expected to get this far... GET READY FOR THE APOCALYPSE!!! **"
+	{
+		"chi"		"** **"
+	}
+	"** CURRENT LEVEL: APOCALYPSE **"
+	{
+		"chi"		"** **"
+	}
+	"** The way is locked! Open the doors pressing the buttons at the control area! **"
+	{
+		"chi"		"** **"
+	}
+	"** Systems activated! Doors opening in 10 seconds! **"
+	{
+		"chi"		"** **"
+	}
+	"** Hold! The doors will open in 15 seconds! **"
+	{
+		"chi"		"** **"
+	}
+	"** The core is being deactivated... **"
+	{
+		"chi"		"** **"
+	}
+	"** The core has become unstable! The reactor will explode!!! **"
+	{
+		"chi"		"** **"
+	}
+	"** We need to get into the safety bunker! Resist until the doors open!!! **"
+	{
+		"chi"		"** **"
+	}
+	"*** THIS IS OUR LAST STAND! Keep the zombies out of the bunker!!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** The door has locked! We need to resist until it keeps moving! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ALMOST THERE! KEEP DEFENDING!!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ZOMBIES DETECTED ON BUNKER - INVALID VICTORY ***"
+	{
+		"chi"		"** **"
+	}
 }

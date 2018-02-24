@@ -308,4 +308,80 @@
 	{
 		"chi"		"** **"
 	}
+	"**Zombie Confuse has been picked up**"
+	{
+		"chi"		"** **"
+	}
+	"**A player has picked up GRAVITY materia**"
+	{
+		"chi"		"** **"
+	}
+	"**Gi Nattak is using aspil**"
+	{
+		"chi"		"** **"
+	}
+	"**Gi Nattak has healed 150 hp**"
+	{
+		"chi"		"** **"
+	}
+	"**Gi Nattak is using gravity**"
+	{
+		"chi"		"** **"
+	}
+	"**A player has picked up EARTH materia**"
+	{
+		"chi"		"** **"
+	}
+	"**Jenova is defeated!**"
+	{
+		"chi"		"** **"
+	}
+	"**Genesis is defeated. Get back in the elevator**"
+	{
+		"chi"		"** **"
+	}
+	"[Cloud] Really do not think that he could lose that easy.. Anyways the base will explode soon."
+	{
+		"chi"		"** **"
+	}
+	"[Cloud] See you on the top evacuation point."
+	{
+		"chi"		"** **"
+	}
+	"**The power is lost. Defend until the emergency generators are on**"
+	{
+		"chi"		"** **"
+	}
+	"**We got the power. The gates will open in 15 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"** Nades do more damage. **"
+	{
+		"chi"		"** **"
+	}
+	"***Adjust the volume in your music settings or via snd_musicvolume***"
+	{
+		"chi"		"** **"
+	}
+	"** MAP MADE BY PURPZZ ** Rebuild by Skullz **"
+	{
+		"chi"		"** **"
+	}
+	"**YOU MUST TO KILL ALL THE ZOMBIES TO WIN**"
+	{
+		"chi"		"** **"
+	}
+	"[Red-XIII] Hope he will not escape this time… I afraid that we could attract extra attention.."
+	{
+		"chi"		"** **"
+	}
+	"[Cloud] Just in case.. I will bring the ship to the end of the canyon and will take you away.."
+	{
+		"chi"		"** **"
+	}
+	"Please wait 20 seconds before the door opening"
+	{
+		"chi"		"** **"
+	}
 }

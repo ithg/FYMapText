@@ -152,4 +152,20 @@
 	{
 		"chi"		"** **"
 	}
+	"*** LAST TRAIN OUT OF HERE LEAVES IN 70 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** THIS PLACE IS GOING TO BLOW UP IN 85 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** TRAIN IS LEAVING NOW ***"
+	{
+		"chi"		"** **"
+	}
+	"*** TIMES UP ***"
+	{
+		"chi"		"** **"
+	}
 }

@@ -1,0 +1,15 @@
+"Console_T"
+{
+	"Special Thanks: Airvulpes"
+	{
+		"chi"		"** **"
+	}
+	"Test Server: Possession"
+	{
+		"chi"		"** **"
+	}
+	"*** Ze_sC_Turtles By T3tra ***"
+	{
+		"chi"		"** **"
+	}
+}

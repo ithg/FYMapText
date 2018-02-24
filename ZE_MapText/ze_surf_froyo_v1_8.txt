@@ -36,4 +36,40 @@
 	{
 		"chi"		"** **"
 	}
+	"***Well!If the count of travellers is less than half,all zombies will be teleported in 60s!***"
+	{
+		"chi"		"** **"
+	}
+	"***Hold for 60s!***"
+	{
+		"chi"		"** **"
+	}
+	"***30s left!***"
+	{
+		"chi"		"** **"
+	}
+	"***5s left!***"
+	{
+		"chi"		"** **"
+	}
+	"***Hold star for 60s!***"
+	{
+		"chi"		"** **"
+	}
+	"***A traveller has picked roar crystal!***"
+	{
+		"chi"		"** **"
+	}
+	"***Zombies will come in 20s!***"
+	{
+		"chi"		"** **"
+	}
+	"*** Mapping Help Airvulpes,Kune,thas,Rukly,Shufen ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Model :Dakotec ***"
+	{
+		"chi"		"** **"
+	}
 }

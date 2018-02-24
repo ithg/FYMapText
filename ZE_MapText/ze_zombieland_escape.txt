@@ -44,4 +44,12 @@
 	{
 		"chi"		"** **"
 	}
+	"*** WARMUP ROUND (60 sec) ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Map By Nostar ***"
+	{
+		"chi"		"** **"
+	}
 }

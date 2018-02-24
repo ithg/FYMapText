@@ -48,4 +48,104 @@
 	{
 		"chi"		"** **"
 	}
+	">> The dragon is fleeing! Run to the Helgen keep! <<"
+	{
+		"chi"		"** **"
+	}
+	">> Defend until someone gets the key from the other room! <<"
+	{
+		"chi"		"** **"
+	}
+	"*** We got the key! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Door should open soon! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Door opens in 25 seconds! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** FALL BACK ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Door opens in 30 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	">> Defend the bridge don't let the zombies on the other side! <<"
+	{
+		"chi"		"** **"
+	}
+	">> Fall back Now!! <<"
+	{
+		"chi"		"** **"
+	}
+	"*** Stage Completed ***"
+	{
+		"chi"		"** **"
+	}
+	">> Stage 2 Whiterun <<"
+	{
+		"chi"		"** **"
+	}
+	">> City door opens in 35 seconds! <<"
+	{
+		"chi"		"** **"
+	}
+	">> We need to inform the Jarl of Whiterun that the dragons are attacking! <<"
+	{
+		"chi"		"** **"
+	}
+	">> We need to hold the Plains District for 40 seconds HOLD THEM BACK! <<"
+	{
+		"chi"		"** **"
+	}
+	">> Fall Back Now! <<"
+	{
+		"chi"		"** **"
+	}
+	">> Hold here for 30 seconds! <<"
+	{
+		"chi"		"** **"
+	}
+	">> Hold them back for 25 more seconds! <<"
+	{
+		"chi"		"** **"
+	}
+	">> Run for the bridge of Dragons Reach!! <<"
+	{
+		"chi"		"** **"
+	}
+	">> Defend the bridge until door opens! <<"
+	{
+		"chi"		"** **"
+	}
+	">> Dragon has been spotted outside Whiterun! <<"
+	{
+		"chi"		"** **"
+	}
+	">> Exit through the secret door! <<"
+	{
+		"chi"		"** **"
+	}
+	">> IT'S A DRAGON! <<"
+	{
+		"chi"		"** **"
+	}
+	">> SHOOT IT! <<"
+	{
+		"chi"		"** **"
+	}
+	">> THE DRAGON IS GOING TO KILL US ALL !!! <<"
+	{
+		"chi"		"** **"
+	}
+	">>>Respawn wall break in 20 sec<<<"
+	{
+		"chi"		"** **"
+	}
 }

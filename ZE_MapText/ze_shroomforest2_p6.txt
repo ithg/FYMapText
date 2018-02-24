@@ -236,4 +236,84 @@
 	{
 		"chi"		"** **"
 	}
+	"*** FLY LEAVING IN 20 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	">> OH NO!! ITS FAT SPIDER <<"
+	{
+		"chi"		"** **"
+	}
+	">> FAT SPIDER IS DEAD <<"
+	{
+		"chi"		"** **"
+	}
+	"*** FLY LEAVING IN 30 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	">> ZOMBIE CLOUD HAS BEEN PICKED UP <<"
+	{
+		"chi"		"** **"
+	}
+	"*** GATE OPENING IN 30 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	">> FALL BACK <<"
+	{
+		"chi"		"** **"
+	}
+	">> OH NO!! ITS FALLEN ANGEL <<"
+	{
+		"chi"		"** **"
+	}
+	">> FALLEN ANGEL HAS BEEN DEFEATED !!! <<"
+	{
+		"chi"		"** **"
+	}
+	">> LET THE ANGELS ESCAPE FIRST <<"
+	{
+		"chi"		"** **"
+	}
+	">> CONTINUE TO DEFEND <<"
+	{
+		"chi"		"** **"
+	}
+	">> THE LAST ANGEL IS OUT <<"
+	{
+		"chi"		"** **"
+	}
+	"*** BUTTERFLY LEAVING IN 30 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** BUTTERFLY IS DEAD !!!! DEFEND LONGER !!!! ***"
+	{
+		"chi"		"** **"
+	}
+	">> THE ANGELS GOT THE RESCUE PLANK BACK <<"
+	{
+		"chi"		"** **"
+	}
+	">> FALL BACK !!! <<"
+	{
+		"chi"		"** **"
+	}
+	">> THEY WILL TELEPORT US OUT <<"
+	{
+		"chi"		"** **"
+	}
+	">> IS THIS SATAN WORK.... <<"
+	{
+		"chi"		"** **"
+	}
+	">> TELEPORTING ZOMBIES <<"
+	{
+		"chi"		"** **"
+	}
+	"ESCAPE FROM ZOMBIELAND"
+	{
+		"chi"		"** **"
+	}
 }

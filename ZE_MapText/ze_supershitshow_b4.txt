@@ -344,4 +344,132 @@
 	{
 		"chi"		"** **"
 	}
+	"** MODE: LOW GRAVITY **"
+	{
+		"chi"		"** **"
+	}
+	"** You suddenly feel weightless -- like an eagle's feather! **"
+	{
+		"chi"		"** **"
+	}
+	"** MODE: VS. RUN **"
+	{
+		"chi"		"** **"
+	}
+	"** Each team gets an item! Pray for some good luck! **"
+	{
+		"chi"		"** **"
+	}
+	"** HUMANS GET... **"
+	{
+		"chi"		"** **"
+	}
+	"** VACATIONING CHICKENS! **"
+	{
+		"chi"		"** **"
+	}
+	"** ZOMBIES GET... **"
+	{
+		"chi"		"** **"
+	}
+	"** STOPPERS! **"
+	{
+		"chi"		"** **"
+	}
+	"** MODE: WHITE CHOCOLATE **"
+	{
+		"chi"		"** **"
+	}
+	"** Everything is covered by a whole lotta nothing in the end. **"
+	{
+		"chi"		"** **"
+	}
+	"** MODE: EXTREME **"
+	{
+		"chi"		"** **"
+	}
+	"** TRUCKEORS! ALL ZOMBIE ITEMS! LAVA! BLOOD IN YOUR EYES! **"
+	{
+		"chi"		"** **"
+	}
+	"** KAMIKAZE HAS BEEN PICKED UP! **"
+	{
+		"chi"		"** **"
+	}
+	"** Total darkness! Nobody sees a thing for 5 seconds! **"
+	{
+		"chi"		"** **"
+	}
+	"** WALL HAS BEEN PICKED UP! **"
+	{
+		"chi"		"** **"
+	}
+	"** Stoned zombies! Zombies can't move for 4 seconds! **"
+	{
+		"chi"		"** **"
+	}
+	"** CHOPPER FUEL HAS RAN OUT! **"
+	{
+		"chi"		"** **"
+	}
+	"** CARTOON WEIGHTS ARE BECOMING REAL! **"
+	{
+		"chi"		"** **"
+	}
+	"** MODE: CARNIVAL **"
+	{
+		"chi"		"** **"
+	}
+	"** Extra choppers spawn! Weird characters! Extra messy! **"
+	{
+		"chi"		"** **"
+	}
+	"** Plump booties! Gravity becomes higher for 4 seconds! **"
+	{
+		"chi"		"** **"
+	}
+	"** MODE: DEATH PENALTY **"
+	{
+		"chi"		"** **"
+	}
+	"** You slowly lose your health! Shoot zombies to refill your health! **"
+	{
+		"chi"		"** **"
+	}
+	"*** ZOMBIE JUMPER HAS BEEN PICKED UP ***"
+	{
+		"chi"		"** **"
+	}
+	"** TOUCHY! Humans drop whatever they are carrying! **"
+	{
+		"chi"		"** **"
+	}
+	"** Coked up! Humans run faster for 6 seconds! **"
+	{
+		"chi"		"** **"
+	}
+	"*** ZOMBIE LADDER HAS BEEN PICKED UP! ***"
+	{
+		"chi"		"** **"
+	}
+	"** GREENPEACE BOMBS! **"
+	{
+		"chi"		"** **"
+	}
+	"** KAMIKAZES! **"
+	{
+		"chi"		"** **"
+	}
+	"** GREENPEACE BOMB HAS BEEN PICKED UP! **"
+	{
+		"chi"		"** **"
+	}
+	"** LAMP OF GOD HAS BEEN PICKED UP! **"
+	{
+		"chi"		"** **"
+	}
+	"** WINDBLOWER HAS BEEN PICKED UP! **"
+	{
+		"chi"		"** **"
+	}
 }

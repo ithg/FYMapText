@@ -136,4 +136,28 @@
 	{
 		"chi"		"** **"
 	}
+	"***ADMIN ENABLE ADDON MODE [LOW FRICTION]***"
+	{
+		"chi"		"** **"
+	}
+	"**Stage 1**"
+	{
+		"chi"		"** **"
+	}
+	"[MUSIC] The Prodigy - Omen"
+	{
+		"chi"		"** **"
+	}
+	"[MUSIC] Jim Yosef - Firefly"
+	{
+		"chi"		"** **"
+	}
+	"[MUSIC] XI - Anima"
+	{
+		"chi"		"** **"
+	}
+	"[MUSIC] xi + nora2r - Dreadnought"
+	{
+		"chi"		"** **"
+	}
 }

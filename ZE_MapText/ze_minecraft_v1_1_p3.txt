@@ -172,4 +172,44 @@
 	{
 		"chi"		"** **"
 	}
+	"***ALL MATERIALS FOR DIAMOND SWORD HAVE BEEN FOUND***"
+	{
+		"chi"		"** **"
+	}
+	"***PRESS use ON THE WORKBENCH AT THE TNT HOLD POINT***"
+	{
+		"chi"		"** **"
+	}
+	"***THIS WILL CRAFT THE SWORD***"
+	{
+		"chi"		"** **"
+	}
+	"***THE SWORD HAS BEEN PICKED UP***"
+	{
+		"chi"		"** **"
+	}
+	"***SWORD READY***"
+	{
+		"chi"		"** **"
+	}
+	"***CREEPER HEAD HAS BEEN PICKED UP***"
+	{
+		"chi"		"** **"
+	}
+	"***TROLL FACE HAS BEEN PICKED UP***"
+	{
+		"chi"		"** **"
+	}
+	"***YOU BE TROLL'IN***"
+	{
+		"chi"		"** **"
+	}
+	"***THE BOW HAS BEEN PICKED UP***"
+	{
+		"chi"		"** **"
+	}
+	"[NORMAL MODE]"
+	{
+		"chi"		"** **"
+	}
 }

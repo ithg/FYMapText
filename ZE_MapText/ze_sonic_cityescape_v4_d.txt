@@ -56,4 +56,12 @@
 	{
 		"chi"		"** **"
 	}
+	"** ZE FFXII PARAMINA RIFT **"
+	{
+		"chi"		"** **"
+	}
+	"***Map by Reflelia***"
+	{
+		"chi"		"** **"
+	}
 }

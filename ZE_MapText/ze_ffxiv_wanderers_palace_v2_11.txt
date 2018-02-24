@@ -1,0 +1,435 @@
+"Console_T"
+{
+	"***5 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***Location: The Wanderer's Palace***"
+	{
+		"chi"		"** **"
+	}
+	"***Level:Normal"
+	{
+		"chi"		"** **"
+	}
+	"***Look for Nymian Device***"
+	{
+		"chi"		"** **"
+	}
+	"***A player found Nymian Device***"
+	{
+		"chi"		"** **"
+	}
+	"***20 seconds to Activate Nymian Device***"
+	{
+		"chi"		"** **"
+	}
+	"*** 5 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Break Fence***"
+	{
+		"chi"		"** **"
+	}
+	"***10 seconds to Activate Nymian Device***"
+	{
+		"chi"		"** **"
+	}
+	"***Wait for 20 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"***Door opened***"
+	{
+		"chi"		"** **"
+	}
+	"***Door close 10 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Enkidu appered***"
+	{
+		"chi"		"** **"
+	}
+	"***Keep shooting Enkidu***"
+	{
+		"chi"		"** **"
+	}
+	"***Enkidu died***"
+	{
+		"chi"		"** **"
+	}
+	"***15 seconds to Active Nymian Device***"
+	{
+		"chi"		"** **"
+	}
+	"***Look for RED,YELLOW,GREEN Nymian Devices***"
+	{
+		"chi"		"** **"
+	}
+	"***Activated RED Nymian Device***"
+	{
+		"chi"		"** **"
+	}
+	"***Activated GREEN Nymian Device***"
+	{
+		"chi"		"** **"
+	}
+	"***Activated YELLOW Nymian Device***"
+	{
+		"chi"		"** **"
+	}
+	"***10 seconds to Active Nymian Device***"
+	{
+		"chi"		"** **"
+	}
+	"***20 seconds to Activate Escape Elevator***"
+	{
+		"chi"		"** **"
+	}
+	"***Congratulations***"
+	{
+		"chi"		"** **"
+	}
+	"***Next Level Savage***"
+	{
+		"chi"		"** **"
+	}
+	"***Map made by Altima***"
+	{
+		"chi"		"** **"
+	}
+	"***Level:Savage"
+	{
+		"chi"		"** **"
+	}
+	"***Wait for 20 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***10 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Wait for 30 seconds"
+	{
+		"chi"		"** **"
+	}
+	"***Hold this position 35 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Teleporter Activate***"
+	{
+		"chi"		"** **"
+	}
+	"***Location:The Binding Coil of Bahamut***"
+	{
+		"chi"		"** **"
+	}
+	"***Found Intruders!!!!!!!***"
+	{
+		"chi"		"** **"
+	}
+	"***ADS........Activated***"
+	{
+		"chi"		"** **"
+	}
+	"***ADS appeared***"
+	{
+		"chi"		"** **"
+	}
+	"***Keep shooting to ADS***"
+	{
+		"chi"		"** **"
+	}
+	"***ADS is selecting now...***"
+	{
+		"chi"		"** **"
+	}
+	"*** Heavens Fall***"
+	{
+		"chi"		"** **"
+	}
+	"*** Cauterize***"
+	{
+		"chi"		"** **"
+	}
+	"***ADS died***"
+	{
+		"chi"		"** **"
+	}
+	"***45 seconds to MAP CLEAR***"
+	{
+		"chi"		"** **"
+	}
+	"***Human Killer ON***"
+	{
+		"chi"		"** **"
+	}
+	"***Gravity ON***"
+	{
+		"chi"		"** **"
+	}
+	"***STAGE CLEAR***"
+	{
+		"chi"		"** **"
+	}
+	"***Texture Support by fujione***"
+	{
+		"chi"		"** **"
+	}
+	"***Next Level A Realm Reborn***"
+	{
+		"chi"		"** **"
+	}
+	"***Skill Unlocked***"
+	{
+		"chi"		"** **"
+	}
+	"***Level:A Realm Reborn***"
+	{
+		"chi"		"** **"
+	}
+	"***A player picked up Black Mage Flare***"
+	{
+		"chi"		"** **"
+	}
+	"***A player picked up Summoner Shadow Flare***"
+	{
+		"chi"		"** **"
+	}
+	"***Recast 55s***"
+	{
+		"chi"		"** **"
+	}
+	"***Recast 60s***"
+	{
+		"chi"		"** **"
+	}
+	"***Wait for 30 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***A player picked up Paladin Shield Oath"
+	{
+		"chi"		"** **"
+	}
+	"***Recast 80s***"
+	{
+		"chi"		"** **"
+	}
+	"***A player picked up Mount Night Mare***"
+	{
+		"chi"		"** **"
+	}
+	"***Recast 50s***"
+	{
+		"chi"		"** **"
+	}
+	"***30 seconds to Active Nymian Device***"
+	{
+		"chi"		"** **"
+	}
+	"***Hold this position 20 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Hold this position 60 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Heavens Fall***"
+	{
+		"chi"		"** **"
+	}
+	"***Go to the Escape Elevator Tower***"
+	{
+		"chi"		"** **"
+	}
+	"***20 seconds to Active Nymian Device***"
+	{
+		"chi"		"** **"
+	}
+	"***30 seconds to Activate Escape Elevator***"
+	{
+		"chi"		"** **"
+	}
+	"***3***"
+	{
+		"chi"		"** **"
+	}
+	"***2***"
+	{
+		"chi"		"** **"
+	}
+	"***1***"
+	{
+		"chi"		"** **"
+	}
+	"***Ravana Used Stop***"
+	{
+		"chi"		"** **"
+	}
+	"***Next Level:Heavens Ward***"
+	{
+		"chi"		"** **"
+	}
+	"***Level:Heavens Ward***"
+	{
+		"chi"		"** **"
+	}
+	"***Hold this position 40 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***20 seconds to Activate Elevator"
+	{
+		"chi"		"** **"
+	}
+	"***30 seconds to Activate Elevator***"
+	{
+		"chi"		"** **"
+	}
+	"***30 seconds to Break Wall***"
+	{
+		"chi"		"** **"
+	}
+	"***40 seconds to Activate Telepoter"
+	{
+		"chi"		"** **"
+	}
+	"***A player picked up White Mage Benediction***"
+	{
+		"chi"		"** **"
+	}
+	"***Recast 90s***"
+	{
+		"chi"		"** **"
+	}
+	"***Bahamut Prime appeared***"
+	{
+		"chi"		"** **"
+	}
+	"***Bahamut Prime has casting now***"
+	{
+		"chi"		"** **"
+	}
+	"***Akh Morn***"
+	{
+		"chi"		"** **"
+	}
+	"*** 3 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 2 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 1 ***"
+	{
+		"chi"		"** **"
+	}
+	"***Tempest Wing***"
+	{
+		"chi"		"** **"
+	}
+	"***A player picked up Bird Armys Paeon***"
+	{
+		"chi"		"** **"
+	}
+	"***Flare***"
+	{
+		"chi"		"** **"
+	}
+	"***Earth Shaker***"
+	{
+		"chi"		"** **"
+	}
+	"***Bahamut Prime died***"
+	{
+		"chi"		"** **"
+	}
+	"***Go to the Escape Elevator***"
+	{
+		"chi"		"** **"
+	}
+	"***Elevator Gravity ON***"
+	{
+		"chi"		"** **"
+	}
+	"***Hold this position to 30 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Jump!***"
+	{
+		"chi"		"** **"
+	}
+	"***Nael Van Durnas appeared***"
+	{
+		"chi"		"** **"
+	}
+	"***KILL HER***"
+	{
+		"chi"		"** **"
+	}
+	"***Nael Van Darnus DIED***"
+	{
+		"chi"		"** **"
+	}
+	"***GO GO GO GO***"
+	{
+		"chi"		"** **"
+	}
+	"***The Wanderer's Palace Clear to 10 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***The Wanderer's Palace Clear...?***"
+	{
+		"chi"		"** **"
+	}
+	"***ADS Attack***"
+	{
+		"chi"		"** **"
+	}
+	"***shoot ADS and Zombies***"
+	{
+		"chi"		"** **"
+	}
+	"***I will kill you guys***"
+	{
+		"chi"		"** **"
+	}
+	"***Savage Nael appeared ***"
+	{
+		"chi"		"** **"
+	}
+	"***Dogde Last Lasers***"
+	{
+		"chi"		"** **"
+	}
+	"*** Electro***"
+	{
+		"chi"		"** **"
+	}
+	"***The Wanderer's Palace CLEAR***"
+	{
+		"chi"		"** **"
+	}
+	"***Level:Secret Type-0***"
+	{
+		"chi"		"** **"
+	}
+	"***Hold this position to 70 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***The Wanderer's Palace Clear to 20 seconds***"
+	{
+		"chi"		"** **"
+	}
+}

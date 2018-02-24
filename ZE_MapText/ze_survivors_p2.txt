@@ -1,0 +1,19 @@
+"Console_T"
+{
+	"<!!!> MAP BY JB_GAMBLE <!!!>"
+	{
+		"chi"		"** **"
+	}
+	"<!!!> COLD MOUNTAIN <!!!>"
+	{
+		"chi"		"** **"
+	}
+	"<!!!> THE COLD HURTS <!!!>"
+	{
+		"chi"		"** **"
+	}
+	"<!!!> WARMTH HEALS <!!!>"
+	{
+		"chi"		"** **"
+	}
+}
